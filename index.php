@@ -55,25 +55,55 @@
     crossorigin="anonymous"></script>
     <script>
         (function() {
-        
-        let mX, mY
 
-        function calculateDistance(elem, mouseX, mouseY) {
-            return Math.floor(Math.sqrt(Math.pow(mouseX - (elem.offset().left+(elem.width()/2)), 2) + Math.pow(mouseY - (elem.offset().top+(elem.height()/2)), 2)));
-        }
+            var xMousePos = 0;
+            var yMousePos = 0;
+            var lastScrolledLeft = 0;
+            var lastScrolledTop = 0;
 
-        $(document).mousemove(function(e) {  
-            mX = e.pageX;
-            mY = e.pageY;
+            $(document).mousemove(function(event) {
+                captureMousePosition(event);
+                updateFonts()
+            })  
 
-            $("*[min-weight]").each(function(){
-                distance = calculateDistance($(this), mX, mY);
-                const fontWeight = $(this).attr('max-weight') - (distance/2)
-                $(this).css({
-                    fontWeight,
+                $(window).scroll(function(event) {
+                    if(lastScrolledLeft != $(document).scrollLeft()){
+                        xMousePos -= lastScrolledLeft;
+                        lastScrolledLeft = $(document).scrollLeft();
+                        xMousePos += lastScrolledLeft;
+                    }
+                    if(lastScrolledTop != $(document).scrollTop()){
+                        yMousePos -= lastScrolledTop;
+                        lastScrolledTop = $(document).scrollTop();
+                        yMousePos += lastScrolledTop;
+                    }
+                    updateFonts()
+                });
+
+                function captureMousePosition(event){
+                    xMousePos = event.pageX;
+                    yMousePos = event.pageY;
+                }
+
+                function updateFonts() {
+                    $("*[min-weight]").each(function(){
+                    distance = calculateDistance($(this), xMousePos, yMousePos);
+                    const fontWeight = $(this).attr('max-weight') - (distance/2)
+                    $(this).css({
+                        fontWeight,
+                    })
                 })
-            })
-        });
+                }
+                
+            
+            //--
+            
+            let mX, mY
+
+            function calculateDistance(elem, mouseX, mouseY) {
+                return Math.floor(Math.sqrt(Math.pow(mouseX - (elem.offset().left+(elem.width()/2)), 2) + Math.pow(mouseY - (elem.offset().top+(elem.height()/2)), 2)));
+            }
+
 
         $(document).scroll(function(){
             const scrollTop = $(document).scrollTop()
