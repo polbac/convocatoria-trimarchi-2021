@@ -214,3 +214,76 @@ img.jurado {
 .bloque.tres h2.subtitulo {
     height: 6.5vw;
 }
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    border-top: 2px solid black;
+    padding-top: 20px;
+}
+
+footer .footer-brand-domestica img{
+    position: relative;
+    top: -6px;
+}
+
+footer .menu{
+    margin-left: 20px;
+    display: flex;
+    flex: 1;
+}
+
+footer .menu a{
+    font-weight: 600;
+}
+
+footer .go-to-top{
+    color: #bbb0b0;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+footer .menu div{
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+footer .footer-icon img{
+    width: 10vw;
+    position: relative;
+    top: -11px;
+    left: 20px;
+}
+
+footer .footer-icon{
+    position: relative;
+    top: -46px;
+    margin-right: 40px;
+}
+
+@media (max-width: 768px) {
+    footer{
+        flex-direction: column;
+    }
+    footer nav.menu a{
+        font-size: 1rem;
+    }
+
+    footer .menu{
+        flex-direction: column;
+    }
+    footer .menu div{
+        margin-right: 0;
+        margin-bottom: 40px;
+    }
+    footer .footer-icon img{
+        width: 50vw;
+    }
+    footer > nav,
+    footer > div{
+        margin: auto !important;
+        margin-bottom: 50px !important;
+        position: static !important;
+    }
+}

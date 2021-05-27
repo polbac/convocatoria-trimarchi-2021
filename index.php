@@ -9,23 +9,23 @@
 </head>
 
 <body>
-    <div class="menubar">
+    <div class="menubar" id="top">
         <header>
             <img class="domestika" src="domestika-logo.svg"/>
             <nav class="menu">
-                <a href="#" class="menu-item">CONVOCATORIA</a>
-                <a href="#" class="menu-item">CATEGORÍAS+ESTÍMULOS</a>
-                <a href="#" class="menu-item">INSCRIPCIÓN</a>
-                <a href="#" class="menu-item">JURADO</a>
-                <a href="#" class="menu-item">QUIENES SOMOS</a>
-                <a href="#" class="menu-item">F.A.Q</a>
+                <a href="#convocation" class="menu-item">CONVOCATORIA</a>
+                <a href="#categorias" class="menu-item">CATEGORÍAS+ESTÍMULOS</a>
+                <a href="#inscripcion" class="menu-item">INSCRIPCIÓN</a>
+                <a href="#jurado class" class="menu-item">JURADO</a>
+                <a href="#quienes-somos" class="menu-item">QUIENES SOMOS</a>
+                <a href="#faq" class="menu-item">F.A.Q</a>
             </nav>
             <img class="tmdg"src="tmdg-logo.svg"/>
         </header>
     </div>
 
     <div class="bloque uno" color="#ffffff">
-        <p class="destacado" min-weight="300" max-weight="500">
+        <p class="destacado" min-weight="300" max-weight="840">
             Junto a DOMESTIKA lanzamos la
         </p>
         <h1 class="titulo">
@@ -68,7 +68,7 @@
 
             $("*[min-weight]").each(function(){
                 distance = calculateDistance($(this), mX, mY);
-                const fontWeight = $(this).attr('max-weight') - distance
+                const fontWeight = $(this).attr('max-weight') - (distance/2)
                 $(this).css({
                     fontWeight,
                 })
@@ -580,6 +580,41 @@
         </div>
 
     </div>
+    <footer>
+        <div class="footer-brand-domestica">
+            <img width="160" class="domestika" src="domestika-logo.svg"/>
+            <img width="111" class="domestika" src="tmdg-logo.svg"/>
+        </div>
+
+        <nav class="menu">
+            <div>
+                <a href="#convocation" class="menu-item">CONVOCATORIA</a>
+                <a href="#categorias" class="menu-item">CATEGORÍAS+ESTÍMULOS</a>
+                <a href="#jurado" class="menu-item">JURADO</a>
+            </div>
+
+            <div>
+                <a href="#inscripcion" class="menu-item">INSCRIPCIÓN</a>
+                <a href="#quienes-somos" class="menu-item">QUIENES SOMOS</a>
+                <a href="#faq" class="menu-item">F.A.Q</a>
+            </div>
+
+            <div>
+                <a href="mailto:info@trimarchidg.net">INFO@TRIMARCHIDG.NET</a>
+                <a target="_blank" href="https://instagram.com/trimarchidg">IG/TRIMARCHIDG</a>
+                <a target="_blank" href="https://instagram.com/domestika">IG/DOMESTIKA</a>
+            </div>
+
+        </nav>
+
+        <div class="footer-icon">
+            <a href="#top" class='go-to-top'>
+                (Go to top)<br/>
+                <img src="assets/top.svg" />
+            </a>
+        </div>
+
+    </footer>
 
 </body>
 
