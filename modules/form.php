@@ -8,7 +8,7 @@ $countriesAndCities = file_get_contents('countries.min.json');
 </script>
 
 <form name="register-form" class="egister-form">
-    <h2 class="big-title">INSCRIPCIÓN</h2>
+    <h1 class="titulo">INSCRIPCIÓN</h2>
     
 
     <p class="big-title-2">

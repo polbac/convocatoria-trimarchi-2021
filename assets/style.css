@@ -1,13 +1,161 @@
-html,body{
+body{
     margin: 0;
     padding: 0;
     font-family: 'Rubik', Arial, Helvetica, sans-serif;
-    font-weight: 500;
     font-size: 23px;
+    padding: 1.5vw 3vw;
+    -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-rendering: optimizeLegibility;
 }
 
 *{
-    box-sizing: border-box;
+    /*box-sizing: border-box;*/
     padding: 0;
     margin: 0;
+}
+
+.menubar {
+    position: absolute;
+    width: 93.9vw;
+    /*
+    height: 4vw;
+    position: fixed;
+    top: 0;
+    padding-top:1.4vw;
+    border: 1px solid red;
+    */
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+}
+
+header img {
+    
+}
+
+header img.domestika {
+    height: 1.6vw;
+}
+
+header img.tmdg {
+    height: 1.2vw;
+}
+
+header img.tmdg {
+    height: 1.2vw;
+    padding: 0;
+}
+
+nav.menu a {
+    font-size: 1.1vw;
+    font-weight: medium;
+    color: black;
+    margin: 0 .5vw;
+    text-decoration: none;
+}
+
+h1 {
+    display: block;
+    font-size: auto;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    font-weight: inherit;
+}
+
+h1.titulo {
+    margin: 1.2vw 0;
+    font-size: 11.6vw;
+    font-weight: 840;
+    text-align: center;
+    line-height: 0.75;
+    letter-spacing: -1.75vw;
+}
+
+h2 {
+    display: block;
+    font-size: auto;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    font-weight: inherit;
+}
+
+h2.subtitulo {
+    margin: 1.2vw 0;
+    font-size: 4.2vw;
+    font-weight: 840;
+    text-align: center;
+    line-height: 0.8;
+    letter-spacing: -0.6vw;
+}
+
+p {
+    display: block;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+
+p.destacado {
+    font-size: 2.5vw;
+    font-weight: 840;
+    text-align: center;
+    line-height: .9;
+    letter-spacing: -0.2vw;
+}
+
+p.texto {
+    font-size: 1.2vw;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.1;
+    /*letter-spacing: -0.2vw;*/
+}
+
+.bloque {
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+    padding-bottom: 7.5vw;
+    border-bottom: 2px solid black;
+}
+
+.bloque.uno {
+    /*height: 70.5vh;*/
+
+}
+
+.bloque.uno img.animacion {
+    position: absolute;
+    width: 20vw;
+    height: auto;
+    right: 5vw;
+    margin-top:-19vw;
+}
+
+.columnas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0;
+}
+
+.columna {
+    width: 30%;
+    margin-top: 5vw;
+}
+
+.columna img {
+    width: 75%;
+    margin-left: 12.5%;
 }
