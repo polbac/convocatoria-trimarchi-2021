@@ -60,6 +60,26 @@
                     comunidad sobre tu carrera, proyectos y experiencias,
                     inscribite en esta categoría y participa por:
                 </p>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                        Ser contratado* para brindar una charla en el encuentro virtual
+                        de cierre de la Convocatoria TRImarchi 2021. <a href="#">*Ver bases legales</a>
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                        Tener un encuentro directo con...<br />donde hará una review de tu porfolio.
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="cronometro-verde.svg"/>
+                    <p class="texto">
+                        Quedan<br />
+                        <contador>30 Dias, 23h, 59min</contador><br />
+                    </p>
+                </div>
             </div>
 
             <div class="columna">
@@ -76,6 +96,33 @@
                     si tenés en mente una obra artística para desarrollar y exponer,
                     inscribite en esta categoría y participa por:
                 </p>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                        Obtener un incentivo económico de<br />
+                        U$S 3.000para desarrollar tu obra
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                    Contar con la asesoría de <span>DIANA AIZEMBERG</span> durante el proceso
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                        Exhibir tu obra en el Museo MAR<br />
+                        en Mar del Plata
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="cronometro-verde.svg"/>
+                    <p class="texto">
+                        Quedan<br />
+                        <contador>30 Dias, 23h, 59min</contador><br />
+                    </p>
+                </div>
             </div>
 
             <div class="columna">
@@ -91,6 +138,20 @@
                     y querés compartir lo que sabés, anotate en esta categoría
                     para participar por la posibilidad de:
                 </p>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                    Tener tu propio curso en<br />
+                    <span>DOMESTIKA</span>
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="cronometro-verde.svg"/>
+                    <p class="texto">
+                        Quedan<br />
+                        <contador>30 Dias, 23h, 59min</contador><br />
+                    </p>
+                </div>
             </div>
 
             <div class="columna">
@@ -105,6 +166,30 @@
                     Éste es tu lugar dentro de la convocatoria. Inscribite en
                     esta categoría para:
                 </p>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                        Obtener un incentivo económico de<br />
+                        U$S 2.000 para desarrollar o impulsar<br />
+                        tu proyecto
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                        Tener una serie de encuentros con<br />
+                        <span>DAVID MENDEZ ALONSO</span> (Outsider<br />
+                        Division), para que te oriente y ofrezca<br />
+                        sus consejos.
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="cronometro-verde.svg"/>
+                    <p class="texto">
+                        Quedan<br />
+                        <contador>30 Dias, 23h, 59min</contador><br />
+                    </p>
+                </div>
             </div>
 
             <div class="columna">
@@ -119,6 +204,31 @@
                     o el arte al que querés hacer crecer, este es tu lugar
                     dentro de la convocatoria. Anotate acá para:
                 </p>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                        Obtener un incentivo económico de<br />
+                        U$S 2.000 para desarrollar o impulsar<br />
+                        tu proyecto.
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                        Tener una serie de encuentros con <span>VIK<br />
+                        ARRIETA</span> (Monoblock), para que te<br />
+                        ayude a encontrar el mejor camino<br />
+                        para tu iniciativa.
+                    </p>
+                </div>
+                
+                <div class="item">
+                    <img src="cronometro-verde.svg"/>
+                    <p class="texto">
+                    Quedan<br />
+                    <contador>30 Dias, 23h, 59min</contador><br />
+                    </p>
+                </div>
             </div>
 
             <div class="columna">
@@ -133,6 +243,44 @@
                     esta oportunidad. Compartinos una canción de tu autoría
                     y si sos elegido:
                 </p>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                        Financiamos la grabación de un simple<br />
+                        en un estudio de primer nivel.
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                        Filmamos el videoclip de tu simple,<br />
+                        con un director seleccionado de la<br />
+                        sección <span>VIDEOCLIP</span>, acompañado por<br />
+                        <span>ORCO VIDEOS</span>.
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                        Conversá con <span>CA7RIEL</span> para que te<br />
+                        tire info única.
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                        Diseñamos la portada de tu simple,<br />
+                        con el participante seleccionado de la<br />
+                        sección <span>PORTADA</span>.
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="cronometro-verde.svg"/>
+                    <p class="texto">
+                        Quedan<br />
+                        <contador>30 Dias, 23h, 59min</contador><br />
+                    </p>
+                </div>
             </div>
 
             <div class="columna">
@@ -146,6 +294,21 @@
                     En esta categoría buscamos personas que quieran dirigir
                     un videoclip. Inscribite y participá por:
                 </p>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                        Ser contratado* para dirigir un video-<br />
+                        clip producido íntegramente <span>ORCO<br />
+                        VIDEOS</span>. <a href="">*Ver bases legales</a>
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="cronometro-verde.svg"/>
+                    <p class="texto">
+                        Quedan<br />
+                        <contador>30 Dias, 23h, 59min</contador><br />
+                    </p>
+                </div>
             </div>
 
             <div class="columna">
@@ -159,6 +322,21 @@
                     En esta categoría unimos muchas cosas que amamos:
                     diseño, ilustración, tipografía, música, etc. Inscribite para:
                 </p>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                    Ser contratado* para diseñar la portada<br />
+                    del simple de la banda seleccionada<br />
+                    en esta Convocatoria. <a href="">*Ver bases legales</a>
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="cronometro-verde.svg"/>
+                    <p class="texto">
+                        Quedan<br />
+                        <contador>30 Dias, 23h, 59min</contador><br />
+                    </p>
+                </div>
             </div>
 
             <div class="columna">
@@ -177,6 +355,13 @@
                     inscribirse si querés formar parte del colectivo TRImarchi, pero no
                     duermas, porque hay proyectos que comienzan muy pronto.
                 </p>
+                <div class="item">
+                    <img src="cronometro-verde.svg"/>
+                    <p class="texto">
+                    Quedan<br />
+                    <contador>30 Dias, 23h, 59min</contador><br />
+                    </p>
+                </div>
             </div>
         
         </div>

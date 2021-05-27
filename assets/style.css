@@ -58,6 +58,11 @@ nav.menu a {
     color: black;
     margin: 0 .5vw;
     text-decoration: none;
+    transition: font-weight .2s;
+}
+
+nav.menu a:hover {
+    font-weight: 840;
 }
 
 h1 {
@@ -71,7 +76,7 @@ h1 {
 }
 
 h1.titulo {
-    margin: 1.2vw 0;
+    margin: 1.75vw 0;
     font-size: 11.6vw;
     font-weight: 840;
     text-align: center;
@@ -122,9 +127,13 @@ p.texto {
     /*letter-spacing: -0.2vw;*/
 }
 
+p.texto span {
+    font-weight: 840;
+}
+
 .bloque {
-    margin-top: 5vw;
-    margin-bottom: 5vw;
+    margin-top: 6vw;
+    margin-bottom: 6vw;
     padding-bottom: 7.5vw;
     border-bottom: 2px solid black;
 }
@@ -152,10 +161,33 @@ p.texto {
 
 .columna {
     width: 30%;
-    margin-top: 5vw;
+    margin-top: 6vw;
 }
 
-.columna img {
+.check-categoria img {
     width: 75%;
     margin-left: 12.5%;
+}
+
+.item {
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    flex: 1;
+    justify-content: left;
+    align-items: flex-start;
+    margin-top: 2vw;
+}
+
+.item img {
+    width: 2vw;
+    height: auto;
+    padding-right: .5vw;
+}
+
+.item a {
+    font-size: .75vw;
+    font-weight: 400 !important;
+    text-decoration: none;
+    color: black;
 }
