@@ -7,6 +7,8 @@ body{
     -webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	text-rendering: optimizeLegibility;
+
+    transition: background-color 2s;
 }
 
 *{
@@ -27,12 +29,23 @@ body{
     */
 }
 
+*[min-weight]{
+    transition: font-weight 0.2s;
+}
 
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 0;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+}
+
+nav.menu a:hover{
+    font-weight: 600;
 }
 
 header img {
