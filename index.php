@@ -15,6 +15,7 @@
             <nav class="menu">
                 <a href="#" class="menu-item">CONVOCATORIA</a>
                 <a href="#" class="menu-item">CATEGORÍAS+ESTÍMULOS</a>
+                <a href="#" class="menu-item">INSCRIPCIÓN</a>
                 <a href="#" class="menu-item">JURADO</a>
                 <a href="#" class="menu-item">QUIENES SOMOS</a>
                 <a href="#" class="menu-item">F.A.Q</a>
@@ -417,8 +418,167 @@
         </div>
     </div>
 
-    <div class="bloque tres" color="#5670ef">
+    <div class="bloque tres" color="#">
+        <h1 class="titulo">
+            JURADOS
+        </h1>
+        <div class="columnas">
+
+            <div class="columna">
+                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <h2 class="subtitulo">
+                    BRAULIO<br />AMADO
+                </h2>
+                <p class="texto">
+                Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
+                sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
+                magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
+                sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+                eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                </p>
+            </div>
+
+            <div class="columna">
+                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <h2 class="subtitulo">
+                    DIANA<br />AIZEMBERG
+                </h2>
+                <p class="texto">
+                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
+                    sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
+                    magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
+                    sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+                    eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                </p>
+            </div>
+
+            <div class="columna">
+                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <h2 class="subtitulo">
+                    SOFIE
+                </h2>
+                <p class="texto">
+                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
+                    sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
+                    magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
+                    sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+                    eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                </p>
+            </div>
+
+            <div class="columna">
+                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <h2 class="subtitulo">
+                    CA7RIEL
+                </h2>
+                <p class="texto">
+                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
+                    sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
+                    magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
+                    sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+                    eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                </p>
+            </div>
+
+            <div class="columna">
+                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <h2 class="subtitulo">
+                    MONOBLOCK
+                </h2>
+                <p class="texto">
+                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
+                    sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
+                    magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
+                    sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+                    eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                </p>
+            </div>
+
+            <div class="columna">
+                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <h2 class="subtitulo">
+                    DAVID MÉNDEZ<br />ALONSO
+                </h2>
+                <p class="texto">
+                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
+                    sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
+                    magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
+                    sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+                    eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                </p>
+            </div>
+
+            <div class="columna">
+                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <h2 class="subtitulo">
+                MARTÍN<br />GARABAL
+                </h2>
+                <p class="texto">
+                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
+                    sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
+                    magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
+                    sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+                    eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                </p>
+            </div>
+
+            <div class="columna">
+                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <h2 class="subtitulo">
+                    TRIMARCHI
+                </h2>
+                <p class="texto">
+                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
+                    sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
+                    magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
+                    sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+                    eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                </p>
+            </div>
+
+            <div class="columna">
+                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <h2 class="subtitulo">
+                    DOMESTIKA
+                </h2>
+                <p class="texto">
+                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
+                    sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
+                    magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
+                    sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+                    eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                </p>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="bloque cuatro" color="#5670ef">
         <?php require('modules/form.php'); ?>
+    </div>
+
+    <div class="bloque cinco" color="#">
+        <h1 class="titulo">
+            TRIMARCHI
+        </h1>
+        <div class="columnas">
+
+            <div class="columna">
+                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <h2 class="subtitulo">
+                    BRAULIO<br />AMADO
+                </h2>
+                <p class="texto">
+                Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
+                sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
+                magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
+                sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+                eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                </p>
+            </div>
+    
+        </div>
+
     </div>
 
 </body>
