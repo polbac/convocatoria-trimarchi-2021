@@ -23,23 +23,73 @@
         </header>
     </div>
 
-    <div class="bloque uno">
-        <p class="destacado">
+    <div class="bloque uno" color="#ffffff">
+        <p class="destacado" min-weight="300" max-weight="500">
             Junto a DOMESTIKA lanzamos la
         </p>
         <h1 class="titulo">
-            CONVOCATORIA<br />TRIMARCHI 20211<br />JUN-15AGO
+            <span min-weight="500" max-weight="840">CONVOCATORIA</span>
+            <br /> <span min-weight="500" max-weight="840">TRIMARCHI 20211</span><br />
+            <span min-weight="500" max-weight="840">JUN-15AGO</span>
         </h1>
         <p class="destacado">
-        Llamado abierto a ilustradores, animadores,<br />
-        diseñadores, artistas, emprendedores, educadores,<br />
-        músicos, realizadores audiovisuales y mucho más,<br />
-        para ser parte de diversos proyectos remotos.
-        </p>
+        <span min-weight="300" max-weight="540">
+            Llamado abierto a ilustradores, animadores,
+        </span><br />
+        <span min-weight="300" max-weight="540">
+            diseñadores, artistas, emprendedores, educadores,
+        </span><br />
+        <span min-weight="300" max-weight="540">
+            músicos, realizadores audiovisuales y mucho más,
+        </span><br />
+        <span min-weight="300" max-weight="540">
+            para ser parte de diversos proyectos remotos.
+        </span></p>
         <img class="animacion" src="reloj.svg"/>
     </div>
 
-    <div class="bloque dos">
+    <script
+    src="https://code.jquery.com/jquery-3.6.0.slim.min.js"
+    integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI="
+    crossorigin="anonymous"></script>
+    <script>
+        (function() {
+        
+        let mX, mY
+
+        function calculateDistance(elem, mouseX, mouseY) {
+            return Math.floor(Math.sqrt(Math.pow(mouseX - (elem.offset().left+(elem.width()/2)), 2) + Math.pow(mouseY - (elem.offset().top+(elem.height()/2)), 2)));
+        }
+
+        $(document).mousemove(function(e) {  
+            mX = e.pageX;
+            mY = e.pageY;
+
+            $("*[min-weight]").each(function(){
+                distance = calculateDistance($(this), mX, mY);
+                const fontWeight = $(this).attr('max-weight') - distance
+                $(this).css({
+                    fontWeight,
+                })
+            })
+        });
+
+        $(document).scroll(function(){
+            const scrollTop = $(document).scrollTop()
+            $("*[color]").each(function(){
+                if (scrollTop >= $(this).offset().top - 100) {
+                    $("body").css({
+                        backgroundColor: $(this).attr("color")
+                    })
+                }
+                
+            })
+        })
+
+    })();
+    </script>
+
+    <div class="bloque dos" color="#b4ef56">
         <h1 class="titulo">
             CATEGORIAS
         </h1>
@@ -367,7 +417,7 @@
         </div>
     </div>
 
-    <div class="bloque tres">
+    <div class="bloque tres" color="#5670ef">
         <?php require('modules/form.php'); ?>
     </div>
 
