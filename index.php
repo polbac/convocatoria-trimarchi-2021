@@ -128,7 +128,7 @@
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         Quedan<br />
-                        <contador>30 Dias, 23h, 59min</contador><br />
+                        <contador date="30/5/2021" hour="20:20"></contador>
                     </p>
                 </div>
             </div>
@@ -171,7 +171,7 @@
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         Quedan<br />
-                        <contador>30 Dias, 23h, 59min</contador><br />
+                        <contador date="30/5/2021" hour="00:20"></contador>
                     </p>
                 </div>
             </div>
@@ -200,7 +200,7 @@
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         Quedan<br />
-                        <contador>30 Dias, 23h, 59min</contador><br />
+                        <contador date="30/5/2021" hour="20:20"></contador>
                     </p>
                 </div>
             </div>
@@ -238,7 +238,7 @@
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         Quedan<br />
-                        <contador>30 Dias, 23h, 59min</contador><br />
+                        <contador date="30/6/2021" hour="20:20"></contador>
                     </p>
                 </div>
             </div>
@@ -277,7 +277,7 @@
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                     Quedan<br />
-                    <contador>30 Dias, 23h, 59min</contador><br />
+                    <contador date="30/5/2021" hour="20:20"></contador>
                     </p>
                 </div>
             </div>
@@ -329,7 +329,7 @@
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         Quedan<br />
-                        <contador>30 Dias, 23h, 59min</contador><br />
+                        <contador date="30/9/2021" hour="1:20"></contador>
                     </p>
                 </div>
             </div>
@@ -357,7 +357,7 @@
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         Quedan<br />
-                        <contador>30 Dias, 23h, 59min</contador><br />
+                        <contador date="29/5/2021" hour="20:20"></contador>
                     </p>
                 </div>
             </div>
@@ -385,7 +385,7 @@
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         Quedan<br />
-                        <contador>30 Dias, 23h, 59min</contador><br />
+                        <contador date="6/8/2021" hour="20:20"></contador>
                     </p>
                 </div>
             </div>
@@ -410,7 +410,7 @@
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                     Quedan<br />
-                    <contador>30 Dias, 23h, 59min</contador><br />
+                    <contador date="10/6/2021" hour="20:20"></contador>
                     </p>
                 </div>
             </div>
@@ -615,6 +615,34 @@
         </div>
 
     </footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+    <script>
+        setInterval(function(){
+            $("contador").each(function(){
+                const date = $(this).attr("date").split("/")
+                const hour = $(this).attr("hour").split(":")
+                
+                // 30 Dias, 23h, 59min
+                const finalDate = moment()
+                
+                finalDate.set({
+                    date: +date[0],
+                    month: +date[1]-1,
+                    year: +date[2],
+                    hours: +hour[0],
+                    minutes: +hour[1],
+                })
+
+                var diffMinutes = finalDate.diff(moment(), 'minutes'); 
+
+                var numdays = Math.floor(diffMinutes / 1440); 
+                var numhours = Math.floor((diffMinutes % 1440) / 60); 
+                var numminutes = Math.floor((diffMinutes % 1440) % 60); 
+
+                $(this).html(`${numdays} Días, ${numhours}h, ${numminutes}min`)
+            })  
+        }, 1000)
+    </script>
 
 </body>
 
