@@ -1,0 +1,133 @@
+
+.big-title{
+    text-align: center;
+    font-size: 10rem;
+    font-weight: 900;
+}
+
+.big-title-2{
+    text-align: center;
+    font-size: 3.78rem;
+    font-weight: 900;
+}
+
+.red{
+    color: #ff0000;
+}
+
+.center{
+    text-align: center;
+}
+
+.flex-column{
+    display: flex;
+}
+
+label{
+    font-size: 2rem;
+    font-weight: 900;
+}
+
+.grow{
+    flex: 1;
+}
+
+input, select, textarea{
+    border: 0;
+    border-bottom: 2px solid black;
+    font-family: 'Rubik', Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    outline: 0;
+    padding-left: 10px;
+}
+
+textarea{
+    width: 100%;
+    border: 2px solid black;
+}
+
+form{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+input[type="checkbox"] {
+    display: none;
+}
+
+
+input[type="checkbox"] + label{
+    color: gray;
+    cursor: pointer;
+}
+
+input[type="checkbox"]:checked::before{
+    background: url(/assets/arrow-category.svg);
+    width: 40px;
+    height: 40px;
+    content: "";
+    visibility: visible;
+    display: block;
+    margin-top: -14px;
+    margin-left: 6px;
+}
+
+input[type="checkbox"] + label:hover,
+input[type="checkbox"]:checked + label{
+    color: black;
+}
+input[type="checkbox"]:checked {
+    display: inline-block;
+    visibility: hidden;
+}
+
+.step-categories{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.step-categories .field-option{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+button{
+    background: black;
+    color: white;
+    font-family: 'Rubik', Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 3rem;
+    font-weight: 900;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+    margin: auto;
+    border: 0;
+}
+
+input[type="file"]{
+    display: none;
+}
+
+#file-label{
+    cursor: pointer;
+    border-bottom: 2px solid black;
+}
+
+.file-data{
+    align-self: flex-end;
+}
+
+select {
+    -moz-appearance:none; /* Firefox */
+    -webkit-appearance:none; /* Safari and Chrome */
+    appearance:none;
+    background-repeat: no-repeat;
+    background-position-x: calc(100% - 5px);
+    background-position-y: 10px;
+    background-image: url(/assets/arrow-dropdown.svg);
+    background-size: auto 70%;
+}
