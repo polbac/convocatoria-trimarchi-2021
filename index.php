@@ -596,7 +596,7 @@
             <div class="columna">
                 <img class="jurado" src="blank.jpg"/>
                 <p class="caption">
-                    ¿Querés saber más? Visitá TRIMARCHIDG.NET
+                    ¿Querés saber más? Visitá <a href="https://www.trimarchidg.net/">TRIMARCHIDG.NET</a>
                 </p>
             </div>
 

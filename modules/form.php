@@ -106,7 +106,7 @@ $countriesAndCities = file_get_contents('countries.min.json');
                 Contanos más<br/>
                 de vos y tu proyecto
             </h2>
-            <textarea  name="Descripcion" id="descripcion" placeholder="Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit"></textarea>
+            <textarea  name="Descripcion" id="descripcion" placeholder=""></textarea>
         </div>
         
         </div>
