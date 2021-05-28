@@ -43,7 +43,7 @@ $countriesAndCities = file_get_contents('countries.min.json');
                 <h2 class="subtitulo">
                     Usuario en Domestika*
                 </h2>
-                <input placeholder="@USERNAME" class="grow" name="Usuario" id="usuario" type="text"  required />
+                <input placeholder="@USERNAME" class="grow" name="Usuario" id="usuario" type="text"  />
             </div>
             <p class="texto">
                 Si ya estás registrado en Domestika pero no sabés cómo consultar<br/>
@@ -55,42 +55,42 @@ $countriesAndCities = file_get_contents('countries.min.json');
             <h2 class="subtitulo">
                 Nombre y Apellido*
             </h2>
-            <input class="grow" name="Nombre" id="nombre" type="text" required />
+            <input class="grow" name="Nombre" id="nombre" type="text" />
         </div>
 
         <div class="field-wrapper flex-column">
             <h2 class="subtitulo">
                 Edad*
             </h2>
-            <input class="grow" name="Edad" id="edad" type="text" required />
+            <input class="grow" name="Edad" id="edad" type="text" />
         </div>
 
         <div class="field-wrapper flex-column">
             <h2 class="subtitulo">
                 E-mail*
             </h2>
-            <input class="grow" name="Email" id="email" type="email" required />
+            <input class="grow" name="Email" id="email" type="email" />
         </div>
 
         <div class="field-wrapper flex-column">
             <h2 class="subtitulo">
                 País*
             </h2>
-            <select class="grow" name="Pais" id="pais" type="text" required></select>
+            <select class="grow" name="Pais" id="pais" type="text" ></select>
         </div>
 
         <div class="field-wrapper flex-column">
             <h2 class="subtitulo">
                 Ciudad*
             </h2>
-            <select class="grow" name="Ciudad" id="ciudad" required></select>
+            <select class="grow" name="Ciudad" id="ciudad" ></select>
         </div>
 
         <div class="field-wrapper flex-column">
             <h2 class="subtitulo">
                 Porfolio link*
             </h2>
-            <input class="grow" name="Porfolio" id="porfolio" type="text" required />
+            <input class="grow" name="Porfolio" id="porfolio" type="text"  />
         </div>
 
         <div class="field-wrapper flex-column">
@@ -134,9 +134,9 @@ $countriesAndCities = file_get_contents('countries.min.json');
             </div>
 
             <div class="field-option">
-                <input type="checkbox" name="category" id="Obra" value="Obra">
-                <label for="Obra">
-                    <h2 class="subtitulo">Obra</h2>
+                <input type="checkbox" name="category" id="Expo" value="Expo">
+                <label for="Expo">
+                    <h2 class="subtitulo">Expo</h2>
                 </label>
             </div>
 
@@ -148,9 +148,16 @@ $countriesAndCities = file_get_contents('countries.min.json');
             </div>
 
             <div class="field-option">
-                <input type="checkbox" name="category" id="Proyecto" value="Proyecto">
-                <label for="Proyecto">
-                    <h2 class="subtitulo">Proyecto</h2>
+                <input type="checkbox" name="category" id="Indumentaria" value="Indumentaria">
+                <label for="Indumentaria">
+                    <h2 class="subtitulo">Indumentaria</h2>
+                </label>
+            </div>
+
+            <div class="field-option">
+                <input type="checkbox" name="category" id="Emprendimiento" value="Emprendimiento">
+                <label for="Emprendimiento">
+                    <h2 class="subtitulo">Emprendimiento</h2>
                 </label>
             </div>
 
@@ -176,9 +183,9 @@ $countriesAndCities = file_get_contents('countries.min.json');
             </div>
 
             <div class="field-option">
-                <input type="checkbox" name="category" id="Colectivo TRImarchi" value="Colectivo TRImarchi">
-                <label for="Colectivo TRImarchi">
-                    <h2 class="subtitulo">Colectivo TRImarchi</h2>
+                <input type="checkbox" name="category" id="Colectivo" value="Colectivo">
+                <label for="Colectivo">
+                    <h2 class="subtitulo">Colectivo</h2>
                 </label>
             </div>
             
@@ -288,9 +295,59 @@ $countriesAndCities = file_get_contents('countries.min.json');
             return
         }
 
+        const usuarioField = $("#usuario")
+        const nombreField = $("#nombre")
+        const edadField = $("#edad")
+        const emailField = $("#email")
+        const paisField = $("#pais")
+        const ciudadField = $("#ciudad")
+        const porfolioField = $("#porfolio")
+        const fields = [usuarioField,nombreField,edadField,emailField,paisField,ciudadField,porfolioField]
+
+        let hasError = false
+        let yGo = 0
+
+        fields.forEach((el) => {
+            el.removeClass('error')
+
+            if (el.val() === "") {
+                if (yGo === 0) {
+                    yGo = el.offset().top - 200
+                }
+                el.addClass('error')
+                hasError = true
+            }
+        })
+
+
+        
+
+        if (hasError) {
+            const classElement = $(this).attr("href")
+            window.scrollTo({ top: yGo, behavior: 'smooth' })
+            $("aside .modal").html("Hay errores! Revisa el formulario")
+
+            TweenLite.set("aside", {opacity: 0, display: 'flex'})
+            TweenLite.to("aside", 0.3, { opacity: 1 })
+            
+            setTimeout(function() {
+                TweenLite.to("aside", 0.3, { opacity: 0, onComplete: () => {
+                    TweenLite.set("aside", {opacity: 0, display: 'none'})
+                }})
+            }, 2000)
+
+            return true
+        }
+
+        
+
         sending = true
+
         const formData = new FormData(form)
-        formData.append('Archivo', `${document.location.origin}/uploads/${serverFileName}`)
+        if (serverFileName !== '') {
+            formData.append('Archivo', `${document.location.origin}/uploads/${serverFileName}`)
+        }
+        
         formData.append('PruebaDev', __DEV__)
 
         categories.forEach(category => {
@@ -306,6 +363,16 @@ $countriesAndCities = file_get_contents('countries.min.json');
                 sending = false
                 submit.innerHTML = 'ENVIAR'
                 form.reset()
+                $("aside .modal").html("Felicitaciones! Ya estás participando")
+                TweenLite.set("aside", {opacity: 0, display: 'flex'})
+                TweenLite.to("aside", 0.3, { opacity: 1 })
+                
+                setTimeout(function() {
+                    TweenLite.to("aside", 0.3, { opacity: 0, onComplete: () => {
+                        TweenLite.set("aside", {opacity: 0, display: 'none'})
+                    }})
+                }, 2000)
+
                 return res.text();
             })
             .then((res) => {
@@ -314,7 +381,42 @@ $countriesAndCities = file_get_contents('countries.min.json');
             .catch(error => {
                 submit.innerHTML = 'ENVIAR'
                 sending = false
+
+                $("aside .modal").html("UPS! Intenta nuevamente")
+                TweenLite.set("aside", {opacity: 0, display: 'flex'})
+                TweenLite.to("aside", 0.3, { opacity: 1 })
+                
+                setTimeout(function() {
+                    TweenLite.to("aside", 0.3, { opacity: 0, onComplete: () => {
+                        TweenLite.set("aside", {opacity: 0, display: 'none'})
+                    }})
+                }, 2000)
             })
+    })
+
+    $(".check-categoria").click(function() {
+        const index = $('.check-categoria').index($(this))
+        $("input[name='category']").eq(index).click()
+        let text = ""
+        if ($(this).hasClass("active")) {
+            text = `Categoría ${$(this).text()} seleccionada`
+        } else {
+            text = `Categoría ${$(this).text()} des-seleccionada`
+        }
+        $("aside .modal").html(text)
+        TweenLite.set("aside", {opacity: 0, display: 'flex'})
+        TweenLite.to("aside", 0.3, { opacity: 1 })
+        
+        setTimeout(function() {
+            TweenLite.to("aside", 0.3, { opacity: 0, onComplete: () => {
+                TweenLite.set("aside", {opacity: 0, display: 'none'})
+            }})
+        }, 1000)
+    })
+
+    $("input[name='category']").on('change', function() {
+        const index = $("input[name='category']").index($(this))
+        $(".check-categoria").eq(index).toggleClass('active')
     })
 
 </script>

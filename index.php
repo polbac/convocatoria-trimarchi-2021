@@ -8,17 +8,17 @@
 
 </head>
 
-<body>
-    <div class="menubar" id="top">
+<body id="top">
+    <div class="menubar" >
         <header>
             <img class="domestika" src="domestika-logo.svg"/>
             <nav class="menu">
-                <a href="#convocatoria" class="menu-item">CONVOCATORIA</a>
-                <a href="#categorias" class="menu-item">CATEGORÍAS+ESTÍMULOS</a>
-                <a href="#inscripcion" class="menu-item">INSCRIPCIÓN</a>
-                <a href="#jurado" class="menu-item">JURADO</a>
-                <a href="#quienes" class="menu-item">QUIENES SOMOS</a>
-                <a href="#faq" class="menu-item">F.A.Q</a>
+                <a href="#convocatoria" class="menu-item smooth-link">CONVOCATORIA</a>
+                <a href="#categorias" class="menu-item smooth-link">CATEGORÍAS+ESTÍMULOS</a>
+                <a href="#inscripcion" class="menu-item smooth-link">INSCRIPCIÓN</a>
+                <a href="#jurado" class="menu-item smooth-link">JURADO</a>
+                <a href="#quienes" class="menu-item smooth-link">QUIENES SOMOS</a>
+                <a href="#faq" class="menu-item smooth-link">F.A.Q</a>
             </nav>
             <img class="tmdg"src="tmdg-logo.svg"/>
         </header>
@@ -709,15 +709,15 @@
 
         <nav class="menu">
             <div>
-                <a href="#convocation" class="menu-item">CONVOCATORIA</a>
-                <a href="#categorias" class="menu-item">CATEGORÍAS+ESTÍMULOS</a>
-                <a href="#jurado" class="menu-item">JURADO</a>
+                <a href="#convocatoria" class="menu-item smooth-link">CONVOCATORIA</a>
+                <a href="#categorias" class="menu-item smooth-link">CATEGORÍAS+ESTÍMULOS</a>
+                <a href="#jurado" class="menu-item smooth-link">JURADO</a>
             </div>
 
             <div>
-                <a href="#inscripcion" class="menu-item">INSCRIPCIÓN</a>
-                <a href="#quienes-somos" class="menu-item">QUIENES SOMOS</a>
-                <a href="#faq" class="menu-item">F.A.Q</a>
+                <a href="#inscripcion" class="menu-item smooth-link">INSCRIPCIÓN</a>
+                <a href="#quienes-somos" class="menu-itemv">QUIENES SOMOS</a>
+                <a href="#faq" class="menu-item smooth-link">F.A.Q</a>
             </div>
 
             <div>
@@ -729,13 +729,21 @@
         </nav>
 
         <div class="footer-icon">
-            <a href="#top" class='go-to-top'>
+            <a href="#top" class='go-to-top smooth-link'>
                 (Go to top)<br/>
                 <img src="assets/top.svg" />
             </a>
         </div>
 
     </footer>
+
+    <aside>
+        <div class="modal">
+            REVISA EL FORMULARIO
+        </div>
+    </aside>
+
+    
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
     <script>
         setInterval(function(){
@@ -763,6 +771,16 @@
                 $(this).html(`${numdays} Días, ${numhours}h, ${numminutes}min`)
             })  
         }, 1000)
+    </script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/gsap.min.js">
+    </script>
+    <script>
+         $(".smooth-link").on("click", function() {
+            const classElement = $(this).attr("href")
+            window.scrollTo({ top: $(classElement).offset().top, behavior: 'smooth' })
+            return false
+        })
     </script>
 
 </body>
