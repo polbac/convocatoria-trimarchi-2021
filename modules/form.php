@@ -305,11 +305,15 @@ $countriesAndCities = file_get_contents('countries.min.json');
         const fields = [usuarioField,nombreField,edadField,emailField,paisField,ciudadField,porfolioField]
 
         let hasError = false
+        let yGo = 0
 
         fields.forEach((el) => {
             el.removeClass('error')
 
             if (el.val() === "") {
+                if (yGo === 0) {
+                    yGo = el.offset().top - 200
+                }
                 el.addClass('error')
                 hasError = true
             }
@@ -320,7 +324,7 @@ $countriesAndCities = file_get_contents('countries.min.json');
 
         if (hasError) {
             const classElement = $(this).attr("href")
-            window.scrollTo({ top: $('form').offset().top, behavior: 'smooth' })
+            window.scrollTo({ top: yGo, behavior: 'smooth' })
             $("aside .modal").html("Hay errores! Revisa el formulario")
 
             TweenLite.set("aside", {opacity: 0, display: 'flex'})
@@ -393,6 +397,21 @@ $countriesAndCities = file_get_contents('countries.min.json');
     $(".check-categoria").click(function() {
         const index = $('.check-categoria').index($(this))
         $("input[name='category']").eq(index).click()
+        let text = ""
+        if ($(this).hasClass("active")) {
+            text = `Categoría ${$(this).text()} seleccionada`
+        } else {
+            text = `Categoría ${$(this).text()} des-seleccionada`
+        }
+        $("aside .modal").html(text)
+        TweenLite.set("aside", {opacity: 0, display: 'flex'})
+        TweenLite.to("aside", 0.3, { opacity: 1 })
+        
+        setTimeout(function() {
+            TweenLite.to("aside", 0.3, { opacity: 0, onComplete: () => {
+                TweenLite.set("aside", {opacity: 0, display: 'none'})
+            }})
+        }, 1000)
     })
 
     $("input[name='category']").on('change', function() {
