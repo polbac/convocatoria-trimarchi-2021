@@ -25,25 +25,25 @@
     </div>
 
     <div class="bloque uno" color="#ffffff">
-        <p class="destacado" min-weight="300" max-weight="840">
+        <p class="destacado" min-weight="750" max-weight="840">
             Junto a DOMESTIKA lanzamos la
         </p>
         <h1 class="titulo">
-            <span min-weight="500" max-weight="840">CONVOCATORIA</span>
-            <br /> <span min-weight="500" max-weight="840">TRIMARCHI 20211</span><br />
-            <span min-weight="500" max-weight="840">JUN-15AGO</span>
+            <span min-weight="740" max-weight="840">CONVOCATORIA</span>
+            <br /> <span min-weight="600" max-weight="840">TRIMARCHI 20211</span><br />
+            <span min-weight="600" max-weight="840">JUN-15AGO</span>
         </h1>
         <p class="destacado">
-        <span min-weight="300" max-weight="540">
+        <span min-weight="750" max-weight="840">
             Llamado abierto a ilustradores, animadores,
         </span><br />
-        <span min-weight="300" max-weight="540">
+        <span min-weight="750" max-weight="840">
             diseñadores, artistas, emprendedores, educadores,
         </span><br />
-        <span min-weight="300" max-weight="540">
+        <span min-weight="750" max-weight="840">
             músicos, realizadores audiovisuales y mucho más,
         </span><br />
-        <span min-weight="300" max-weight="540">
+        <span min-weight="750" max-weight="840">
             para ser parte de diversos proyectos remotos.
         </span></p>
         <img class="animacion" src="reloj.svg"/>
@@ -97,7 +97,7 @@
         <div class="columnas">
             <div class="columna">
                 <div class="check-categoria">
-                    <img class="animacion" src="reloj.svg"/>
+                    <img src="dibujo1.png"/>
                     <h2 class="subtitulo">
                         CONFERENCIA
                     </h2>
@@ -135,7 +135,7 @@
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img class="animacion" src="reloj.svg"/>
+                    <img src="dibujo2.png"/>
                     <h2 class="subtitulo">
                         EXPO
                     </h2>
@@ -178,7 +178,7 @@
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img class="animacion" src="reloj.svg"/>
+                    <img src="dibujo3.png"/>
                     <h2 class="subtitulo">
                         WORKSHOP
                     </h2>
@@ -207,7 +207,7 @@
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img class="animacion" src="reloj.svg"/>
+                    <img src="dibujo4.png"/>
                     <h2 class="subtitulo">
                         INDUMENTARIA
                     </h2>
@@ -245,7 +245,7 @@
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img class="animacion" src="reloj.svg"/>
+                    <img src="dibujo5.png"/>
                     <h2 class="subtitulo">
                         EMPRENDIMIENTO
                     </h2>
@@ -284,7 +284,7 @@
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img class="animacion" src="reloj.svg"/>
+                    <img src="dibujo6.png"/>
                     <h2 class="subtitulo">
                         MÚSICA
                     </h2>
@@ -336,7 +336,7 @@
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img class="animacion" src="reloj.svg"/>
+                    <img src="dibujo7.png"/>
                     <h2 class="subtitulo">
                         VIDEOCLIP
                     </h2>
@@ -364,7 +364,7 @@
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img class="animacion" src="reloj.svg"/>
+                    <img src="dibujo8.png"/>
                     <h2 class="subtitulo">
                         PORTADA
                     </h2>
@@ -392,7 +392,7 @@
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img class="animacion" src="reloj.svg"/>
+                    <img src="dibujo9.png"/>
                     <h2 class="subtitulo">
                         COLECTIVO
                     </h2>
@@ -565,15 +565,42 @@
 
             <div class="columna">
                 <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
-                <h2 class="subtitulo">
-                    BRAULIO<br />AMADO
-                </h2>
+                <p class="caption">
+                    ¿Querés saber más? Visitá TRIMARCHIDG.NET
+                </p>
+            </div>
+
+            <div class="columna">
                 <p class="texto">
-                Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
-                magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
-                sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                    TRImarchi es una comunidad internacional con foco en el diseño,
+                    pero que navega por las más diversas expresiones artísticas.<br /><br />
+                    Desde hace más de 20 años, organizamos anualmente un encuentro
+                    en la ciudad de Mar del Plata, Argentina. Allí nucleamos a miles
+                    de mentes sedientas de conocimiento y experiencias movilizantes
+                    en una verdadera celebración, uniendo conferencias de referentes
+                    del mundo del diseño, ilustración, arquitectura, tecnología, etc
+                    con recitales en vivo, workshops, fiestas, exposiciones, mercado
+                    de emprendedores y mucho más.<br /><br />
+                    La situación sanitaria nos impedirá reunirnos físicamente este año,
+                    pero gracias a esta convocatoria estaremos muy cerca.
+                    Estas movidas no serían posibles en tiempos difíciles como los
+                </p>
+            </div>
+
+            <div class="columna">
+                <p class="texto">
+                    que corren, si no las impulsáramos junto a amigos que comparten
+                    nuestras pasiones, ideales y anhelos. Cuando recién comenzábamos
+                    a soñar con TRImarchi, ya deambulábamos por rincones donde curiosos
+                    y sabios compartían generosamente, lugares que nos llenaban de data
+                    y nos ayudaban a entender que no estábamos solos en este delirio nerd.
+                    Uno de esos lugares era el foro de DOMESTIKA. Desde ese entonces,
+                    Domestika siempre ocupó en nuestro tablero un lugar de respeto,
+                    admiración y cariño. El año pasado, el destino nos cruzó, nos conocimos
+                    personalmente y todo ese amor platónico se hizo realidad.<br /><br />
+                    Hoy, gracias a ese encuentro y al compromiso que asumimos juntos con
+                    la comunidad creativa, lanzamos la convocatoria TRImarchi más ambiciosa
+                    de nuestra historia.
                 </p>
             </div>
     
