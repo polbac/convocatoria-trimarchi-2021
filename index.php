@@ -13,18 +13,18 @@
         <header>
             <img class="domestika" src="domestika-logo.svg"/>
             <nav class="menu">
-                <a href="#convocation" class="menu-item">CONVOCATORIA</a>
+                <a href="#convocatoria" class="menu-item">CONVOCATORIA</a>
                 <a href="#categorias" class="menu-item">CATEGORÍAS+ESTÍMULOS</a>
                 <a href="#inscripcion" class="menu-item">INSCRIPCIÓN</a>
-                <a href="#jurado class" class="menu-item">JURADO</a>
-                <a href="#quienes-somos" class="menu-item">QUIENES SOMOS</a>
+                <a href="#jurado" class="menu-item">JURADO</a>
+                <a href="#quienes" class="menu-item">QUIENES SOMOS</a>
                 <a href="#faq" class="menu-item">F.A.Q</a>
             </nav>
             <img class="tmdg"src="tmdg-logo.svg"/>
         </header>
     </div>
 
-    <div class="bloque uno" color="#ffffff">
+    <div class="bloque uno" id="convocatoria" color="#ffffff">
         <p class="destacado" min-weight="750" max-weight="840">
             Junto a DOMESTIKA lanzamos la
         </p>
@@ -53,7 +53,7 @@
     src="https://code.jquery.com/jquery-3.6.0.slim.min.js"
     integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI="
     crossorigin="anonymous"></script>
-    <script>
+    <!--script>
         (function() {
 
             var xMousePos = 0;
@@ -118,9 +118,9 @@
         })
 
     })();
-    </script>
+    </script-->
 
-    <div class="bloque dos" color="#b4ef56">
+    <div class="bloque dos" id="categorias" color="#b4ef56">
         <h1 class="titulo">
             CATEGORIAS
         </h1>
@@ -422,7 +422,7 @@
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img src="dibujo9.png"/>
+                    <img src="dibujo9-2.png"/>
                     <h2 class="subtitulo">
                         COLECTIVO
                     </h2>
@@ -439,8 +439,8 @@
                 <div class="item">
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
-                    Quedan<br />
-                    <contador date="10/6/2021" hour="20:20"></contador>
+                        Quedan<br />
+                        <contador date="10/6/2021" hour="20:20"></contador>
                     </p>
                 </div>
             </div>
@@ -448,14 +448,14 @@
         </div>
     </div>
 
-    <div class="bloque tres" color="#">
+    <div class="bloque tres" id="jurado" color="#">
         <h1 class="titulo">
             JURADOS
         </h1>
         <div class="columnas">
 
             <div class="columna">
-                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <img class="jurado" src="blank.jpg"/>
                 <h2 class="subtitulo">
                     BRAULIO<br />AMADO
                 </h2>
@@ -469,7 +469,7 @@
             </div>
 
             <div class="columna">
-                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <img class="jurado" src="blank.jpg"/>
                 <h2 class="subtitulo">
                     DIANA<br />AIZEMBERG
                 </h2>
@@ -483,7 +483,7 @@
             </div>
 
             <div class="columna">
-                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <img class="jurado" src="blank.jpg"/>
                 <h2 class="subtitulo">
                     SOFIE
                 </h2>
@@ -497,7 +497,7 @@
             </div>
 
             <div class="columna">
-                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <img class="jurado" src="blank.jpg"/>
                 <h2 class="subtitulo">
                     CA7RIEL
                 </h2>
@@ -511,7 +511,7 @@
             </div>
 
             <div class="columna">
-                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <img class="jurado" src="blank.jpg"/>
                 <h2 class="subtitulo">
                     MONOBLOCK
                 </h2>
@@ -525,7 +525,7 @@
             </div>
 
             <div class="columna">
-                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <img class="jurado" src="blank.jpg"/>
                 <h2 class="subtitulo">
                     DAVID MÉNDEZ<br />ALONSO
                 </h2>
@@ -539,7 +539,7 @@
             </div>
 
             <div class="columna">
-                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <img class="jurado" src="blank.jpg"/>
                 <h2 class="subtitulo">
                 MARTÍN<br />GARABAL
                 </h2>
@@ -553,7 +553,7 @@
             </div>
 
             <div class="columna">
-                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <img class="jurado" src="blank.jpg"/>
                 <h2 class="subtitulo">
                     TRIMARCHI
                 </h2>
@@ -567,7 +567,7 @@
             </div>
 
             <div class="columna">
-                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <img class="jurado" src="blank.jpg"/>
                 <h2 class="subtitulo">
                     DOMESTIKA
                 </h2>
@@ -583,18 +583,18 @@
         </div>
     </div>
 
-    <div class="bloque cuatro" color="#5670ef">
+    <div class="bloque cuatro" id="inscripcion" color="#5670ef">
         <?php require('modules/form.php'); ?>
     </div>
 
-    <div class="bloque cinco" color="#">
+    <div class="bloque cinco" id="quienes" color="#">
         <h1 class="titulo">
             TRIMARCHI
         </h1>
         <div class="columnas">
 
             <div class="columna">
-                <img class="jurado" src="https://placeimg.com/640/640/people?t=1622155449076"/>
+                <img class="jurado" src="blank.jpg"/>
                 <p class="caption">
                     ¿Querés saber más? Visitá TRIMARCHIDG.NET
                 </p>
@@ -637,10 +637,74 @@
         </div>
 
     </div>
+
+    <div class="bloque seis" id="faq" color="#">
+        <h1 class="titulo">
+            F.A.Q.
+        </h1>
+        <div class="columnas">
+            <p class="texto">
+                <span>QUIÉNES PUEDEN PARTICIPAR?</span><br />
+                La Convocatoria está abierta a creativos de todo el mundo, mayores de 18 años.
+                <br /><br />
+                <span>¿CÓMO PUEDO PARTICIPAR?</span><br />
+                Los participantes deberán inscribirse a través de la página web trimarchidg.net/-
+                convocatoriatrimarchi2021 completando de forma obligatoria un formulario con la
+                siguiente información: usuario en domestika, nombre y apellido, edad, e-mail, link a
+                porfolio, ciudad y país. Además deberán seleccionar la/s categoría/s en las que
+                quieren participar.
+                <br /><br />
+                <span>¿TENGO QUE TENER UN PORFOLIO ONLINE PARA PARTICIPAR?</span><br />
+                No es necesario. Si no tienes un porfolio online puedes subir un archivo para
+                mostrarnos tu trabajo en alguno de los siguientes formatos: pdf, jpg o mp3. El
+                tamaño máximo admitido es de 20 MB.
+                <br /><br />
+                <span>¿CÓMO HAGO PARA REGISTRARME EN DOMESTIKA?</span><br />
+                Si todavía no tenés usuario en Domestika, podés crearlo ingresando en https://www.
+                domestika.org/es y allí hacé click en “Crear cuenta”. Al crear tu perfil, te
+                recomendamos hacerlo de manera completa (agregá una foto de perfil y contanos
+                algo sobre vos. Eso nos ayudará a conocerte más y te dará mayores chances de ser
+                elegido. Recordá que estar registrado en Domestika es un requisito obligatorio
+                para inscribirte en cualquiera de las categorías.
+                <br /><br />
+                <span>SI YA TENGO USUARIO EN DOMESTIKA PERO NO RECUERDO EL NOMBRE,<br />
+                ¿CÓMO HAGO PARA CONSULTARLO?</span><br />
+                Para saber cuál es tu nombre de usuario en Domestika, ingresá
+                https://www.domestika.org/ y una vez que estés logueado, hacé click en el
+                avatar (con tu foto de perfil) que está en el margen superior derecho. En el menú
+                que se despliega, clickeá en “ver Perfil”. Allí debajo de tu nombre, aparecerá tu
+                nombre de usuario precedido por un @.
+                <br /><br />
+                <span>¿ME PUEDO INSCRIBIR EN MÁS DE UNA CATEGORÍA?</span><br />
+                Sí. Los participantes pueden inscribirse en todas las categorías que quieran de
+                manera simultánea.
+                <br /><br />
+                <span>¿CUÁL ES EL PLAZO PARA INSCRIBIRME?</span><br />
+                El plazo para inscribirse en las categorías 1 a 7 es desde el 01/05/2021 al
+                15/06/2021 inclusive.
+                El plazo para inscribirse en la categoría 8 es desde el 01/05/2021 al 15/12/2021 inclusive.
+                <br /><br />
+                <span>¿CUANDO SE ANUNCIAN LOS GANADORES?</span><br />
+                Los ganadores de las categorías 1 a 7 serán anunciados en trimarchidg.net/convocatoriatrimarchi2021
+                a partir del 30/06.
+                Al mismo tiempo, serán contactados a través de la cuenta de email asociada a su
+                usuario en Domestika.
+                Los ganadores de la categoría 8 serán contactados a través de la cuenta de email
+                asociada a su usuario en Domestika a medida que sean seleccionados para un
+                proyecto en particular.
+                <br /><br />
+                <span>¿TENÉS MÁS PREGUNTAS?</span><br />
+                Escribinos a convocatoria@trimarchidg.net
+            </p>
+        </div>
+    
+    </div>
+
+
     <footer>
         <div class="footer-brand-domestica">
-            <img width="160" class="domestika" src="domestika-logo.svg"/>
-            <img width="111" class="domestika" src="tmdg-logo.svg"/>
+            <img class="domestika" src="domestika-logo.svg"/>
+            <img class="tmdg" src="tmdg-logo.svg"/>
         </div>
 
         <nav class="menu">
