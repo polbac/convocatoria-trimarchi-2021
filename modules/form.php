@@ -18,6 +18,7 @@ $countriesAndCities = file_get_contents('countries.min.json');
 
     <h2 class="subtitulo red">
         Registrate en Domestika
+        <img src="iso-domestika.png"/>
     </h2>
 
     <p class="texto red">

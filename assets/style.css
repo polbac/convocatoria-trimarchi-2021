@@ -283,6 +283,12 @@ img.jurado {
     color: red;
 }
 
+.subtitulo.red img{
+    height: 3.9vw;
+    margin-left: 0.4vw;
+    margin-bottom: -0.6vw;
+}
+
 .bloque.cuatro p.texto.red {
     width: 54.5vw;
     margin-left: 50%;
