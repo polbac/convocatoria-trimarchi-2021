@@ -24,7 +24,7 @@
         </header>
     </div>
 
-    <div class="bloque uno" id="convocatoria" color="#ffffff">
+    <div class="bloque uno" id="convocatoria" color="#ffff66">
         <p class="destacado" min-weight="750" max-weight="840">
             Junto a DOMESTIKA lanzamos la
         </p>
@@ -53,10 +53,10 @@
     src="https://code.jquery.com/jquery-3.6.0.slim.min.js"
     integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI="
     crossorigin="anonymous"></script>
-    <!--script>
+    <script>
         (function() {
 
-            var xMousePos = 0;
+            /* var xMousePos = 0;
             var yMousePos = 0;
             var lastScrolledLeft = 0;
             var lastScrolledTop = 0;
@@ -102,10 +102,9 @@
 
             function calculateDistance(elem, mouseX, mouseY) {
                 return Math.floor(Math.sqrt(Math.pow(mouseX - (elem.offset().left+(elem.width()/2)), 2) + Math.pow(mouseY - (elem.offset().top+(elem.height()/2)), 2)));
-            }
+            } */
 
-
-        $(document).scroll(function(){
+        function checkBackground() {
             const scrollTop = $(document).scrollTop()
             $("*[color]").each(function(){
                 if (scrollTop >= $(this).offset().top - 100) {
@@ -115,12 +114,16 @@
                 }
                 
             })
+        }
+        checkBackground()
+        $(document).scroll(function(){
+            checkBackground()
         })
 
     })();
-    </script-->
+    </script>
 
-    <div class="bloque dos" id="categorias" color="#b4ef56">
+    <div class="bloque dos" id="categorias" color="#99ff99">
         <h1 class="titulo">
             CATEGORIAS
         </h1>
@@ -583,7 +586,7 @@
         </div>
     </div>
 
-    <div class="bloque cuatro" id="inscripcion" color="#5670ef">
+    <div class="bloque cuatro" id="inscripcion" color="#ffccff">
         <?php require('modules/form.php'); ?>
     </div>
 

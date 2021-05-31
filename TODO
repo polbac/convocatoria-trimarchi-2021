@@ -1,0 +1,64 @@
+AJUSTE GENERAL
+
+1) Quitar las lineas que dividen las secciones, excepto la última, la del footer. Esa queda.
+
+2) Las divisiones las generamos con el cambio de color del background. Está muy bueno el efecto que le dieron. Solo diría que el fade sea más rápido entre sección y sección.En el PDF COLORES.PDF puden ver la nueva paleta (acotada a tres colores) con los siguentes códigos:
+Amarillo: #ffff66
+Verde: #99ff99
+Rosa: #ffccff (En el PDF el rosa me quedó casi violeta x error, no le den bola.)
+@DONE
+
+3) Todos los hiperlinks van en negro y subrayados (en FOOTER.PDF se puede ver bien)
+
+
+
+
+
+
+TOP MENU (ver MENU.PDF)
+
+1) Probar de quitar el gradient blanco de fondo. Por más que se confundan los textos cuando scrolleas, no se verá tan molesto. 
+2) Está ok el texto variable en el menú. Solo hacer que cuando estés o pases x la sección, el nombre de esta quede en bold.
+3) El logo de TMDG aparece apenas cortado abajo
+4) Primero va JURADO y después INSCRIPCIÓN (ahora está al revés)
+5) F.A.Q ahora se llama FAQs
+
+HOME/CONVOCATORIA (ver CONVOCATORIA.PDF)
+
+1) Reducir el tamaño del titulo "CONVOCATORIAS TRIMARCHI 2021...ETC" así como también los tÍtulos de todas las secciones aprox un 10...15% 
+2) Es verdad que se empasta un poco todo el bloque de texto variable. Pero el título "CONVOCATORIAS TRIMARCHI 2021...ETC" se ve bueno. Podemos probar dejando solo como texto variable ese título, y el resto de los textos fijos? ("Junto a Domestika/Llamado abierto...")
+
+CATEGORÍAS (ver CATEGORIAS.PDF)
+
+1) Pag 2 PDF: El tilde de la categoría no aparece (solo el circulo)
+2) Pag 3 PDF: Cuando haces mouseover aparece y el dibujo se activa (negro y blanco)
+3) Pag 4 PDF: Cuando clickeas, el tilde se pone rojo y aparece el mensaje en un contenedor (idem pero rojo, así nadie se lo come)
+
+JURADO
+
+1) El título está en plural, pero debería decir solo JURADO (sin "S")
+2) Podemos hacer que en cada imagen de cada jurado (así como también en la sección "QUIENES SOMOS") haya un slider? Para poner más de una imagen cuando sea necesario.
+
+INSCRIPCIÓN (ver INSCRIPCIÓN.PDF)
+
+Tilde en rojo idem CATEGORIAS. (Ver q "Leer más" también está subrayado, como todo hiperlink)
+
+QUIENES SOMOS
+
+1) Slide en la imagen si es posible
+2) trimarchidg.net en minuscula y en negro
+
+FAQs
+Cambio de nombre: de F.A.Q a FAQs
+
+FOOTER (ver FOOTER.PDF)
+1) Cambio de nombre de las FAQs en el footer
+2) La linea divisoria se mantiene solo acá
+3) Se va el texto "Go to Top"
+4) Reemplazar x gif nuevo
+
+GIFs
+A la tarde les envío los gifs animados (algún tamaño en particular?), pero les adelanto cómo funcionarán:
+1) Como podrán ver en los PDFs adjuntos, ahora son negros y blancos. Línea negra, relleno blanco.
+2) Animados se verán solo en la home. Sería ideal que cambien cuando haces refresh en el navegador. Aprox serán 10 gifs
+3) Los de CATEGORÍAS quedan fijos (sin movimiento) y el blanco aparece solo cuando haces mouseover o clickeás en la cat. (ver CATEGORIAS.PDF)

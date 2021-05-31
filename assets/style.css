@@ -7,7 +7,7 @@ body{
     -webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	text-rendering: optimizeLegibility;
-    transition: background-color 2s;
+    transition: background-color 0.1s;
     overflow-x: hidden;
 }
 
