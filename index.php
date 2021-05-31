@@ -15,8 +15,8 @@
             <nav class="menu">
                 <a href="#convocatoria" class="menu-item smooth-link">CONVOCATORIA</a>
                 <a href="#categorias" class="menu-item smooth-link">CATEGORÍAS+ESTÍMULOS</a>
-                <a href="#inscripcion" class="menu-item smooth-link">INSCRIPCIÓN</a>
                 <a href="#jurado" class="menu-item smooth-link">JURADO</a>
+                <a href="#inscripcion" class="menu-item smooth-link">INSCRIPCIÓN</a>
                 <a href="#quienes" class="menu-item smooth-link">QUIENES SOMOS</a>
                 <a href="#faq" class="menu-item smooth-link">F.A.Q</a>
             </nav>
@@ -451,7 +451,7 @@
         </div>
     </div>
 
-    <div class="bloque tres" id="jurado" color="#">
+    <div class="bloque tres" id="jurado" color="#ffccff">
         <h1 class="titulo">
             JURADOS
         </h1>
@@ -586,11 +586,11 @@
         </div>
     </div>
 
-    <div class="bloque cuatro" id="inscripcion" color="#ffccff">
+    <div class="bloque cuatro" id="inscripcion" color="#ffff66">
         <?php require('modules/form.php'); ?>
     </div>
 
-    <div class="bloque cinco" id="quienes" color="#">
+    <div class="bloque cinco" id="quienes" color="#99ff99">
         <h1 class="titulo">
             TRIMARCHI
         </h1>
@@ -641,7 +641,7 @@
 
     </div>
 
-    <div class="bloque seis" id="faq" color="#">
+    <div class="bloque seis" id="faq" color="#ffccff">
         <h1 class="titulo">
             F.A.Q.
         </h1>

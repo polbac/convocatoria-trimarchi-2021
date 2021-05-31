@@ -3,10 +3,11 @@ AJUSTE GENERAL
 1) Quitar las lineas que dividen las secciones, excepto la última, la del footer. Esa queda.
 
 2) Las divisiones las generamos con el cambio de color del background. Está muy bueno el efecto que le dieron. Solo diría que el fade sea más rápido entre sección y sección.En el PDF COLORES.PDF puden ver la nueva paleta (acotada a tres colores) con los siguentes códigos:
+@DONE
 Amarillo: #ffff66
 Verde: #99ff99
 Rosa: #ffccff (En el PDF el rosa me quedó casi violeta x error, no le den bola.)
-@DONE
+
 
 3) Todos los hiperlinks van en negro y subrayados (en FOOTER.PDF se puede ver bien)
 
@@ -18,10 +19,16 @@ Rosa: #ffccff (En el PDF el rosa me quedó casi violeta x error, no le den bola.
 TOP MENU (ver MENU.PDF)
 
 1) Probar de quitar el gradient blanco de fondo. Por más que se confundan los textos cuando scrolleas, no se verá tan molesto. 
+@DONE
+
 2) Está ok el texto variable en el menú. Solo hacer que cuando estés o pases x la sección, el nombre de esta quede en bold.
 3) El logo de TMDG aparece apenas cortado abajo
+
 4) Primero va JURADO y después INSCRIPCIÓN (ahora está al revés)
+@DONE
+
 5) F.A.Q ahora se llama FAQs
+
 
 HOME/CONVOCATORIA (ver CONVOCATORIA.PDF)
 
