@@ -1,6 +1,7 @@
 AJUSTE GENERAL
 
 1) Quitar las lineas que dividen las secciones, excepto la última, la del footer. Esa queda.
+@DONE
 
 2) Las divisiones las generamos con el cambio de color del background. Está muy bueno el efecto que le dieron. Solo diría que el fade sea más rápido entre sección y sección.En el PDF COLORES.PDF puden ver la nueva paleta (acotada a tres colores) con los siguentes códigos:
 @DONE
@@ -10,7 +11,7 @@ Rosa: #ffccff (En el PDF el rosa me quedó casi violeta x error, no le den bola.
 
 
 3) Todos los hiperlinks van en negro y subrayados (en FOOTER.PDF se puede ver bien)
-    @DONE
+@DONE
 
 
 TOP MENU (ver MENU.PDF)
