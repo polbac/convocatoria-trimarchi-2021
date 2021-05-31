@@ -44,6 +44,8 @@ CATEGORÍAS (ver CATEGORIAS.PDF)
 JURADO
 
 1) El título está en plural, pero debería decir solo JURADO (sin "S")
+@DONE
+
 2) Podemos hacer que en cada imagen de cada jurado (así como también en la sección "QUIENES SOMOS") haya un slider? Para poner más de una imagen cuando sea necesario.
 
 INSCRIPCIÓN (ver INSCRIPCIÓN.PDF)
@@ -57,9 +59,12 @@ QUIENES SOMOS
 
 FAQs
 Cambio de nombre: de F.A.Q a FAQs
+@DONE
 
 FOOTER (ver FOOTER.PDF)
 1) Cambio de nombre de las FAQs en el footer
+@DONE
+
 2) La linea divisoria se mantiene solo acá
 3) Se va el texto "Go to Top"
 4) Reemplazar x gif nuevo

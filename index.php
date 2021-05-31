@@ -18,7 +18,7 @@
                 <a href="#jurado" class="menu-item smooth-link">JURADO</a>
                 <a href="#inscripcion" class="menu-item smooth-link">INSCRIPCIÓN</a>
                 <a href="#quienes" class="menu-item smooth-link">QUIENES SOMOS</a>
-                <a href="#faq" class="menu-item smooth-link">F.A.Q</a>
+                <a href="#faq" class="menu-item smooth-link">FAQs</a>
             </nav>
             <img class="tmdg"src="tmdg-logo.svg"/>
         </header>
@@ -125,7 +125,7 @@
 
     <div class="bloque dos" id="categorias" color="#99ff99">
         <h1 class="titulo">
-            CATEGORIAS
+            CATEGORÍAS
         </h1>
         <div class="columnas">
             <div class="columna">
@@ -453,7 +453,7 @@
 
     <div class="bloque tres" id="jurado" color="#ffccff">
         <h1 class="titulo">
-            JURADOS
+            JURADO
         </h1>
         <div class="columnas">
 
@@ -643,7 +643,7 @@
 
     <div class="bloque seis" id="faq" color="#ffccff">
         <h1 class="titulo">
-            F.A.Q.
+            FAQs
         </h1>
         <div class="columnas">
             <p class="texto">
@@ -720,7 +720,7 @@
             <div>
                 <a href="#inscripcion" class="menu-item smooth-link">INSCRIPCIÓN</a>
                 <a href="#quienes-somos" class="menu-itemv">QUIENES SOMOS</a>
-                <a href="#faq" class="menu-item smooth-link">F.A.Q</a>
+                <a href="#faq" class="menu-item smooth-link">FAQs</a>
             </div>
 
             <div>
@@ -733,7 +733,6 @@
 
         <div class="footer-icon">
             <a href="#top" class='go-to-top smooth-link'>
-                (Go to top)<br/>
                 <img src="assets/top.svg" />
             </a>
         </div>
