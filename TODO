@@ -10,10 +10,7 @@ Rosa: #ffccff (En el PDF el rosa me quedó casi violeta x error, no le den bola.
 
 
 3) Todos los hiperlinks van en negro y subrayados (en FOOTER.PDF se puede ver bien)
-
-
-
-
+    @DONE
 
 
 TOP MENU (ver MENU.PDF)
@@ -51,6 +48,7 @@ JURADO
 INSCRIPCIÓN (ver INSCRIPCIÓN.PDF)
 
 Tilde en rojo idem CATEGORIAS. (Ver q "Leer más" también está subrayado, como todo hiperlink)
+@DONE
 
 QUIENES SOMOS
 
@@ -66,7 +64,11 @@ FOOTER (ver FOOTER.PDF)
 @DONE
 
 2) La linea divisoria se mantiene solo acá
+@DONE
+
 3) Se va el texto "Go to Top"
+@DONE
+
 4) Reemplazar x gif nuevo
 
 GIFs

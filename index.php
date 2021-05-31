@@ -651,8 +651,7 @@
                 La Convocatoria está abierta a creativos de todo el mundo, mayores de 18 años.
                 <br /><br />
                 <span>¿CÓMO PUEDO PARTICIPAR?</span><br />
-                Los participantes deberán inscribirse a través de la página web trimarchidg.net/-
-                convocatoriatrimarchi2021 completando de forma obligatoria un formulario con la
+                Los participantes deberán inscribirse a través de la página web <a href="http://trimarchidg.net/convocatoriatrimarchi2021">trimarchidg.net/convocatoriatrimarchi2021</a> completando de forma obligatoria un formulario con la
                 siguiente información: usuario en domestika, nombre y apellido, edad, e-mail, link a
                 porfolio, ciudad y país. Además deberán seleccionar la/s categoría/s en las que
                 quieren participar.
@@ -663,8 +662,9 @@
                 tamaño máximo admitido es de 20 MB.
                 <br /><br />
                 <span>¿CÓMO HAGO PARA REGISTRARME EN DOMESTIKA?</span><br />
-                Si todavía no tenés usuario en Domestika, podés crearlo ingresando en https://www.
-                domestika.org/es y allí hacé click en “Crear cuenta”. Al crear tu perfil, te
+                Si todavía no tenés usuario en Domestika, podés crearlo ingresando en <a href="https://www.
+                domestika.org/es" target="_blank">https://www.
+                domestika.org/es</a> y allí hacé click en “Crear cuenta”. Al crear tu perfil, te
                 recomendamos hacerlo de manera completa (agregá una foto de perfil y contanos
                 algo sobre vos. Eso nos ayudará a conocerte más y te dará mayores chances de ser
                 elegido. Recordá que estar registrado en Domestika es un requisito obligatorio
@@ -673,7 +673,7 @@
                 <span>SI YA TENGO USUARIO EN DOMESTIKA PERO NO RECUERDO EL NOMBRE,<br />
                 ¿CÓMO HAGO PARA CONSULTARLO?</span><br />
                 Para saber cuál es tu nombre de usuario en Domestika, ingresá
-                https://www.domestika.org/ y una vez que estés logueado, hacé click en el
+                <a href="https://www.domestika.org/" target="_blank">https://www.domestika.org/</a> y una vez que estés logueado, hacé click en el
                 avatar (con tu foto de perfil) que está en el margen superior derecho. En el menú
                 que se despliega, clickeá en “ver Perfil”. Allí debajo de tu nombre, aparecerá tu
                 nombre de usuario precedido por un @.
@@ -688,7 +688,7 @@
                 El plazo para inscribirse en la categoría 8 es desde el 01/05/2021 al 15/12/2021 inclusive.
                 <br /><br />
                 <span>¿CUANDO SE ANUNCIAN LOS GANADORES?</span><br />
-                Los ganadores de las categorías 1 a 7 serán anunciados en trimarchidg.net/convocatoriatrimarchi2021
+                Los ganadores de las categorías 1 a 7 serán anunciados en <a href="https://trimarchidg.net/convocatoriatrimarchi2021" target="_blank">trimarchidg.net/convocatoriatrimarchi2021</a>
                 a partir del 30/06.
                 Al mismo tiempo, serán contactados a través de la cuenta de email asociada a su
                 usuario en Domestika.
@@ -697,7 +697,7 @@
                 proyecto en particular.
                 <br /><br />
                 <span>¿TENÉS MÁS PREGUNTAS?</span><br />
-                Escribinos a convocatoria@trimarchidg.net
+                Escribinos a <a href="mailto:convocatoria@trimarchidg.net">convocatoria@trimarchidg.net</a>
             </p>
         </div>
     
