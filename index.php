@@ -25,7 +25,7 @@
     </div>
 
     <div class="bloque uno" id="convocatoria" color="#ffff66">
-        <p class="destacado" min-weight="750" max-weight="840">
+        <p class="destacado" >
             Junto a DOMESTIKA lanzamos la
         </p>
         <h1 class="titulo">
@@ -34,16 +34,16 @@
             <span min-weight="600" max-weight="840">JUN-15AGO</span>
         </h1>
         <p class="destacado">
-        <span min-weight="750" max-weight="840">
+        <span>
             Llamado abierto a ilustradores, animadores,
         </span><br />
-        <span min-weight="750" max-weight="840">
+        <span >
             diseñadores, artistas, emprendedores, educadores,
         </span><br />
-        <span min-weight="750" max-weight="840">
+        <span >
             músicos, realizadores audiovisuales y mucho más,
         </span><br />
-        <span min-weight="750" max-weight="840">
+        <span >
             para ser parte de diversos proyectos remotos.
         </span></p>
         <img class="animacion" src="reloj.svg"/>
@@ -56,7 +56,7 @@
     <script>
         (function() {
 
-            /* var xMousePos = 0;
+            var xMousePos = 0;
             var yMousePos = 0;
             var lastScrolledLeft = 0;
             var lastScrolledTop = 0;
@@ -102,7 +102,7 @@
 
             function calculateDistance(elem, mouseX, mouseY) {
                 return Math.floor(Math.sqrt(Math.pow(mouseX - (elem.offset().left+(elem.width()/2)), 2) + Math.pow(mouseY - (elem.offset().top+(elem.height()/2)), 2)));
-            } */
+            }
 
         function checkBackground() {
             const scrollTop = $(document).scrollTop()

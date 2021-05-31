@@ -11,7 +11,7 @@ Rosa: #ffccff (En el PDF el rosa me quedó casi violeta x error, no le den bola.
 
 
 3) Todos los hiperlinks van en negro y subrayados (en FOOTER.PDF se puede ver bien)
-@DONE
+@DONE @done
 
 
 TOP MENU (ver MENU.PDF)
@@ -31,7 +31,12 @@ TOP MENU (ver MENU.PDF)
 HOME/CONVOCATORIA (ver CONVOCATORIA.PDF)
 
 1) Reducir el tamaño del titulo "CONVOCATORIAS TRIMARCHI 2021...ETC" así como también los tÍtulos de todas las secciones aprox un 10...15% 
-2) Es verdad que se empasta un poco todo el bloque de texto variable. Pero el título "CONVOCATORIAS TRIMARCHI 2021...ETC" se ve bueno. Podemos probar dejando solo como texto variable ese título, y el resto de los textos fijos? ("Junto a Domestika/Llamado abierto...")
+
+2) Es verdad que se empasta un poco todo el bloque de texto variable. 
+Pero el título "CONVOCATORIAS TRIMARCHI 2021...ETC" se ve bueno.Podemos probar dejando solo como texto variable ese título, y el resto de los textos fijos? ("Junto a Domestika/Llamado abierto...")
+@DONE
+
+
 
 CATEGORÍAS (ver CATEGORIAS.PDF)
 
