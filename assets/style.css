@@ -57,7 +57,20 @@ header {
     right: 3vw;
     z-index: 999;
 }
+nav.menu a.lang{
+    margin-left: 10px;
+    margin: 0;
+    padding: 0;
+}
 
+nav .lang-switcher{
+    margin-left: 10px;
+}
+
+nav.menu a.lang.current{
+    font-weight: 600;
+}
+nav.menu a.active,
 nav.menu a:hover{
     font-weight: 600;
 }
@@ -87,6 +100,10 @@ nav.menu a {
     margin: 0 .5vw;
     text-decoration: none;
     transition: font-weight .2s;
+}
+
+nav.menu{
+    font-size: 1.1vw;
 }
 
 nav.menu a:hover {
@@ -192,6 +209,18 @@ p.caption a {
 .columna {
     width: 32%;
     margin-top: 6vw;
+}
+
+.black{
+    color: black !important;
+}
+
+.lowercase{
+    text-transform: lowercase;
+}
+
+.columna a{
+    color: black;
 }
 
 /*HOME*/

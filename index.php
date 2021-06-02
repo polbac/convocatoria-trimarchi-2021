@@ -19,6 +19,10 @@
                 <a href="#inscripcion" class="menu-item smooth-link">INSCRIPCIÓN</a>
                 <a href="#quienes" class="menu-item smooth-link">QUIENES SOMOS</a>
                 <a href="#faq" class="menu-item smooth-link">FAQs</a>
+
+                <span class='lang-switcher'>
+                    <a href="/" class="lang current">ES</a>/<a class="lang" href="/en">EN</a>
+                </span>
             </nav>
             <img class="tmdg"src="tmdg-logo.svg"/>
         </header>
@@ -599,7 +603,7 @@
             <div class="columna">
                 <img class="jurado" src="blank.jpg"/>
                 <p class="caption">
-                    ¿Querés saber más? Visitá <a href="https://www.trimarchidg.net/">TRIMARCHIDG.NET</a>
+                    ¿Querés saber más? Visitá <a class='black lowercase' href="https://www.trimarchidg.net/">TRIMARCHIDG.NET</a>
                 </p>
             </div>
 
@@ -783,6 +787,36 @@
             window.scrollTo({ top: $(classElement).offset().top, behavior: 'smooth' })
             return false
         })
+
+        
+            
+            
+
+            function checkScroll() {
+                const $scrollPos = $("body").scrollTop()
+                let $current = null
+                
+                $('.bloque').each(function() {
+                    if ($scrollPos <= $(this).offset().top + $(this).height() && !$current) {
+                        $current = $(this)
+                    }
+                })
+                
+                $("nav a.menu-item").removeClass("active")
+                $("nav a.menu-item[href='#" + $current.attr("id") + "']").addClass('active')
+            }
+
+            checkScroll()
+        
+            $(document).scroll(checkScroll)
+        
+
+        
+
+        
+        
+        
+
     </script>
 
 </body>
