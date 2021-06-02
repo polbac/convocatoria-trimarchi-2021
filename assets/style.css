@@ -210,6 +210,18 @@ p.caption a {
     margin-top: 6vw;
 }
 
+.black{
+    color: black !important;
+}
+
+.lowercase{
+    text-transform: lowercase;
+}
+
+.columna a{
+    color: black;
+}
+
 /*HOME*/
 .bloque.uno {
     margin-top: 1.5vw;

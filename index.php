@@ -603,7 +603,7 @@
             <div class="columna">
                 <img class="jurado" src="blank.jpg"/>
                 <p class="caption">
-                    ¿Querés saber más? Visitá <a href="https://www.trimarchidg.net/">TRIMARCHIDG.NET</a>
+                    ¿Querés saber más? Visitá <a class='black lowercase' href="https://www.trimarchidg.net/">TRIMARCHIDG.NET</a>
                 </p>
             </div>
 
