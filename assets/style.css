@@ -72,6 +72,7 @@ header img.domestika {
 
 header img.tmdg {
     height: 1.2vw;
+    padding-bottom: 1vw;
 }
 
 header img.tmdg {
@@ -106,7 +107,7 @@ h1 {
 
 h1.titulo {
     margin: 1.75vw 0;
-    font-size: 11.6vw;
+    font-size: 10vw;
     font-weight: 840;
     text-align: center;
     line-height: 0.75;
