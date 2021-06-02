@@ -134,7 +134,9 @@
         <div class="columnas">
             <div class="columna">
                 <div class="check-categoria">
-                    <img src="dibujo1.png"/>
+                    <img class="normal" src="dibujo1-blank.png"/>
+                    <img class="hover" src="dibujo1-hover.png"/>
+                    <img class="select" src="dibujo1-select.png"/>
                     <h2 class="subtitulo">
                         CONFERENCIA
                     </h2>
@@ -172,7 +174,9 @@
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img src="dibujo2.png"/>
+                    <img class="normal" src="dibujo2-blank.png"/>
+                    <img class="hover" src="dibujo2-hover.png"/>
+                    <img class="select" src="dibujo2-select.png"/>
                     <h2 class="subtitulo">
                         EXPO
                     </h2>
@@ -215,7 +219,10 @@
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img src="dibujo3.png"/>
+                    <img class="normal" src="dibujo3-blank.png"/>
+                    <img class="hover" src="dibujo3-hover.png"/>
+                    <img class="select" src="dibujo3-select.png"/>
+                    
                     <h2 class="subtitulo">
                         WORKSHOP
                     </h2>
@@ -244,7 +251,9 @@
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img src="dibujo4.png"/>
+                    <img class="normal" src="dibujo4-blank.png"/>
+                    <img class="hover" src="dibujo4-hover.png"/>
+                    <img class="select" src="dibujo4-select.png"/>
                     <h2 class="subtitulo">
                         INDUMENTARIA
                     </h2>
@@ -282,7 +291,9 @@
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img src="dibujo5.png"/>
+                    <img class="normal" src="dibujo5-blank.png"/>
+                    <img class="hover" src="dibujo5-hover.png"/>
+                    <img class="select" src="dibujo5-select.png"/>
                     <h2 class="subtitulo">
                         EMPRENDIMIENTO
                     </h2>
@@ -321,7 +332,9 @@
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img src="dibujo6.png"/>
+                    <img class="normal" src="dibujo6-blank.png"/>
+                    <img class="hover" src="dibujo6-hover.png"/>
+                    <img class="select" src="dibujo6-select.png"/>
                     <h2 class="subtitulo">
                         MÚSICA
                     </h2>
@@ -373,7 +386,9 @@
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img src="dibujo7.png"/>
+                    <img class="normal" src="dibujo7-blank.png"/>
+                    <img class="hover" src="dibujo7-hover.png"/>
+                    <img class="select" src="dibujo7-select.png"/>
                     <h2 class="subtitulo">
                         VIDEOCLIP
                     </h2>
@@ -401,7 +416,9 @@
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img src="dibujo8.png"/>
+                    <img class="normal" src="dibujo8-blank.png"/>
+                    <img class="hover" src="dibujo8-hover.png"/>
+                    <img class="select" src="dibujo8-select.png"/>
                     <h2 class="subtitulo">
                         PORTADA
                     </h2>
@@ -429,7 +446,9 @@
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img src="dibujo9-2.png"/>
+                    <img class="normal" src="dibujo9-blank.png"/>
+                    <img class="hover" src="dibujo9-hover.png"/>
+                    <img class="select" src="dibujo9-select.png"/>
                     <h2 class="subtitulo">
                         COLECTIVO
                     </h2>

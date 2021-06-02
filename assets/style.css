@@ -242,6 +242,10 @@ p.caption a {
     padding: 0 !important;
 }
 
+.bloque.dos .columna {
+    position: relative;
+}
+
 .bloque.dos .columnas p.texto{
     padding: 0 2vw;
 }
@@ -251,20 +255,52 @@ p.caption a {
     height: 32.55vw;
 }
 
+.check-categoria {
+    position: relative;
+    cursor: pointer;
+}
+
+.check-categoria:hover img.normal {
+    opacity: 0;
+}
+
+
 .check-categoria img {
     width: 100%;
     /*margin-left: 12.5%;*/
 }
 
-.check-categoria img, .check-categoria h2.subtitulo {
+.check-categoria img.normal, .check-categoria h2.subtitulo {
     opacity: .3;
     transition: opacity .2s;
     cursor: pointer;
 }
 
-.check-categoria.active img, .check-categoria.active h2.subtitulo,
-.check-categoria:hover img, .check-categoria:hover h2.subtitulo {
+.check-categoria.active img.select, .check-categoria.active h2.subtitulo,
+.check-categoria:hover img.hover, .check-categoria:hover h2.subtitulo {
     opacity: 1;
+    transition: .3s;
+    cursor: pointer;
+}
+
+
+
+img.normal {
+    
+}
+
+img.hover {
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    left: 0;
+}
+
+img.select {
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    left: 0;
 }
 
 .item {
@@ -675,7 +711,7 @@ aside{
 }
 
 aside .modal{
-    background: black;
+    background: red;
     padding-left: 20px;
     padding-right: 20px;
     height: 60px;
@@ -687,4 +723,5 @@ aside .modal{
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 5px;
 }
