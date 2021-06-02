@@ -787,6 +787,36 @@
             window.scrollTo({ top: $(classElement).offset().top, behavior: 'smooth' })
             return false
         })
+
+        
+            
+            
+
+            function checkScroll() {
+                const $scrollPos = $("body").scrollTop()
+                let $current = null
+                
+                $('.bloque').each(function() {
+                    if ($scrollPos <= $(this).offset().top + $(this).height() && !$current) {
+                        $current = $(this)
+                    }
+                })
+                
+                $("nav a.menu-item").removeClass("active")
+                $("nav a.menu-item[href='#" + $current.attr("id") + "']").addClass('active')
+            }
+
+            checkScroll()
+        
+            $(document).scroll(checkScroll)
+        
+
+        
+
+        
+        
+        
+
     </script>
 
 </body>

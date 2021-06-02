@@ -70,6 +70,7 @@ nav .lang-switcher{
 nav.menu a.lang.current{
     font-weight: 600;
 }
+nav.menu a.active,
 nav.menu a:hover{
     font-weight: 600;
 }
