@@ -19,6 +19,10 @@
                 <a href="#inscripcion" class="menu-item smooth-link">INSCRIPCIÓN</a>
                 <a href="#quienes" class="menu-item smooth-link">QUIENES SOMOS</a>
                 <a href="#faq" class="menu-item smooth-link">FAQs</a>
+
+                <span class='lang-switcher'>
+                    <a href="/" class="lang current">ES</a>/<a class="lang" href="/en">EN</a>
+                </span>
             </nav>
             <img class="tmdg"src="tmdg-logo.svg"/>
         </header>
