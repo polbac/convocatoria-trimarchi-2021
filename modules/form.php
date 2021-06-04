@@ -8,7 +8,7 @@ $countriesAndCities = file_get_contents('countries.min.json');
 </script>
 
 <form name="register-form" class="register-form">
-    <h1 class="titulo">
+    <h1 class="titulo"  min-weight="740" max-weight="840">
         INSCRIPCIÓN
     </h2>
 

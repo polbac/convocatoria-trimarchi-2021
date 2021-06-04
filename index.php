@@ -133,7 +133,7 @@ $r_gif = (int)rand(1, 15);
     </script>
 
     <div class="bloque dos" id="categorias" color="#99ff99">
-        <h1 class="titulo">
+        <h1 class="titulo" min-weight="740" max-weight="840">
             CATEGORÍAS
         </h1>
         <div class="columnas">
@@ -479,8 +479,8 @@ $r_gif = (int)rand(1, 15);
         </div>
     </div>
 
-    <div class="bloque tres" id="jurado" color="#ffccff">
-        <h1 class="titulo">
+    <div class="bloque tres" id="jurado" color="#ffccff" min-weight="740" max-weight="840">
+        <h1 class="titulo"  min-weight="740" max-weight="840">
             JURADO
         </h1>
         <div class="columnas">
@@ -619,7 +619,7 @@ $r_gif = (int)rand(1, 15);
     </div>
 
     <div class="bloque cinco" id="quienes" color="#99ff99">
-        <h1 class="titulo">
+        <h1 class="titulo"  min-weight="740" max-weight="840">
             TRIMARCHI
         </h1>
         <div class="columnas">
@@ -670,7 +670,7 @@ $r_gif = (int)rand(1, 15);
     </div>
 
     <div class="bloque seis" id="faq" color="#ffccff">
-        <h1 class="titulo">
+        <h1 class="titulo" min-weight="740" max-weight="840">
             FAQs
         </h1>
         <div class="columnas">
