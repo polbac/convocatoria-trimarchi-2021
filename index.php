@@ -47,8 +47,8 @@ $r_gif = (int)rand(1, 14);
         </p>
         <h1 class="titulo">
             <span min-weight="740" max-weight="840">CONVOCATORIA</span>
-            <br /> <span min-weight="600" max-weight="840">TRIMARCHI 20211</span><br />
-            <span min-weight="600" max-weight="840">JUN-15AGO</span>
+            <br /> <span min-weight="600" max-weight="840">TRIMARCHI 2021</span><br />
+            <span min-weight="600" max-weight="840">15JUN-15AGO</span>
         </h1>
         <p class="destacado">
         <span>
@@ -954,6 +954,10 @@ $r_gif = (int)rand(1, 14);
                     new Glide(t, { autoplay: false, rewind: false }).mount()
                 })  
 
+    </script>
+
+    <script>
+        
     </script>
 
 </body>

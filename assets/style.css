@@ -780,12 +780,24 @@ aside .modal{
 /*MOBILE*/
 @media (max-width:600px) {
 
+    header img.domestika{
+        height: 4.2vw;
+    }
+
+    header img.tmdg {
+        height: 3.15vw !important;
+        padding: 0;
+    }
+
     .menu-mobile {
         display: inline;
         z-index: 99;
         transform: translateX(-50%);
         position: fixed;
         left: 50%;
+        font-size: 3.9vw;
+        top: 1.75vw;
+        font-weight: 840;
     }
 
     nav.menu {
@@ -816,6 +828,23 @@ aside .modal{
     nav.menu a.lang {
         display: inline;
     }
+
+    .bloque.uno {
+        margin-top: 7.5vw;
+        position: relative;
+    }
+
+    .bloque.uno img.animacion {
+        margin-top: -2.5vw;
+        bottom: 20vw;
+        right: 1.5vw;
+
+    }
+
+    p.destacado {
+        font-size: 3.5vw;
+    }
+
     button{
         font-size: 1rem;
     }
