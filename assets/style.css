@@ -746,3 +746,25 @@ aside .modal{
     justify-content: center;
     border-radius: 5px;
 }
+
+
+/*MOBILE*/
+@media (max-width:600px) {
+    nav.menu {
+        position: fixed;
+        width: 100vw;
+        height: 100vh;
+        background: red;
+        top: 0;
+        left: 0;
+        text-align: center;
+    }
+
+    nav.menu a {
+        font-size: 7.5vw;
+        color: white;
+
+    }
+
+}
+
