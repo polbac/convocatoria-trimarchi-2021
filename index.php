@@ -39,6 +39,8 @@ $r_gif = (int)rand(1, 14);
         </header>
     </div>
 
+    <div class="menu-mobile">MENU</div>
+
     <div class="bloque uno" id="convocatoria" color="#ffff66">
         <p class="destacado" >
             Junto a DOMESTIKA lanzamos la

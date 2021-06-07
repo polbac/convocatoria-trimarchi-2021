@@ -74,6 +74,10 @@ detalle {
     z-index: 99;
 }
 
+.menu-mobile {
+    display: none;
+}
+
 *[min-weight]{
     transition: font-weight 0.2s;
 }
@@ -775,6 +779,15 @@ aside .modal{
 
 /*MOBILE*/
 @media (max-width:600px) {
+
+    .menu-mobile {
+        display: inline;
+        z-index: 99;
+        transform: translateX(-50%);
+        position: fixed;
+        left: 50%;
+    }
+
     nav.menu {
         position: fixed;
         width: 100vw;
@@ -783,12 +796,25 @@ aside .modal{
         top: 0;
         left: 0;
         text-align: center;
+        padding-top: 27.5vh;
+        display: none;
     }
 
     nav.menu a {
-        font-size: 7.5vw;
+        font-size: 7vw;
         color: white;
+        display: block;
+    }
 
+    nav .lang-switcher {
+        margin-left: 0;
+        position: fixed;
+        bottom: 3vw;
+        transform: translateX(-50%);
+    }
+
+    nav.menu a.lang {
+        display: inline;
     }
 
 }
