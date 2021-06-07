@@ -513,10 +513,14 @@ $r_gif = (int)rand(1, 14);
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img height="400" src="assets/bio/Braulio/braulio01.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="assets/bio/Braulio/braulio02.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="assets/bio/Braulio/braulio03.jpg" /></li>
+                            <li class="glide__slide"><img height="400" src="assets/bio/Braulio/braulio01.jpg" /></li>
+                            <li class="glide__slide"><img height="400" src="assets/bio/Braulio/braulio02.jpg" /></li>
+                            <li class="glide__slide"><img height="400" src="assets/bio/Braulio/braulio03.jpg" /></li>
                         </ul>
+                        <div data-glide-el="controls">
+                            <button class='prev-arrow' data-glide-dir="<"><</button>
+                            <button class='next-arrow' data-glide-dir=">">></button>
+                        </div>
                     </div>
                 </div>
                 
@@ -540,6 +544,10 @@ $r_gif = (int)rand(1, 14);
                         <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
                         </ul>
                     </div>
+                    <div data-glide-el="controls">
+                            <button class='prev-arrow' data-glide-dir="<"><</button>
+                            <button class='next-arrow' data-glide-dir=">">></button>
+                        </div>
                 </div>
                 <h2 class="subtitulo">
                     DIANA<br />AIZEMBERG
@@ -561,6 +569,10 @@ $r_gif = (int)rand(1, 14);
                         <li class="glide__slide"><img height="400" src="assets/bio/Sofie/sofie04.jpg" /></li>
                         </ul>
                     </div>
+                    <div data-glide-el="controls">
+                            <button class='prev-arrow' data-glide-dir="<"><</button>
+                            <button class='next-arrow' data-glide-dir=">">></button>
+                        </div>
                 </div>
                 <h2 class="subtitulo">
                     SOFIE FATOURETCHI
@@ -581,6 +593,10 @@ $r_gif = (int)rand(1, 14);
                         <li class="glide__slide"><img height="400" src="assets/bio/Ca7riel/ca7riel02.jpg" /></li>
                         </ul>
                     </div>
+                    <div data-glide-el="controls">
+                            <button class='prev-arrow' data-glide-dir="<"><</button>
+                            <button class='next-arrow' data-glide-dir=">">></button>
+                        </div>
                 </div>
                 <h2 class="subtitulo">
                     CA7RIEL
@@ -600,6 +616,10 @@ $r_gif = (int)rand(1, 14);
                         <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
                         </ul>
                     </div>
+                    <div data-glide-el="controls">
+                            <button class='prev-arrow' data-glide-dir="<"><</button>
+                            <button class='next-arrow' data-glide-dir=">">></button>
+                        </div>
                 </div>
                 <h2 class="subtitulo">
                     MONOBLOCK
@@ -619,6 +639,10 @@ $r_gif = (int)rand(1, 14);
                         <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
                         </ul>
                     </div>
+                    <div data-glide-el="controls">
+                            <button class='prev-arrow' data-glide-dir="<"><</button>
+                            <button class='next-arrow' data-glide-dir=">">></button>
+                        </div>
                 </div>
                 <h2 class="subtitulo">
                     DAVID MÉNDEZ<br />ALONSO
@@ -631,11 +655,17 @@ $r_gif = (int)rand(1, 14);
             </div>
 
             <div class="columna">
-                <div class="glide__track" data-glide-el="track">
+                <div class="glide">
+                    <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
                         <li class="glide__slide"><img height="400" src="assets/bio/Garabal/garabal01.jpg" /></li>
                         </ul>
                     </div>
+                    <!-- <div data-glide-el="controls">
+                            <button class='prev-arrow' data-glide-dir="<"><</button>
+                            <button class='next-arrow' data-glide-dir=">">></button>
+                    </div> -->
+                </div>
                 <h2 class="subtitulo">
                 MARTÍN<br />GARABAL
                 </h2>
@@ -916,7 +946,7 @@ $r_gif = (int)rand(1, 14);
 
             document.querySelectorAll('.glide')
                 .forEach(t => {
-                    new Glide(t, { autoplay: false }).mount()
+                    new Glide(t, { autoplay: false, rewind: false }).mount()
                 })  
 
     </script>
