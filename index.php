@@ -707,7 +707,7 @@ $r_gif = (int)rand(1, 14);
                     </div>
                 </div>
                 <h2 class="subtitulo" style="width: calc(100% + 5vw); margin-left: -2.5vw;">
-                    Pablo &amp; Seba<br />(TMDG-Domestika)
+                    PABLO &amp; SEBA<br />(TMDG-Domestika)
                 </h2>
                 <p class="texto">
                     Pablo &quot;Pacheco&quot; González Díaz y Sebastián &quot;Acampante&quot; Valdivia son diseñadores y
