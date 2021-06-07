@@ -816,6 +816,42 @@ aside .modal{
     nav.menu a.lang {
         display: inline;
     }
+    button{
+        font-size: 1rem;
+    }
+    input, select, textarea{
+        font-size: 0.75rem;
+    }
 
+    .columna{
+        width: 47%;
+        overflow-x: hidden;
+    }
+
+    .bloque.seis p.texto{
+        padding-left: 0;
+    }
+
+    p.texto{
+        font-size: 2.5vw;
+    }
+
+    h2.subtitulo{
+        font-size: 6vw;
+    }
+    li.glide__slide img{
+        height: 45vw !important;
+    }
+    .bloque.tres h2.subtitulo {
+        height: 11vw;
+    }
+
+    .bloque.tres .columna:last-of-type h2.subtitulo{
+        height: 16vw;
+    }
+
+    .form-step h2.subtitulo{
+        text-align: left;
+    }
 }
 
