@@ -19,7 +19,7 @@ $r_gif = (int)rand(1, 14);
 <body id="top">
     <div class="menubar" >
         <header>
-            <img class="domestika" src="domestika-logo.svg"/>
+            <a hfer="https://www.domestika.org/" target="_blank"><img class="domestika" src="domestika-logo.svg"/></a>
             <nav class="menu">
                 <a href="#convocatoria" class="menu-item smooth-link">CONVOCATORIA</a>
                 <a href="#categorias" class="menu-item smooth-link">CATEGORÍAS+ESTÍMULOS</a>
@@ -29,10 +29,10 @@ $r_gif = (int)rand(1, 14);
                 <a href="#faq" class="menu-item smooth-link">FAQs</a>
 
                 <span class='lang-switcher'>
-                    <a href="/" class="lang current">ES</a>/<a class="lang" href="/en">EN</a>
+                <a href="/" class="lang current">ES</a>/<a class="lang" href="/en">EN</a>
                 </span>
             </nav>
-            <img class="tmdg"src="tmdg-logo.svg"/>
+            <a hfer="https://www.trimarchidg.net/" target="_blank"><img class="tmdg"src="tmdg-logo.svg"/></a>
         </header>
     </div>
 
@@ -151,25 +151,28 @@ $r_gif = (int)rand(1, 14);
                     </h2>
                 </div>
                 <p class="texto">
-                    Las conferencias son parte del corazón de TRImarchi.
-                    En nuestro camino, hemos gozado con la presencia en nuestros
-                    escenarios de enormes figuras como Seymour Chwast, Paula Scher,
-                    Stefan Sagmeister, Ellen Lupton, entre muchos otros.<br />
-                    Este año, la oportunidad es tuya. Si querés hablarle a la
-                    comunidad sobre tu carrera, proyectos y experiencias,
-                    inscribite en esta categoría y participa por:
+                    Las conferencias son parte del corazón de TRImarchi. En nuestro camino, hemos
+                    gozado con la presencia en nuestros escenarios de enormes figuras como Seymour
+                    Chwast, Paula Scher, Stefan Sagmeister, Ellen Lupton, entre muchos otros.
+                    Este año, la oportunidad es tuya. Si querés hablarle a la comunidad sobre tu carrera,
+                    proyectos y experiencias, inscribite en esta categoría y participa por:
                 </p>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Ser contratado* para brindar una charla en el encuentro virtual
-                        de cierre de la Convocatoria TRImarchi 2021. <a href="#">*Ver bases legales</a>
+                        Dar una charla en el streaming show de cierre de la Convocatoria TRImarchi 2021. <a href="#">*Ver bases legales</a>
                     </p>
                 </div>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Tener un encuentro directo con...<br />donde hará una review de tu porfolio.
+                        Tener un encuentro virtual con Braulio Amado donde te dará un feedback de tu propuesta.
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                    Incentivo de USD 1.000.
                     </p>
                 </div>
                 <div class="item">
@@ -191,32 +194,30 @@ $r_gif = (int)rand(1, 14);
                     </h2>
                 </div>
                 <p class="texto">
-                    Artistas muy diversos siempre han tenido lugar en TRImarchi
-                    para mostrar su trabajo. Sabemos que hay muchas buenas ideas
-                    que solo necesitan una mano amiga para ver la luz. Por eso,
-                    si tenés en mente una obra artística para desarrollar y exponer,
-                    inscribite en esta categoría y participa por:
+                    Una enorme diversidad de artistas han encontrado en TRImarchi un lugar para
+                    mostrar su trabajo. Sabemos que hay muchas buenas ideas que solo necesitan una
+                    mano amiga para ver la luz. Por eso, si tenés en mente una obra artística para
+                    desarrollar, inscribite en esta categoría y participa por:
                 </p>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Obtener un incentivo económico de<br />
-                        U$S 3.000para desarrollar tu obra
+                        Tres encuentros virtuales de asesoramiento con Diana Aisemberg.
                     </p>
                 </div>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                    Contar con la asesoría de <span>DIANA AIZEMBERG</span> durante el proceso
+                        Obtener un apoyo económico de USD 2.500 para desarrollar tu obra.
                     </p>
                 </div>
-                <div class="item">
+                <!--div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
                         Exhibir tu obra en el Museo MAR<br />
                         en Mar del Plata
                     </p>
-                </div>
+                </div-->
                 <div class="item">
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
@@ -237,16 +238,28 @@ $r_gif = (int)rand(1, 14);
                     </h2>
                 </div>
                 <p class="texto">
-                    Una de las razones por las que nace TRImarchi es saciar
-                    la sed de quienes buscan data. Si tenés vocación de enseñar
-                    y querés compartir lo que sabés, anotate en esta categoría
-                    para participar por la posibilidad de:
+                    Una de las razones por las que nace TRImarchi es saciar la sed de quienes buscan
+                    data. Si tenés vocación de enseñar, querés ampliar tus conocimientos, adquirir
+                    nuevas herramientas y compartir lo que sabés, anotate en esta categoría y participa
+                    por:
                 </p>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                    Tener tu propio curso en<br />
-                    <span>DOMESTIKA</span>
+                        Incentivo económico de USD 1.000.
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                        10 cursos de <span>DOMESTIKA</span> a tu elección.
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                        Acercamos tu proyecto a <span>DOMESTIKA</span> para tener la posibilidad de tener tu propio
+                        curso en su plataforma.
                     </p>
                 </div>
                 <div class="item">
@@ -268,25 +281,20 @@ $r_gif = (int)rand(1, 14);
                     </h2>
                 </div>
                 <p class="texto">
-                    ¿Querés crear o darle impulso a tu marca de indumentaria?
-                    Éste es tu lugar dentro de la convocatoria. Inscribite en
-                    esta categoría para:
+                    ¿Querés crear o darle impulso a tu marca de indumentaria? Éste es tu lugar dentro
+                    de la convocatoria. Inscribite en esta categoría para:
                 </p>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Obtener un incentivo económico de<br />
-                        U$S 2.000 para desarrollar o impulsar<br />
-                        tu proyecto
+                        Obtener un apoyo económico de USD 2.500 para desarrollar o impulsar tu proyecto.
                     </p>
                 </div>
+
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Tener una serie de encuentros con<br />
-                        <span>DAVID MENDEZ ALONSO</span> (Outsider<br />
-                        Division), para que te oriente y ofrezca<br />
-                        sus consejos.
+                    Tres encuentros virtuales de asesoramiento con el diseñador español <span>DAVID MENDEZ ALONSO</span> (Outsiders Division).
                     </p>
                 </div>
                 <div class="item">
@@ -308,25 +316,20 @@ $r_gif = (int)rand(1, 14);
                     </h2>
                 </div>
                 <p class="texto">
-                    Si tenés un proyecto personal vinculado a la creatividad
-                    o el arte al que querés hacer crecer, este es tu lugar
-                    dentro de la convocatoria. Anotate acá para:
+                    Esta es una llamada a quienes materializan, los makers de la comunidad. Si tenés un
+                    proyecto personal vinculado a la creatividad o el arte al que querés hacer crecer,
+                    este es tu lugar dentro de la convocatoria. Anotate acá para:
                 </p>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Obtener un incentivo económico de<br />
-                        U$S 2.000 para desarrollar o impulsar<br />
-                        tu proyecto.
+                        Tener tres encuentros virtuales de asesoramiento con <span>VIK ARRIETA</span> (Monoblock)
                     </p>
                 </div>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Tener una serie de encuentros con <span>VIK<br />
-                        ARRIETA</span> (Monoblock), para que te<br />
-                        ayude a encontrar el mejor camino<br />
-                        para tu iniciativa.
+                        Obtener un incentivo económico de USD 2.500 para desarrollar tu emprendimiento.
                     </p>
                 </div>
                 
@@ -349,39 +352,52 @@ $r_gif = (int)rand(1, 14);
                     </h2>
                 </div>
                 <p class="texto">
-                    Si sos una banda o músico solista, no podés perderte
-                    esta oportunidad. Compartinos una canción de tu autoría
-                    y si sos elegido:
+                    Como la música guarda un lugar especial en nuestro corazón, en esta categoría el
+                    reconocimiento será para dos artistas. Si hacés música, ya sea de manera solista o
+                    en una banda, no podés perderte esta oportunidad. Compartinos una canción de tu
+                    autoría y si te elegimos:
                 </p>
                 <div class="item">
-                    <img src="item.svg"/>
+                    <!--img src="item.svg"/-->
                     <p class="texto">
-                        Financiamos la grabación de un simple<br />
-                        en un estudio de primer nivel.
+                        <span>SELECCIONADX 1</span>
                     </p>
                 </div>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Filmamos el videoclip de tu simple,<br />
-                        con un director seleccionado de la<br />
-                        sección <span>VIDEOCLIP</span>, acompañado por<br />
-                        <span>ORCO VIDEOS</span>.
+                        Filmamos el videoclip de tu canción, con un director seleccionado de la categoría
+                        “Videoclip” y producido por el director de videoclips <span>ORCO VIDEOS</span>.
                     </p>
                 </div>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Conversá con <span>CA7RIEL</span> para que te<br />
-                        tire info única.
+                        Tené un encuentro virtual con el músico y compositor <span>CA7RIEL</span> para hablar sobre tu música.
+                    </p>
+                </div>
+                <div class="item">
+                    <!--img src="item.svg"/-->
+                    <p class="texto">
+                        <span>SELECCIONADX 2</span>
                     </p>
                 </div>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Diseñamos la portada de tu simple,<br />
-                        con el participante seleccionado de la<br />
-                        sección <span>PORTADA</span>.
+                        Financiamos la grabación y producción de un simple en un estudio de primer nivel.
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                    Tené un encuentro virtual con el músico y compositor <span>CA7RIEL</span> para hablar sobre tu música.
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                        Diseñamos la portada de tu simple con un participante seleccionado de la categoría “Colectivo TRImarchi”.
                     </p>
                 </div>
                 <div class="item">
@@ -395,23 +411,26 @@ $r_gif = (int)rand(1, 14);
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img class="normal" src="dibujo7-blank.png"/>
-                    <img class="hover" src="dibujo7-hover.png"/>
-                    <img class="select" src="dibujo7-select.png"/>
+                    <img class="normal" src="dibujo10-blank.png"/>
+                    <img class="hover" src="dibujo10-hover.png"/>
+                    <img class="select" src="dibujo10-select.png"/>
                     <h2 class="subtitulo">
                         VIDEOCLIP
                     </h2>
                 </div>
                 <p class="texto">
-                    En esta categoría buscamos personas que quieran dirigir
-                    un videoclip. Inscribite y participá por:
+                    En esta categoría buscamos personas que quieran dirigir un videoclip. Inscribite y participá por:
                 </p>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Ser contratado* para dirigir un video-<br />
-                        clip producido íntegramente <span>ORCO<br />
-                        VIDEOS</span>. <a href="">*Ver bases legales</a>
+                        Dirigir un videoclip producido íntegramente por <span>ORCO VIDEOS</span>.
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                    Incentivo de USD 1.000.
                     </p>
                 </div>
                 <div class="item">
@@ -423,7 +442,7 @@ $r_gif = (int)rand(1, 14);
                 </div>
             </div>
 
-            <div class="columna">
+            <!--div class="columna">
                 <div class="check-categoria">
                     <img class="normal" src="dibujo8-blank.png"/>
                     <img class="hover" src="dibujo8-hover.png"/>
@@ -451,7 +470,7 @@ $r_gif = (int)rand(1, 14);
                         <contador date="6/8/2021" hour="20:20"></contador>
                     </p>
                 </div>
-            </div>
+            </div-->
 
             <div class="columna">
                 <div class="check-categoria">
@@ -459,17 +478,17 @@ $r_gif = (int)rand(1, 14);
                     <img class="hover" src="dibujo9-hover.png"/>
                     <img class="select" src="dibujo9-select.png"/>
                     <h2 class="subtitulo">
-                        COLECTIVO
+                        COLECTIVO TRImarchi
                     </h2>
                 </div>
                 <p class="texto">
-                    Inscribite en esta categoría para tener la posibilidad de trabajar
-                    junto a nosotros en proyectos puntuales que tendrán lugar a lo
-                    largo del año. Hay muchas ideas dando vueltas, así que la búsqueda
-                    es amplia: ilustradorxs, diseñadorxs, tipógrafxs, fotógrafxs,
-                    ceramistas, artesanos y un largo etcétera. No hay plazo límite para
-                    inscribirse si querés formar parte del colectivo TRImarchi, pero no
-                    duermas, porque hay proyectos que comienzan muy pronto.
+                    Colectivo TRImarchi es nuestra idea de hacer un gran estudio, donde nadie quede
+                    afuera. En estos años hicimos proyectos con muchas marcas y bandas, donde
+                    vinculamos a la comunidad de TRImarchi combinando diversión y profesionalismo.
+                    Inscribite en esta categoría para tener la posibilidad de trabajar junto a nosotros en
+                    proyectos puntuales que tendrán lugar a lo largo del año. Hay muchas ideas dando
+                    vueltas, así que la convocatoria es amplia: ilustradores, diseñadores, tipógrafos,
+                    fotógrafos, ceramistas, muralistas, artesanos y un largo etcétera.
                 </p>
                 <div class="item">
                     <img src="cronometro-verde.svg"/>
@@ -505,25 +524,30 @@ $r_gif = (int)rand(1, 14);
                     BRAULIO<br />AMADO
                 </h2>
                 <p class="texto">
-                Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
-                magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
-                sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                    Es diseñador, ilustrador y director de arte. Actualmente es director de su propia agencia,
+                    BAD Studio. Trabajó para Pentagram, Bloomberg Business Week y Wieden Kennedy y
+                    colaboró con artistas como Frank Ocean, Beck, Washed Out e importantes clientes como
+                    Boiler Room, The New York Times, Apple, Nike y Adidas.
                 </p>
+                <credit>Foto © Chris Maggio</credit>
             </div>
 
             <div class="columna">
-                <img class="jurado" src="blank.jpg"/>
+                <div class="glide">
+                    <div class="glide__track" data-glide-el="track">
+                        <ul class="glide__slides">
+                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
+                        </ul>
+                    </div>
+                </div>
                 <h2 class="subtitulo">
                     DIANA<br />AIZEMBERG
                 </h2>
                 <p class="texto">
-                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                    sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
-                    magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
-                    sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                    eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                    Es artista visual, pintora, escritora, docente y curadora. Trabajó como docente en la
+                    Universidad de Buenos Aires y coordinó el área de artes plásticas del Centro Cultural Rojas.
+                    Fue premiada gracias a su trabajo educativo por la Asociación de Críticos Argentinos.
                 </p>
             </div>
 
@@ -539,15 +563,14 @@ $r_gif = (int)rand(1, 14);
                     </div>
                 </div>
                 <h2 class="subtitulo">
-                    SOFIE
+                    SOFIE FATOURETCHI
                 </h2>
                 <p class="texto">
-                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                    sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
-                    magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
-                    sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                    eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                    Es DJ, curadora, violinista, conductora de radio y artista. Trabajó para el sello independiente
+                    de rap Stones Throw Records y fue miembro del equipo de Boiler Room. En 2020, lanzó
+                    Cult Survivor, su álbum debut.
                 </p>
+                <credit>Fotos © Matthias Aschauer</credit>
             </div>
 
             <div class="columna">
@@ -563,44 +586,52 @@ $r_gif = (int)rand(1, 14);
                     CA7RIEL
                 </h2>
                 <p class="texto">
-                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                    sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
-                    magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
-                    sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                    eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                    Es músico, cantante y compositor. En 2015 lanzó su primer disco de hip hop, Cve7e.
+                    En 2018 formó un dúo de trap junto a Paco Amoroso. Colaboró con otros grandes
+                    protagonistas del sonido urbano como WOS, Chita, Duki y Bizarrap, entre otros.
                 </p>
             </div>
 
             <div class="columna">
-                <img class="jurado" src="blank.jpg"/>
+                <div class="glide">
+                    <div class="glide__track" data-glide-el="track">
+                        <ul class="glide__slides">
+                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
+                        </ul>
+                    </div>
+                </div>
                 <h2 class="subtitulo">
                     MONOBLOCK
                 </h2>
                 <p class="texto">
-                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                    sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
-                    magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
-                    sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                    eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                    Es comunicadora social, editora, escritora, ilustradora y directora de Monoblock, proyecto
+                    que cofundó junto a Pablo Galuppo en 2004. En 2014, publicó su primera novela, Redes
+                    Peligrosas, y en 2015 lanzó su propia línea de productos, Happimess.
                 </p>
             </div>
 
             <div class="columna">
-                <img class="jurado" src="blank.jpg"/>
+                <div class="glide">
+                    <div class="glide__track" data-glide-el="track">
+                        <ul class="glide__slides">
+                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
+                        </ul>
+                    </div>
+                </div>
                 <h2 class="subtitulo">
                     DAVID MÉNDEZ<br />ALONSO
                 </h2>
                 <p class="texto">
-                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                    sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
-                    magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
-                    sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                    eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                    Es ilustrador, diseñador, director de arte y director del proyecto de indumentaria Outsiders
+                    Division. Trabajó para numerosa marcas como Adidas, Converse, G-Star, H&amp;M, Levi’s,
+                    Wrangler, Samsung, Nissan, Perrier, Pull &amp; Bear y Reebok.
                 </p>
             </div>
 
             <div class="columna">
-            <div class="glide__track" data-glide-el="track">
+                <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
                         <li class="glide__slide"><img height="400" src="assets/bio/Garabal/garabal01.jpg" /></li>
                         </ul>
@@ -609,39 +640,51 @@ $r_gif = (int)rand(1, 14);
                 MARTÍN<br />GARABAL
                 </h2>
                 <p class="texto">
-                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                    sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
-                    magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
-                    sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                    eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                    Es dibujante, humorista, actor, conductor de radio y director. Creó y protagonizó la serie
+                    Famoso; realizó para UN3.TV los programas El Show de Cúmulo &amp; Nimbo, Periodismo total,
+                    Aventuras de Corazón Roto y Conocidos; fue co-conductor del programa radial Últimos
+                    Cartuchos.
                 </p>
             </div>
 
             <div class="columna">
-                <img class="jurado" src="blank.jpg"/>
+                <div class="glide">
+                    <div class="glide__track" data-glide-el="track">
+                        <ul class="glide__slides">
+                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
+                        </ul>
+                    </div>
+                </div>
                 <h2 class="subtitulo">
-                    TRIMARCHI
+                    ORCO VIDEOS
                 </h2>
                 <p class="texto">
-                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                    sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
-                    magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
-                    sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                    eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                    Julián Gonzalez Díaz (aka Orco) es un realizador audiovisual reconocido principalmente por
+                    sus videoclips. Hizo videos para Pablo Lescano, Paulo Londra, Dante, Neo Pistea, Duki,
+                    Cazzu, Nathy Peluso, Perota Chingó, Ca7riel y Paco Amoroso, entre otros. En 2016
+                    presentó su primer largometraje, Me quedo contigo.
                 </p>
             </div>
 
             <div class="columna">
-                <img class="jurado" src="blank.jpg"/>
-                <h2 class="subtitulo">
-                    DOMESTIKA
+                <div class="glide">
+                    <div class="glide__track" data-glide-el="track">
+                        <ul class="glide__slides">
+                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
+                        </ul>
+                    </div>
+                </div>
+                <h2 class="subtitulo" style="width: calc(100% + 5vw); margin-left: -2.5vw;">
+                    Pablo &amp; Seba<br />(TMDG-Domestika)
                 </h2>
                 <p class="texto">
-                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                    sed diam nonummy nibh eu ismod tincidunt ut laoreet dolore
-                    magna ali quam erat volutpat. Ut wisi enim. Lorem ipsum dolor
-                    sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                    eu ismod tincidunt ut laoreet dolore magna ali quam erat.
+                    Pablo &quot;Pacheco&quot; González Díaz y Sebastián &quot;Acampante&quot; Valdivia son diseñadores y
+                    fundadores de TRImarchi, el encuentro internacional de diseño más importante de
+                    Latinoamérica, que ya cuenta con 20 años de trayectoria. Desde hace algo más de un año,
+                    TRImarchi se unió a Domestika, con quien comparte el compromiso hacia la comunidad
+                    creativa y el trabajo dedicado al impulso y democratización del conocimiento.
                 </p>
             </div>
 
@@ -659,7 +702,17 @@ $r_gif = (int)rand(1, 14);
         <div class="columnas">
 
             <div class="columna">
-                <img class="jurado" src="blank.jpg"/>
+                <div class="glide">
+                    <div class="glide__track" data-glide-el="track">
+                        <ul class="glide__slides">
+                        <li class="glide__slide"><img height="400" src="tmdg01.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="tmdg02.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="tmdg03.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="tmdg04.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="tmdg05.jpg" /></li>
+                        </ul>
+                    </div>
+                </div>
                 <p class="caption">
                     ¿Querés saber más? Visitá <a class='black lowercase' href="https://www.trimarchidg.net/">TRIMARCHIDG.NET</a>
                 </p>
@@ -710,7 +763,7 @@ $r_gif = (int)rand(1, 14);
         <div class="columnas">
             <p class="texto">
                 <span>QUIÉNES PUEDEN PARTICIPAR?</span><br />
-                La Convocatoria está abierta a creativos de todo el mundo, mayores de 18 años.
+                La Convocatoria está abierta a creativos de todo el mundo, mayores de 16 años.
                 <br /><br />
                 <span>¿CÓMO PUEDO PARTICIPAR?</span><br />
                 Los participantes deberán inscribirse a través de la página web <a href="http://trimarchidg.net/convocatoriatrimarchi2021">trimarchidg.net/convocatoriatrimarchi2021</a> completando de forma obligatoria un formulario con la
@@ -719,44 +772,37 @@ $r_gif = (int)rand(1, 14);
                 quieren participar.
                 <br /><br />
                 <span>¿TENGO QUE TENER UN PORFOLIO ONLINE PARA PARTICIPAR?</span><br />
-                No es necesario. Si no tienes un porfolio online puedes subir un archivo para
-                mostrarnos tu trabajo en alguno de los siguientes formatos: pdf, jpg o mp3. El
-                tamaño máximo admitido es de 20 MB.
+                Sí. Si aun no tenés, tené en cuenta que podés mostrarnos tu trabajo usando diversas
+                plataformas: Behance, Instagram, la sección de proyectos de Domestika, Youtube, Vimeo o
+                cualquier otra que consideres apropiada. Además, opcionalmente, contás con la posibilidad
+                de adjuntar archivos al formulario en diferentes formatos: pdf, jpg, mp3, etc. con un tamaño
+                máximo de 10 MB.
                 <br /><br />
                 <span>¿CÓMO HAGO PARA REGISTRARME EN DOMESTIKA?</span><br />
                 Si todavía no tenés usuario en Domestika, podés crearlo ingresando en <a href="https://www.
                 domestika.org/es" target="_blank">https://www.
                 domestika.org/es</a> y allí hacé click en “Crear cuenta”. Al crear tu perfil, te
-                recomendamos hacerlo de manera completa (agregá una foto de perfil y contanos
-                algo sobre vos. Eso nos ayudará a conocerte más y te dará mayores chances de ser
-                elegido. Recordá que estar registrado en Domestika es un requisito obligatorio
-                para inscribirte en cualquiera de las categorías.
+                recomendamos hacerlo de manera completa (agregá una foto de perfil y contanos algo
+                sobre vos). Eso nos ayudará a conocerte más y te dará mayores chances de ser elegido.
                 <br /><br />
                 <span>SI YA TENGO USUARIO EN DOMESTIKA PERO NO RECUERDO EL NOMBRE,<br />
                 ¿CÓMO HAGO PARA CONSULTARLO?</span><br />
-                Para saber cuál es tu nombre de usuario en Domestika, ingresá
-                <a href="https://www.domestika.org/" target="_blank">https://www.domestika.org/</a> y una vez que estés logueado, hacé click en el
+                Para saber cuál es tu nombre de usuario en Domestika, ingresá a <a href="https://www.domestika.org/" target="_blank">https://www.domestika.org/</a> y una vez que estés logueado, hacé click en el
                 avatar (con tu foto de perfil) que está en el margen superior derecho. En el menú
                 que se despliega, clickeá en “ver Perfil”. Allí debajo de tu nombre, aparecerá tu
                 nombre de usuario precedido por un @.
                 <br /><br />
                 <span>¿ME PUEDO INSCRIBIR EN MÁS DE UNA CATEGORÍA?</span><br />
-                Sí. Los participantes pueden inscribirse en todas las categorías que quieran de
+                Sí. Lxs participantes pueden inscribirse en todas las categorías que quieran de
                 manera simultánea.
                 <br /><br />
                 <span>¿CUÁL ES EL PLAZO PARA INSCRIBIRME?</span><br />
-                El plazo para inscribirse en las categorías 1 a 7 es desde el 01/05/2021 al
-                15/06/2021 inclusive.
-                El plazo para inscribirse en la categoría 8 es desde el 01/05/2021 al 15/12/2021 inclusive.
+                El plazo para inscribirse es desde el 15/06/2021 al 31/07/2021 inclusive.
                 <br /><br />
-                <span>¿CUANDO SE ANUNCIAN LOS GANADORES?</span><br />
-                Los ganadores de las categorías 1 a 7 serán anunciados en <a href="https://trimarchidg.net/convocatoriatrimarchi2021" target="_blank">trimarchidg.net/convocatoriatrimarchi2021</a>
-                a partir del 30/06.
-                Al mismo tiempo, serán contactados a través de la cuenta de email asociada a su
-                usuario en Domestika.
-                Los ganadores de la categoría 8 serán contactados a través de la cuenta de email
-                asociada a su usuario en Domestika a medida que sean seleccionados para un
-                proyecto en particular.
+                <span>¿CUANDO SE ANUNCIAN LAS PERSONAS SELECCIONADAS?</span><br />
+                Serán anunciadas en trimarchidg.net/convocatoriatrimarchi2021 a partir del 10/08.
+                Al mismo tiempo, serán contactadas a través de la cuenta de email que hayan dejado
+                asentada en el formulario de inscripción.
                 <br /><br />
                 <span>¿TENÉS MÁS PREGUNTAS?</span><br />
                 Escribinos a <a href="mailto:convocatoria@trimarchidg.net">convocatoria@trimarchidg.net</a>
@@ -767,10 +813,11 @@ $r_gif = (int)rand(1, 14);
 
 
     <footer>
-        <div class="footer-brand-domestica">
+
+        <!--div class="footer-brand-domestica">
             <img class="domestika" src="domestika-logo.svg"/>
             <img class="tmdg" src="tmdg-logo.svg"/>
-        </div>
+        </div-->
 
         <nav class="menu">
             <div>
@@ -840,18 +887,14 @@ $r_gif = (int)rand(1, 14);
         }, 1000)
     </script>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/gsap.min.js">
-    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/gsap.min.js"></script>
+
     <script>
          $(".smooth-link").on("click", function() {
             const classElement = $(this).attr("href")
             window.scrollTo({ top: $(classElement).offset().top, behavior: 'smooth' })
             return false
         })
-
-        
-            
-            
 
             function checkScroll() {
                 const $scrollPos = $("body").scrollTop()
@@ -874,8 +917,7 @@ $r_gif = (int)rand(1, 14);
             document.querySelectorAll('.glide')
                 .forEach(t => {
                     new Glide(t, { autoplay: false }).mount()
-                })
-            
+                })  
 
     </script>
 

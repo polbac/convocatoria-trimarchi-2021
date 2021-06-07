@@ -91,7 +91,7 @@ $countriesAndCities = file_get_contents('countries.min.json');
             <h2 class="subtitulo">
                 Porfolio link*
             </h2>
-            <input class="grow" name="Porfolio" id="porfolio" type="text"  />
+            <input class="grow" name="Porfolio" id="porfolio" type="text" placeholder="Behance, Domestika, Instagram, Youtube, Vimeo, web, etc"  />
         </div>
 
         <div class="field-wrapper flex-column">
@@ -176,17 +176,17 @@ $countriesAndCities = file_get_contents('countries.min.json');
                 </label>
             </div>
 
-            <div class="field-option">
+            <!--div class="field-option">
                 <input type="checkbox" name="category" id="Portada" value="Portada">
                 <label for="Portada">
                     <h2 class="subtitulo">Portada</h2>
                 </label>
-            </div>
+            </div-->
 
             <div class="field-option">
                 <input type="checkbox" name="category" id="Colectivo" value="Colectivo">
                 <label for="Colectivo">
-                    <h2 class="subtitulo">Colectivo</h2>
+                    <h2 class="subtitulo">Colectivo TRImarchi</h2>
                 </label>
             </div>
             
