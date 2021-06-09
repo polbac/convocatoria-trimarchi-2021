@@ -442,6 +442,18 @@ img.select {
     bottom: 3vh;
 }
 
+.bloque.uno img.animacion.gif-13{
+    width: 24vw;
+    right: 8vw;
+    bottom: 2vh;
+}
+
+.bloque.uno img.animacion.gif-14{
+    width: 24vw;
+    right: 3vw;
+    bottom: 2vh;
+}
+
 /*JURADO*/
  
 li.glide__slide img {
