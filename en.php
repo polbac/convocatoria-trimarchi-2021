@@ -35,7 +35,7 @@ $r_gif = (int)rand(1, 14);
                 <a href="/" class="lang">ES</a>/<a class="lang current" href="/en">EN</a>
                 </span>
             </nav>
-            <a href="https://www.trimarchidg.net/" target="_blank"><img class="tmdg"src="tmdg-logo.svg"/></a>
+            <a href="https://www.trimarchidfg.net/" target="_blank"><img class="tmdg"src="tmdg-logo.svg"/></a>
         </header>
     </div>
 
@@ -180,7 +180,7 @@ $r_gif = (int)rand(1, 14);
                 <div class="item">
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
-                        Quedan<br />
+                        There are<br />
                         <contador date="30/5/2021" hour="20:20"></contador>
                     </p>
                 </div>
@@ -223,7 +223,7 @@ $r_gif = (int)rand(1, 14);
                 <div class="item">
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
-                        Quedan<br />
+                        There are<br />
                         <contador date="30/5/2021" hour="00:20"></contador>
                     </p>
                 </div>
@@ -254,7 +254,7 @@ $r_gif = (int)rand(1, 14);
                 <div class="item">
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
-                        Quedan<br />
+                        There are<br />
                         <contador date="30/5/2021" hour="20:20"></contador>
                     </p>
                 </div>
@@ -291,7 +291,7 @@ $r_gif = (int)rand(1, 14);
                 <div class="item">
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
-                        Quedan<br />
+                        There are<br />
                         <contador date="30/6/2021" hour="20:20"></contador>
                     </p>
                 </div>
@@ -328,7 +328,7 @@ $r_gif = (int)rand(1, 14);
                 <div class="item">
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
-                    Quedan<br />
+                    There are<br />
                     <contador date="30/5/2021" hour="20:20"></contador>
                     </p>
                 </div>
@@ -397,7 +397,7 @@ $r_gif = (int)rand(1, 14);
                 <div class="item">
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
-                        Quedan<br />
+                        There are<br />
                         <contador date="30/9/2021" hour="1:20"></contador>
                     </p>
                 </div>
@@ -433,7 +433,7 @@ $r_gif = (int)rand(1, 14);
                 <div class="item">
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
-                        Quedan<br />
+                        There are<br />
                         <contador date="29/5/2021" hour="20:20"></contador>
                     </p>
                 </div>
@@ -463,7 +463,7 @@ $r_gif = (int)rand(1, 14);
                 <div class="item">
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
-                        Quedan<br />
+                        There are<br />
                         <contador date="6/8/2021" hour="20:20"></contador>
                     </p>
                 </div>
@@ -487,7 +487,7 @@ Sign up for this category to access the possibility of working with us in specif
                 <div class="item">
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
-                        Quedan<br />
+                        There are<br />
                         <contador date="10/6/2021" hour="20:20"></contador>
                     </p>
                 </div>
@@ -888,7 +888,7 @@ OUT?</span><br />
                 var numhours = Math.floor((diffMinutes % 1440) / 60); 
                 var numminutes = Math.floor((diffMinutes % 1440) % 60); 
 
-                $(this).html(`${numdays} Días, ${numhours}h, ${numminutes}min`)
+                $(this).html(`${numdays} Days, ${numhours}h, ${numminutes}min`)
             })  
         }, 1000)
     </script>
