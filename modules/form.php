@@ -255,7 +255,7 @@ $countriesAndCities = file_get_contents('countries.min.json');
         if (file.size > MAX_FILE_SIZE) {
             fileData.innerHTML = "El archivo es muy pesado..."
             setTimeout(() => {
-                fileData.innerHTML = "MAX <b>5MB</b>"
+                fileData.innerHTML = "MAX <b>10MB</b>"
             }, 3000)
             return
         }
@@ -272,7 +272,7 @@ $countriesAndCities = file_get_contents('countries.min.json');
                 if (res.status === 'status_error') {
                     fileData.innerHTML = "<span style='color:red;'>UPS! ocurrió un error, intenta nuevamente</span>"
                     setTimeout(() => {
-                        fileData.innerHTML = "MAX <b>5MB</b>"
+                        fileData.innerHTML = "MAX <b>10MB</b>"
                     }, 3000)
                     return;
                 }
@@ -283,7 +283,7 @@ $countriesAndCities = file_get_contents('countries.min.json');
             .catch(err => {
                 fileData.innerHTML = "<span style='color:red;'>UPS! ocurrió un error, intenta nuevamente</span>"
                 setTimeout(() => {
-                    fileData.innerHTML = "MAX <b>5MB</b>"
+                    fileData.innerHTML = "MAX <b>10MB</b>"
                 }, 3000)
             })
     }
