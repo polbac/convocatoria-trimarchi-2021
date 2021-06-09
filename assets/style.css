@@ -384,7 +384,7 @@ li.glide__slide img {
 }
 
 .bloque.tres h2.subtitulo {
-    height: 6.5vw;
+    height: 8vw;
 }
 
 .bloque.tres credit {
@@ -782,6 +782,10 @@ aside .modal{
 /*MOBILE*/
 @media (max-width:600px) {
 
+    ::-webkit-scrollbar {
+        display: none;
+    }
+
     header img.domestika{
         height: 4.2vw;
     }
@@ -804,11 +808,11 @@ aside .modal{
 
     nav.menu {
         position: fixed;
-        width: 100vw;
         height: 100vh;
         background: red;
         top: 0;
         left: 0;
+        right: 0;
         text-align: center;
         padding-top: 27.5vh;
         display: none;
@@ -883,6 +887,11 @@ aside .modal{
 
     .form-step h2.subtitulo{
         text-align: left;
+    }
+
+    .bloque.dos .columna:nth-child(8) .check-categoria img {
+        width: auto;
+        height: 47.55vw;
     }
 }
 
