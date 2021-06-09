@@ -10,7 +10,9 @@ body{
     transition: background-color .5s !important;
     overflow-x: hidden;
 }
-
+a{
+    color: black;
+}
 .bloque.seis a{
     color: black;
     text-decoration: underline;

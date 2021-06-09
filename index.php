@@ -518,9 +518,9 @@ $r_gif = (int)rand(1, 14);
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                            <li class="glide__slide"><img height="400" src="assets/bio/Braulio/braulio01.jpg" /></li>
-                            <li class="glide__slide"><img height="400" src="assets/bio/Braulio/braulio02.jpg" /></li>
-                            <li class="glide__slide"><img height="400" src="assets/bio/Braulio/braulio03.jpg" /></li>
+                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Braulio/braulio01.jpg" /></li>
+                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Braulio/braulio02.jpg" /></li>
+                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Braulio/braulio03.jpg" /></li>
                         </ul>
                         <div data-glide-el="controls">
                             <button class='prev-arrow' data-glide-dir="<"><</button>
@@ -545,7 +545,7 @@ $r_gif = (int)rand(1, 14);
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                            <li class="glide__slide"><img height="400" src="assets/bio/Diana/diana01.jpg" /></li>
+                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Diana/diana01.jpg" /></li>
                         </ul>
                     </div>
                     
@@ -564,10 +564,10 @@ $r_gif = (int)rand(1, 14);
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img height="400" src="assets/bio/Sofie/sofie01.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="assets/bio/Sofie/sofie02.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="assets/bio/Sofie/sofie03.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="assets/bio/Sofie/sofie04.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Sofie/sofie01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Sofie/sofie02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Sofie/sofie03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Sofie/sofie04.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -590,8 +590,8 @@ $r_gif = (int)rand(1, 14);
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img height="400" src="assets/bio/Ca7riel/ca7riel01.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="assets/bio/Ca7riel/ca7riel02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Ca7riel/ca7riel01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Ca7riel/ca7riel02.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -613,10 +613,10 @@ $r_gif = (int)rand(1, 14);
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img height="400" src="assets/bio/Vik/vik01.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="assets/bio/Vik/vik02.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="assets/bio/Vik/vik03.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="assets/bio/Vik/vik04.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Vik/vik01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Vik/vik02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Vik/vik03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Vik/vik04.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -638,10 +638,10 @@ $r_gif = (int)rand(1, 14);
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img height="400" src="assets/bio/David/david01.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="assets/bio/David/david02.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="assets/bio/David/david03.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="assets/bio/David/david04.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/David/david01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/David/david02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/David/david03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/David/david04.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -663,11 +663,11 @@ $r_gif = (int)rand(1, 14);
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img height="400" src="assets/bio/Garabal/garabal01.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="assets/bio/Garabal/garabal02.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="assets/bio/Garabal/garabal03.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="assets/bio/Garabal/garabal04.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="assets/bio/Garabal/garabal05.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Garabal/garabal01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Garabal/garabal02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Garabal/garabal03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Garabal/garabal04.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Garabal/garabal05.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -690,9 +690,9 @@ $r_gif = (int)rand(1, 14);
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img height="400" src="assets/bio/Orco/orco01.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="assets/bio/Orco/orco02.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="assets/bio/Orco/orco03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Orco/orco01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Orco/orco02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Orco/orco03.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -715,7 +715,7 @@ $r_gif = (int)rand(1, 14);
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img height="400" src="assets/bio/Trimarchi/trimarchi01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/trimarchi01.jpg" /></li>
                         </ul>
                     </div>
                 </div>
@@ -748,11 +748,11 @@ $r_gif = (int)rand(1, 14);
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img height="400" src="tmdg01.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="tmdg02.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="tmdg03.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="tmdg04.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="tmdg05.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="tmdg01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="tmdg02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="tmdg03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="tmdg04.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="tmdg05.jpg" /></li>
                         </ul>
                     </div>
                 </div>
@@ -962,6 +962,9 @@ $r_gif = (int)rand(1, 14);
                     new Glide(t, { autoplay: false, rewind: false }).mount()
                 })  
 
+            $(".menu-mobile").click(function() {
+                
+            })
     </script>
 
     <script>
