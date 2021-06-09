@@ -24,11 +24,11 @@ $r_gif = (int)rand(1, 14);
         <header>
             <a href="https://www.domestika.org/" target="_blank"><img class="domestika" src="domestika-logo.svg"/></a>
             <nav class="menu">
-                <a href="#convocatoria" class="menu-item smooth-link">CONVOCATORIA</a>
-                <a href="#categorias" class="menu-item smooth-link">CATEGORÍAS+ESTÍMULOS</a>
-                <a href="#jurado" class="menu-item smooth-link">JURADO</a>
-                <a href="#inscripcion" class="menu-item smooth-link">INSCRIPCIÓN</a>
-                <a href="#quienes" class="menu-item smooth-link">QUIENES SOMOS</a>
+                <a href="#convocatoria" class="menu-item smooth-link">OPEN CALL</a>
+                <a href="#categorias" class="menu-item smooth-link">CATEGORIES+INCENTIVES</a>
+                <a href="#jurado" class="menu-item smooth-link">JURY</a>
+                <a href="#inscripcion" class="menu-item smooth-link">REGISTRATION</a>
+                <a href="#quienes" class="menu-item smooth-link">WHO ARE WE?</a>
                 <a href="#faq" class="menu-item smooth-link">FAQs</a>
 
                 <span class='lang-switcher'>
@@ -719,7 +719,8 @@ Sign up for this category to access the possibility of working with us in specif
 
     <div class="bloque cinco" id="quienes" color="#99ff99">
         <h1 class="titulo"  min-weight="740" max-weight="840">
-            TRIMARCHI
+        WHO ARE WE?
+
         </h1>
         <div class="columnas">
 
@@ -742,36 +743,20 @@ Sign up for this category to access the possibility of working with us in specif
 
             <div class="columna">
                 <p class="texto">
-                    TRImarchi es una comunidad internacional con foco en el diseño,
-                    pero que navega por las más diversas expresiones artísticas.<br /><br />
-                    Desde hace más de 20 años, organizamos anualmente un encuentro
-                    en la ciudad de Mar del Plata, Argentina. Allí nucleamos a miles
-                    de mentes sedientas de conocimiento y experiencias movilizantes
-                    en una verdadera celebración, uniendo conferencias de referentes
-                    del mundo del diseño, ilustración, arquitectura, tecnología, etc
-                    con recitales en vivo, workshops, fiestas, exposiciones, mercado
-                    de emprendedores y mucho más.<br /><br />
-                    La situación sanitaria nos impedirá reunirnos físicamente este año,
-                    pero gracias a esta convocatoria estaremos muy cerca.
-                    Estas movidas no serían posibles en tiempos difíciles como los
+                    TRImarchi is an international community focusing on design yet navigating the most diverse artistic expressions.
+                </p>
+                <br/>
+                <p class="texto">
+                    For more than 20 years, we have organized an annual meeting in the city of Mar del Plata, Argentina, which over time has gained increasing international relevance, maybe for its being the first design meeting in the world to be held in a stadium due to its magnitude. Thousands of minds come together in this place, eager to learn and be exposed to mesmerizing experiences in the context of a true celebration that combines conferences given by icons of design, illustration, architecture, technology, and other areas with live music, workshops, parties, exhibitions, an entrepreneurs’ market and much more.
                 </p>
             </div>
 
             <div class="columna">
+                <p class="texto">Due to the health crisis, we will not be able to meet face to face this year. However, thanks to this open call, we will feel very close. These initiatives would not be possible in these difficult times if we couldn’t promote them with friends who share our passions, ideals and aspirations. When TRImarchi was barely a dream, we were already exploring hidden corners where the wise and the curious would generously share their knowledge; places that blew our minds with info and helped us understand we weren’t alone in this geeky fever. Domestika was one of these corners. Domestika has always held a special place in our mental map, a place of respect, admiration and affection. Last year, fate brought us together; after meeting personally, all that platonic love finally became a reality.</p>
+                <br/>
                 <p class="texto">
-                    que corren, si no las impulsáramos junto a amigos que comparten
-                    nuestras pasiones, ideales y anhelos. Cuando recién comenzábamos
-                    a soñar con TRImarchi, ya deambulábamos por rincones donde curiosos
-                    y sabios compartían generosamente, lugares que nos llenaban de data
-                    y nos ayudaban a entender que no estábamos solos en este delirio nerd.
-                    Uno de esos lugares era el foro de DOMESTIKA. Desde ese entonces,
-                    Domestika siempre ocupó en nuestro tablero un lugar de respeto,
-                    admiración y cariño. El año pasado, el destino nos cruzó, nos conocimos
-                    personalmente y todo ese amor platónico se hizo realidad.<br /><br />
-                    Hoy, gracias a ese encuentro y al compromiso que asumimos juntos con
-                    la comunidad creativa, lanzamos la convocatoria TRImarchi más ambiciosa
-                    de nuestra historia.
-                </p>
+                Thanks to this partnership and our commitment to the creative community, we are proud to be launching the most ambitious TRImarchi open call in history.
+</p>
             </div>
     
         </div>
@@ -843,14 +828,15 @@ Sign up for this category to access the possibility of working with us in specif
 
         <nav class="menu">
             <div>
-                <a href="#convocatoria" class="menu-item smooth-link">CONVOCATORIA</a>
-                <a href="#categorias" class="menu-item smooth-link">CATEGORÍAS+ESTÍMULOS</a>
-                <a href="#jurado" class="menu-item smooth-link">JURADO</a>
+                <a href="#convocatoria" class="menu-item smooth-link">OPEN CALL</a>
+                <a href="#categorias" class="menu-item smooth-link">CATEGORIES+INCENTIVES
+</a>
+                <a href="#jurado" class="menu-item smooth-link">JURY</a>
             </div>
 
             <div>
-                <a href="#inscripcion" class="menu-item smooth-link">INSCRIPCIÓN</a>
-                <a href="#quienes-somos" class="menu-itemv">QUIENES SOMOS</a>
+                <a href="#inscripcion" class="menu-item smooth-link">REGISTRATION</a>
+                <a href="#quienes-somos" class="menu-itemv">WHO ARE WE?</a>
                 <a href="#faq" class="menu-item smooth-link">FAQs</a>
             </div>
 
