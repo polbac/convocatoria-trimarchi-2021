@@ -784,50 +784,48 @@ Sign up for this category to access the possibility of working with us in specif
         </h1>
         <div class="columnas">
             <p class="texto">
-                <span>QUIÉNES PUEDEN PARTICIPAR?</span><br />
-                La Convocatoria está abierta a creativos de todo el mundo, mayores de 16 años.
+                <span>WHO CAN PARTICIPATE?</span><br />
+                This open call is for creative minds from all over the world, 16 or older.
                 <br /><br />
-                <span>¿CÓMO PUEDO PARTICIPAR?</span><br />
-                Los participantes deberán inscribirse a través de la página web <a href="http://trimarchidg.net/convocatoriatrimarchi2021">trimarchidg.net/convocatoriatrimarchi2021</a> completando de forma obligatoria un formulario con la
-                siguiente información: usuario en domestika, nombre y apellido, edad, e-mail, link a
-                porfolio, ciudad y país. Además deberán seleccionar la/s categoría/s en las que
-                quieren participar.
+                <span>HOW CAN I PARTICIPATE?</span><br />
+                Participants must register through the website trimarchidg.net/ by completing a form with the
+                following mandatory information: Domestika user, first and last name, age, e-mail, city,
+                country and link to portfolio. Registrants will also need to choose the category/ies in which
+                they wish to participate.
                 <br /><br />
-                <span>¿TENGO QUE TENER UN PORFOLIO ONLINE PARA PARTICIPAR?</span><br />
-                Sí. Si aun no tenés, tené en cuenta que podés mostrarnos tu trabajo usando diversas
-                plataformas: Behance, Instagram, la sección de proyectos de Domestika, Youtube, Vimeo o
-                cualquier otra que consideres apropiada. Además, opcionalmente, contás con la posibilidad
-                de adjuntar archivos al formulario en diferentes formatos: pdf, jpg, mp3, etc. con un tamaño
-                máximo de 10 MB.
+                <span>DO I NEED TO HAVE AN ONLINE PORTFOLIO TO PARTICIPATE?</span><br />
+                Yes. If you still don’t have one, remember you can show us your work by resorting to
+                different platforms: Behance, Instagram, Domestika’s projects section, YouTube, Vimeo or
+                any other you consider appropriate. You can also attach various types of files to the form:
+                pdf, jpeg, mp3, etc., with a maximum file size of 10 MB.
                 <br /><br />
-                <span>¿CÓMO HAGO PARA REGISTRARME EN DOMESTIKA?</span><br />
-                Si todavía no tenés usuario en Domestika, podés crearlo ingresando en <a href="https://www.
+                <span>HOW DO I REGISTER AT DOMESTIKA?</span><br />
+                If you still don’t have a user profile at Domestika, you can create one at <a href="https://www.
                 domestika.org/es" target="_blank">https://www.
-                domestika.org/es</a> y allí hacé click en “Crear cuenta”. Al crear tu perfil, te
-                recomendamos hacerlo de manera completa (agregá una foto de perfil y contanos algo
-                sobre vos). Eso nos ayudará a conocerte más y te dará mayores chances de ser elegido.
+                domestika.org/es</a> by clicking on “Crear cuenta” (Create Account).
+                When creating your profile, we recommend completing all the steps of the process (add a
+                profile photo and tell us something about yourself). This will help us get to know you better
+                and will increase your chances of being selected.
                 <br /><br />
-                <span>SI YA TENGO USUARIO EN DOMESTIKA PERO NO RECUERDO EL NOMBRE,<br />
-                ¿CÓMO HAGO PARA CONSULTARLO?</span><br />
-                Para saber cuál es tu nombre de usuario en Domestika, ingresá a <a href="https://www.domestika.org/" target="_blank">https://www.domestika.org/</a> y una vez que estés logueado, hacé click en el
-                avatar (con tu foto de perfil) que está en el margen superior derecho. En el menú
-                que se despliega, clickeá en “ver Perfil”. Allí debajo de tu nombre, aparecerá tu
-                nombre de usuario precedido por un @.
+                <span>I ALREADY HAVE A DOMESTIKA PROFILE BUT, I CAN'T REMEMBER MY USERNAME. HOW CAN I FIND THAT
+OUT?</span><br />
+                In order to find your Domestika username, log in at <a href="https://www.domestika.org/" target="_blank">https://www.domestika.org/</a> and click
+                on the Avatar (with your profile pic) on the upper right corner. In the drop down menu, click
+                on “ver Perfil” (view profile). Under your name, you will see your username preceded by an
+                @.
                 <br /><br />
-                <span>¿ME PUEDO INSCRIBIR EN MÁS DE UNA CATEGORÍA?</span><br />
-                Sí. Lxs participantes pueden inscribirse en todas las categorías que quieran de
-                manera simultánea.
+                <span>CAN I REGISTER FOR MORE THAN ONE CATEGORY?</span><br />
+                Yes. Participants can register for all the categories they want simultaneously.
                 <br /><br />
-                <span>¿CUÁL ES EL PLAZO PARA INSCRIBIRME?</span><br />
-                El plazo para inscribirse es desde el 15/06/2021 al 31/07/2021 inclusive.
+                <span>WHAT IS THE TIMEFRAME FOR REGISTRATION?</span><br />
+                Registration starts on 6-15-2021 and ends on 7-31-2021.
                 <br /><br />
-                <span>¿CUANDO SE ANUNCIAN LAS PERSONAS SELECCIONADAS?</span><br />
-                Serán anunciadas en trimarchidg.net/convocatoriatrimarchi2021 a partir del 10/08.
-                Al mismo tiempo, serán contactadas a través de la cuenta de email que hayan dejado
-                asentada en el formulario de inscripción.
+                <span>WHEN WILL THE WINNERS BE ANNOUNCED?</span><br />
+                Winners will be announced at trimarchidg.net/convocatoriatrimarchi2021 starting on August 10.
+                The selected artists will also receive an email at the address indicated on the registration form.
                 <br /><br />
-                <span>¿TENÉS MÁS PREGUNTAS?</span><br />
-                Escribinos a <a href="mailto:convocatoria@trimarchidg.net">convocatoria@trimarchidg.net</a>
+                <span>ANY OTHER QUESTIONS?</span><br />
+                Write to <a href="mailto:convocatoria@trimarchidg.net">convocatoria@trimarchidg.net</a>
             </p>
         </div>
     
