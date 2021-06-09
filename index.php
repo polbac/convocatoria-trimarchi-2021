@@ -64,7 +64,7 @@ $r_gif = (int)rand(1, 14);
             para ser parte de diversos proyectos remotos.
         </span></p>
         
-        <img class="animacion" src="assets/home/<?php print $r_gif; ?>.gif"/>
+        <img class="animacion gif-<?php print $r_gif; ?>" src="assets/home/<?php print $r_gif; ?>.gif"/>
     </div>
 
     <script
