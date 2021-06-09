@@ -244,9 +244,8 @@ $r_gif = (int)rand(1, 14);
                 </div>
                 <p class="texto">
                     Una de las razones por las que nace TRImarchi es saciar la sed de quienes buscan
-                    data. Si tenés vocación de enseñar, querés ampliar tus conocimientos, adquirir
-                    nuevas herramientas y compartir lo que sabés, anotate en esta categoría y participa
-                    por:
+                    data. Si tenés vocación de enseñar y querés compartir lo que sabés con la
+                    comunidad creativa global, anotate en esta categoría y participa por:   
                 </p>
                 <div class="item">
                     <img src="item.svg"/>
@@ -263,8 +262,7 @@ $r_gif = (int)rand(1, 14);
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Acercamos tu proyecto a <span>DOMESTIKA</span> para tener la posibilidad de tener tu propio
-                        curso en su plataforma.
+                        Tener tu propio curso en la plataforma de <span>DOMESTIKA</span>.
                     </p>
                 </div>
                 <div class="item">
@@ -551,7 +549,7 @@ $r_gif = (int)rand(1, 14);
                     
                 </div>
                 <h2 class="subtitulo">
-                    DIANA<br />AIZEMBERG
+                    DIANA<br />AISEMBERG
                 </h2>
                 <p class="texto">
                     Es artista visual, pintora, escritora, docente y curadora. Trabajó como docente en la
