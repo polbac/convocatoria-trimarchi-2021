@@ -22,7 +22,7 @@ $r_gif = (int)rand(1, 14);
 <body id="top">
     <div class="menubar" >
         <header>
-            <a hfer="https://www.domestika.org/" target="_blank"><img class="domestika" src="domestika-logo.svg"/></a>
+            <a href="https://www.domestika.org/" target="_blank"><img class="domestika" src="domestika-logo.svg"/></a>
             <nav class="menu">
                 <a href="#convocatoria" class="menu-item smooth-link">CONVOCATORIA</a>
                 <a href="#categorias" class="menu-item smooth-link">CATEGORÍAS+ESTÍMULOS</a>
@@ -35,7 +35,7 @@ $r_gif = (int)rand(1, 14);
                 <a href="/" class="lang current">ES</a>/<a class="lang" href="/en">EN</a>
                 </span>
             </nav>
-            <a hfer="https://www.trimarchidg.net/" target="_blank"><img class="tmdg"src="tmdg-logo.svg"/></a>
+            <a href="https://www.trimarchidg.net/" target="_blank"><img class="tmdg"src="tmdg-logo.svg"/></a>
         </header>
     </div>
 
@@ -165,7 +165,7 @@ $r_gif = (int)rand(1, 14);
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Dar una charla en el streaming show de cierre de la Convocatoria TRImarchi 2021. <a href="#">*Ver bases legales</a>
+                        Dar una charla en el streaming show de cierre de la Convocatoria TRImarchi 2021. <a href="assets/bases_es.pdf">*Ver bases legales</a>
                     </p>
                 </div>
                 <div class="item">
@@ -720,7 +720,7 @@ $r_gif = (int)rand(1, 14);
                     </div>
                 </div>
                 <h2 class="subtitulo" style="width: calc(100% + 5vw); margin-left: -2.5vw;">
-                    PABLO &amp; SEBA<br />(DOMESTIKA/TRIMARCHI)
+                    PABLO &amp; SEBA<br />(DOMESTIKA / TRImarchi)
                 </h2>
                 <p class="texto">
                     Pablo &quot;Pacheco&quot; González Díaz y Sebastián &quot;Acampante&quot; Valdivia son diseñadores y
@@ -935,6 +935,9 @@ $r_gif = (int)rand(1, 14);
     <script>
          $(".smooth-link").on("click", function() {
             const classElement = $(this).attr("href")
+            if ($(window).width() < 640) {
+                $(".menu").hide()
+            }
             window.scrollTo({ top: $(classElement).offset().top, behavior: 'smooth' })
             return false
         })
@@ -963,7 +966,7 @@ $r_gif = (int)rand(1, 14);
                 })  
 
             $(".menu-mobile").click(function() {
-                
+                $(".menu").toggle()
             })
     </script>
 

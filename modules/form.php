@@ -200,7 +200,7 @@ $countriesAndCities = file_get_contents('countries.min.json');
             </h2>
             <button type="submit" id="submit">ENVIAR</button><br />
             <detalle>Al hacer click en Enviar acepto todas las bases<br />
-            y condiciones del concurso. <a href='bases_es.pdf' target='_blank'>Leer más</a><detalle>
+            y condiciones del concurso. <a href='assets/bases_es.pdf' target='_blank'>Leer más</a><detalle>
         </div>
 
 </form>

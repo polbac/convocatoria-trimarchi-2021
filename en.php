@@ -199,25 +199,27 @@ $r_gif = (int)rand(1, 14);
                 A wide range of artists have found in TRImarchi a place to showcase their work. We know that many good ideas just need a helping hand to materialize. So if you have an artistic project in mind that you wish to develop and exhibit, sign up for this category and participate to win:
 
                 </p>
+                <!-- <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                    The possibility of showcasing your work at Museo MAR
+
+                    </p>
+                </div> -->
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Tres encuentros virtuales de asesoramiento con Diana Aisemberg.
+                    Three virtual consultation meetings with Diana Aisemberg
+
                     </p>
                 </div>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Obtener un apoyo económico de USD 2.500 para desarrollar tu obra.
+                    USD 2,500 in financial support to develop your work
+
                     </p>
                 </div>
-                <!--div class="item">
-                    <img src="item.svg"/>
-                    <p class="texto">
-                        Exhibir tu obra en el Museo MAR<br />
-                        en Mar del Plata
-                    </p>
-                </div-->
                 <div class="item">
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
@@ -238,30 +240,17 @@ $r_gif = (int)rand(1, 14);
                     </h2>
                 </div>
                 <p class="texto">
-                    Una de las razones por las que nace TRImarchi es saciar la sed de quienes buscan
-                    data. Si tenés vocación de enseñar, querés ampliar tus conocimientos, adquirir
-                    nuevas herramientas y compartir lo que sabés, anotate en esta categoría y participa
-                    por:
+                TRImarchi was created to meet the needs of trend seekers, and for many other reasons. If teaching is your thing and you want to share what you know with the world, sign up for this category and participate for:  	
+
                 </p>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Incentivo económico de USD 1.000.
+                    Having your own course at Domestika
+
                     </p>
                 </div>
-                <div class="item">
-                    <img src="item.svg"/>
-                    <p class="texto">
-                        10 cursos de <span>DOMESTIKA</span> a tu elección.
-                    </p>
-                </div>
-                <div class="item">
-                    <img src="item.svg"/>
-                    <p class="texto">
-                        Acercamos tu proyecto a <span>DOMESTIKA</span> para tener la posibilidad de tener tu propio
-                        curso en su plataforma.
-                    </p>
-                </div>
+                
                 <div class="item">
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
@@ -277,24 +266,26 @@ $r_gif = (int)rand(1, 14);
                     <img class="hover" src="dibujo4-hover.png"/>
                     <img class="select" src="dibujo4-select.png"/>
                     <h2 class="subtitulo">
-                        INDUMENTARIA
+                    Fashion design
                     </h2>
                 </div>
                 <p class="texto">
-                    ¿Querés crear o darle impulso a tu marca de indumentaria? Éste es tu lugar dentro
-                    de la convocatoria. Inscribite en esta categoría para:
+                Are you looking to create or give a boost to your apparel brand? Then you’ve come to the right place. Sign up for this category and win:
+
                 </p>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Obtener un apoyo económico de USD 2.500 para desarrollar o impulsar tu proyecto.
+                    USD 2,500 in financial support to develop or promote your project.
+
                     </p>
                 </div>
 
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                    Tres encuentros virtuales de asesoramiento con el diseñador español <span>DAVID MENDEZ ALONSO</span> (Outsiders Division).
+                    Three virtual consultation meetings with Spanish designer David Méndez Alonso (Outsiders Division)
+
                     </p>
                 </div>
                 <div class="item">
@@ -312,24 +303,25 @@ $r_gif = (int)rand(1, 14);
                     <img class="hover" src="dibujo5-hover.png"/>
                     <img class="select" src="dibujo5-select.png"/>
                     <h2 class="subtitulo">
-                        EMPRENDIMIENTO
+                    Entrepreneurs
                     </h2>
                 </div>
                 <p class="texto">
-                    Esta es una llamada a quienes materializan, los makers de la comunidad. Si tenés un
-                    proyecto personal vinculado a la creatividad o el arte al que querés hacer crecer,
-                    este es tu lugar dentro de la convocatoria. Anotate acá para:
+                This section is for those who make things happen in the community. If you have a personal creative or artistic project that you wish to grow, this is your place in this open call.  Sign up here to win:
+
                 </p>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Tener tres encuentros virtuales de asesoramiento con <span>VIK ARRIETA</span> (Monoblock)
+                    Three virtual consultation meetings with Vik Arrieta (Monoblock)
+
                     </p>
                 </div>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Obtener un incentivo económico de USD 2.500 para desarrollar tu emprendimiento.
+                    USD 2,500 in financial support to develop your project
+
                     </p>
                 </div>
                 
@@ -348,56 +340,58 @@ $r_gif = (int)rand(1, 14);
                     <img class="hover" src="dibujo6-hover.png"/>
                     <img class="select" src="dibujo6-select.png"/>
                     <h2 class="subtitulo">
-                        MÚSICA
+                        MUSIC
                     </h2>
                 </div>
                 <p class="texto">
-                    Como la música guarda un lugar especial en nuestro corazón, en esta categoría el
-                    reconocimiento será para dos artistas. Si hacés música, ya sea de manera solista o
-                    en una banda, no podés perderte esta oportunidad. Compartinos una canción de tu
-                    autoría y si te elegimos:
+                Music has always held a special place in our heart, so this category will be recognizing the work of two artists. If you make music, both as a solo artist or in a band, you cannot miss out on this opportunity. Share a song that you’ve written, and if you’re selected, you can win:
+
                 </p>
                 <div class="item">
                     <!--img src="item.svg"/-->
                     <p class="texto">
-                        <span>SELECCIONADX 1</span>
+                        <span>Music artist 1</span>
                     </p>
                 </div>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Filmamos el videoclip de tu canción, con un director seleccionado de la categoría
-                        “Videoclip” y producido por el director de videoclips <span>ORCO VIDEOS</span>.
+                    Shooting of a music video for your song, with a director selected from the category “Music video” and produced by <span>ORCO videos</span>.
+
                     </p>
                 </div>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Tené un encuentro virtual con el músico y compositor <span>CA7RIEL</span> para hablar sobre tu música.
+                    A virtual meeting with musician and songwriter <span>Ca7riel</span> to discuss your music
+
                     </p>
                 </div>
                 <div class="item">
                     <!--img src="item.svg"/-->
                     <p class="texto">
-                        <span>SELECCIONADX 2</span>
+                        <span>Music artist 2</span>
                     </p>
                 </div>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Financiamos la grabación y producción de un simple en un estudio de primer nivel.
+                    Funding for the recording and production of a single in a top-level recording studio.
+
                     </p>
                 </div>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                    Tené un encuentro virtual con el músico y compositor <span>CA7RIEL</span> para hablar sobre tu música.
+                    A virtual meeting with musician and songwriter Ca7riel to discuss your music
+
                     </p>
                 </div>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Diseñamos la portada de tu simple con un participante seleccionado de la categoría “Colectivo TRImarchi”.
+                    Design of the cover art for your single by a participant selected from the category “TRImarchi collective”
+
                     </p>
                 </div>
                 <div class="item">
@@ -415,22 +409,25 @@ $r_gif = (int)rand(1, 14);
                     <img class="hover" src="dibujo10-hover.png"/>
                     <img class="select" src="dibujo10-select.png"/>
                     <h2 class="subtitulo">
-                        VIDEOCLIP
+                    Music video
                     </h2>
                 </div>
                 <p class="texto">
-                    En esta categoría buscamos personas que quieran dirigir un videoclip. Inscribite y participá por:
+                This category is for people wishing to direct a music video. Sign up and participate to win:
+
                 </p>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Dirigir un videoclip producido íntegramente por <span>ORCO VIDEOS</span>.
+                    A chance to direct a music video, fully produced by <span>ORCO Videos</span>
+
                     </p>
                 </div>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                    Incentivo de USD 1.000.
+                    An incentive of USD 1,000
+
                     </p>
                 </div>
                 <div class="item">
@@ -478,17 +475,14 @@ $r_gif = (int)rand(1, 14);
                     <img class="hover" src="dibujo9-hover.png"/>
                     <img class="select" src="dibujo9-select.png"/>
                     <h2 class="subtitulo">
-                        COLECTIVO TRImarchi
+                    Colectivo TRImarchi
+
                     </h2>
                 </div>
                 <p class="texto">
-                    Colectivo TRImarchi es nuestra idea de hacer un gran estudio, donde nadie quede
-                    afuera. En estos años hicimos proyectos con muchas marcas y bandas, donde
-                    vinculamos a la comunidad de TRImarchi combinando diversión y profesionalismo.
-                    Inscribite en esta categoría para tener la posibilidad de trabajar junto a nosotros en
-                    proyectos puntuales que tendrán lugar a lo largo del año. Hay muchas ideas dando
-                    vueltas, así que la convocatoria es amplia: ilustradores, diseñadores, tipógrafos,
-                    fotógrafos, ceramistas, muralistas, artesanos y un largo etcétera.
+                Colectivo TRImarchi is our idea of a large scale studio that leaves no one out. Throughout these years, we have carried out projects with a number of brands and music bands, bringing together the TRImarchi community by combining enjoyment and professionalism.<br/>
+Sign up for this category to access the possibility of working with us in specific projects that will take place throughout the year. We have a number of ideas in the pipeline, so this call is far-reaching: illustrators, designers, typographers, photographers, ceramists, muralists, artisans, and a very long etcetera.
+
                 </p>
                 <div class="item">
                     <img src="cronometro-verde.svg"/>
@@ -504,7 +498,7 @@ $r_gif = (int)rand(1, 14);
 
     <div class="bloque tres" id="jurado" color="#ffccff" min-weight="740" max-weight="840">
         <h1 class="titulo"  min-weight="740" max-weight="840">
-            JURADO
+        JURY
         </h1>
         <div class="columnas">
 
@@ -528,10 +522,8 @@ $r_gif = (int)rand(1, 14);
                     BRAULIO<br />AMADO
                 </h2>
                 <p class="texto">
-                    Es diseñador, ilustrador y director de arte. Actualmente es director de su propia agencia,
-                    BAD Studio. Trabajó para Pentagram, Bloomberg Business Week y Wieden Kennedy y
-                    colaboró con artistas como Frank Ocean, Beck, Washed Out e importantes clientes como
-                    Boiler Room, The New York Times, Apple, Nike y Adidas.
+                Designer, illustrator, and art director. He is currently the director of his own agency, BAD Studio. He worked for Pentagram, Bloomberg Business Week, and Wieden Kennedy and collaborated with artists such as Frank Ocean, Beck, Washed Out, and major clients such as Boiler Room, The New York Times, Apple, Nike, and Adidas.
+
                 </p>
                 <credit>Foto © Chris Maggio</credit>
             </div>
@@ -549,9 +541,9 @@ $r_gif = (int)rand(1, 14);
                     DIANA<br />AIZEMBERG
                 </h2>
                 <p class="texto">
-                    Es artista visual, pintora, escritora, docente y curadora. Trabajó como docente en la
-                    Universidad de Buenos Aires y coordinó el área de artes plásticas del Centro Cultural Rojas.
-                    Fue premiada gracias a su trabajo educativo por la Asociación de Críticos Argentinos.
+                Visual artist, painter, writer, teacher and curator. She was a member of the faculty of the Universidad de Buenos Aires and coordinated the visual arts department of the Centro Cultural Rojas. Her educational work has been recognized by the Argentine Critics Association.
+
+
                 </p>
             </div>
 
@@ -574,9 +566,9 @@ $r_gif = (int)rand(1, 14);
                     SOFIE FATOURETCHI
                 </h2>
                 <p class="texto">
-                    Es DJ, curadora, violinista, conductora de radio y artista. Trabajó para el sello independiente
-                    de rap Stones Throw Records y fue miembro del equipo de Boiler Room. En 2020, lanzó
-                    Cult Survivor, su álbum debut.
+                DJ, curator, violinist, radio host, and artist. She worked for the independent rap label Stones Throw Records and was a member of the Boiler Room crew. In 2020, she released Cult Survivor, her debut album.
+
+
                 </p>
                 <credit>Fotos © Matthias Aschauer</credit>
             </div>
@@ -598,9 +590,10 @@ $r_gif = (int)rand(1, 14);
                     CA7RIEL
                 </h2>
                 <p class="texto">
-                    Es músico, cantante y compositor. En 2015 lanzó su primer disco de hip hop, Cve7e.
-                    En 2018 formó un dúo de trap junto a Paco Amoroso. Colaboró con otros grandes
-                    protagonistas del sonido urbano como WOS, Chita, Duki y Bizarrap, entre otros.
+                Musician, singer and songwriter. In 2015 he released his first hip hop album, Cve7e. In 2018 he formed a trap duo with Paco Amoroso. He collaborated with other major urban sound acts including WOS, Chita, Duki and Bizarrap.
+
+ 
+
                 </p>
             </div>
 
@@ -623,9 +616,8 @@ $r_gif = (int)rand(1, 14);
                     MONOBLOCK
                 </h2>
                 <p class="texto">
-                    Es comunicadora social, editora, escritora, ilustradora y directora de Monoblock, proyecto
-                    que cofundó junto a Pablo Galuppo en 2004. En 2014, publicó su primera novela, Redes
-                    Peligrosas, y en 2015 lanzó su propia línea de productos, Happimess.
+                Vik is a social communicator, editor, writer, illustrator, and director of Monoblock, a project that she co-founded with Pablo Galuppo in 2004. In 2014, she published her first novel, Dangerous Networks, and in 2015 she launched her own line of products, Happimess.
+
                 </p>
             </div>
 
@@ -648,9 +640,8 @@ $r_gif = (int)rand(1, 14);
                     DAVID MÉNDEZ<br />ALONSO
                 </h2>
                 <p class="texto">
-                    Es ilustrador, diseñador, director de arte y director del proyecto de indumentaria Outsiders
-                    Division. Trabajó para numerosa marcas como Adidas, Converse, G-Star, H&amp;M, Levi’s,
-                    Wrangler, Samsung, Nissan, Perrier, Pull &amp; Bear y Reebok.
+                Illustrator, art director, designer, and director of the apparel design project Outsiders Division. He worked for a number of brands including Adidas, Converse, G-Star, H&M, Levi’s, Wrangler, Samsung, Nissan, Perrier, Pull & Bear and Reebok.
+
                 </p>
             </div>
 
@@ -674,10 +665,8 @@ $r_gif = (int)rand(1, 14);
                 MARTÍN<br />GARABAL
                 </h2>
                 <p class="texto">
-                    Es dibujante, humorista, actor, conductor de radio y director. Creó y protagonizó la serie
-                    Famoso; realizó para UN3.TV los programas El Show de Cúmulo &amp; Nimbo, Periodismo total,
-                    Aventuras de Corazón Roto y Conocidos; fue co-conductor del programa radial Últimos
-                    Cartuchos.
+                Cartoonist, comedian, actor, radio host and director. He created and starred in the series Famoso; he developed the shows El Show de Cúmulo & Nimbo, Total Periodismo, Aventuras de Corazón Roto and Acquaintance for UN3.TV; he was also co-host of the radio show Últimos Cartuchos.
+
                 </p>
             </div>
 
@@ -699,10 +688,8 @@ $r_gif = (int)rand(1, 14);
                     ORCO VIDEOS
                 </h2>
                 <p class="texto">
-                    Julián Gonzalez Díaz (aka Orco) es un realizador audiovisual reconocido principalmente por
-                    sus videoclips. Hizo videos para Pablo Lescano, Paulo Londra, Dante, Neo Pistea, Duki,
-                    Cazzu, Nathy Peluso, Perota Chingó, Ca7riel y Paco Amoroso, entre otros. En 2016
-                    presentó su primer largometraje, Me quedo contigo.
+                Julián Gonzalez Díaz (aka Orco) is an audiovisual producer mainly known for his music videos. He directed music videos for Pablo Lescano, Paulo Londra, Dante, Neo Pistea, Duki, Cazzu, Nathy Peluso, Perota Chingó, Ca7riel and Paco Amoroso, among other acts. In 2016 he presented his first feature film, Me quedo contigo (I stand by you).
+
                 </p>
             </div>
 
@@ -715,14 +702,11 @@ $r_gif = (int)rand(1, 14);
                     </div>
                 </div>
                 <h2 class="subtitulo" style="width: calc(100% + 5vw); margin-left: -2.5vw;">
-                    PABLO &amp; SEBA<br />(DOMESTIKA / TMDG)
+                    PABLO &amp; SEBA<br />(DOMESTIKA / TRImarchi)
                 </h2>
                 <p class="texto">
-                    Pablo &quot;Pacheco&quot; González Díaz y Sebastián &quot;Acampante&quot; Valdivia son diseñadores y
-                    fundadores de TRImarchi, el encuentro internacional de diseño más importante de
-                    Latinoamérica, que ya cuenta con 20 años de trayectoria. Desde hace algo más de un año,
-                    TRImarchi se unió a Domestika, con quien comparte el compromiso hacia la comunidad
-                    creativa y el trabajo dedicado al impulso y democratización del conocimiento.
+                Pablo "Pacheco" González Díaz and Sebastián "Acampante" Valdivia are both graphic designers and founders of TRImarchi, the most important design conference of Latin America with 20 years of history. A little over one year ago, TRImarchi joined forces with Domestika, with whom it shares its commitment to the creative community and dedication to fostering and democratizing knowledge.
+
                 </p>
             </div>
 
@@ -730,7 +714,7 @@ $r_gif = (int)rand(1, 14);
     </div>
 
     <div class="bloque cuatro" id="inscripcion" color="#ffff66">
-        <?php require('modules/form.php'); ?>
+        <?php require('modules/form_en.php'); ?>
     </div>
 
     <div class="bloque cinco" id="quienes" color="#99ff99">
