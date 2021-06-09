@@ -928,7 +928,7 @@ aside .modal{
     }
 
     button{
-        font-size: 1rem;
+        font-size: 1.75rem;
     }
     input, select, textarea{
         font-size: 0.75rem;
@@ -947,6 +947,7 @@ aside .modal{
         width: 100%;
     }
 
+    .field-wrapper p.texto,
     detalle,
     p.caption,
     .bloque.seis p.texto,
