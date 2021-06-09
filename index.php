@@ -545,14 +545,10 @@ $r_gif = (int)rand(1, 14);
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
+                            <li class="glide__slide"><img height="400" src="assets/bio/Diana/diana01.jpg" /></li>
                         </ul>
                     </div>
-                    <div data-glide-el="controls">
-                            <button class='prev-arrow' data-glide-dir="<"><</button>
-                            <button class='next-arrow' data-glide-dir=">">></button>
-                        </div>
+                    
                 </div>
                 <h2 class="subtitulo">
                     DIANA<br />AIZEMBERG
@@ -617,8 +613,10 @@ $r_gif = (int)rand(1, 14);
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="assets/bio/Vik/vik01.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="assets/bio/Vik/vik02.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="assets/bio/Vik/vik03.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="assets/bio/Vik/vik04.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -640,8 +638,10 @@ $r_gif = (int)rand(1, 14);
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="assets/bio/David/david01.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="assets/bio/David/david02.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="assets/bio/David/david03.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="assets/bio/David/david04.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -664,12 +664,16 @@ $r_gif = (int)rand(1, 14);
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
                         <li class="glide__slide"><img height="400" src="assets/bio/Garabal/garabal01.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="assets/bio/Garabal/garabal02.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="assets/bio/Garabal/garabal03.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="assets/bio/Garabal/garabal04.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="assets/bio/Garabal/garabal05.jpg" /></li>
                         </ul>
                     </div>
-                    <!-- <div data-glide-el="controls">
+                    <div data-glide-el="controls">
                             <button class='prev-arrow' data-glide-dir="<"><</button>
                             <button class='next-arrow' data-glide-dir=">">></button>
-                    </div> -->
+                    </div>
                 </div>
                 <h2 class="subtitulo">
                 MARTÍN<br />GARABAL
@@ -686,9 +690,14 @@ $r_gif = (int)rand(1, 14);
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="assets/bio/Orco/orco01.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="assets/bio/Orco/orco02.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="assets/bio/Orco/orco03.jpg" /></li>
                         </ul>
+                    </div>
+                    <div data-glide-el="controls">
+                            <button class='prev-arrow' data-glide-dir="<"><</button>
+                            <button class='next-arrow' data-glide-dir=">">></button>
                     </div>
                 </div>
                 <h2 class="subtitulo">
@@ -706,13 +715,12 @@ $r_gif = (int)rand(1, 14);
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
-                        <li class="glide__slide"><img height="400" src="blank.jpg" /></li>
+                        <li class="glide__slide"><img height="400" src="assets/bio/Trimarchi/trimarchi01.jpg" /></li>
                         </ul>
                     </div>
                 </div>
                 <h2 class="subtitulo" style="width: calc(100% + 5vw); margin-left: -2.5vw;">
-                    PABLO &amp; SEBA<br />(TMDG-Domestika)
+                    PABLO &amp; SEBA<br />(DOMESTIKA/TRIMARCHI)
                 </h2>
                 <p class="texto">
                     Pablo &quot;Pacheco&quot; González Díaz y Sebastián &quot;Acampante&quot; Valdivia son diseñadores y
