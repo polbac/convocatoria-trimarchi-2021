@@ -99,7 +99,7 @@ $countriesAndCities = file_get_contents('countries.min.json');
                 <label id="file-label">Adjuntar Portfolio</label>
             </h2>
             <input type="file" name="PorfolioArchivo" id="portfolio-archivo" accept=".mp3,.jpeg,.jpg,.png" />
-            <div class="file-data">Max. <b>5MB</b></div>
+            <div class="file-data">Max. <b>10MB</b></div>
         </div>
 
         <div class="field-wrapper">
