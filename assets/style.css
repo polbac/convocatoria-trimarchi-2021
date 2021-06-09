@@ -512,6 +512,7 @@ li.glide__slide img {
 }
 */
 
+
 .glide__slide{
     height: auto !important;
 }
@@ -975,6 +976,10 @@ aside .modal{
     .bloque.dos .columna:nth-child(8) .check-categoria img {
         width: auto;
         height: 47.55vw;
+    }
+
+    aside .modal{
+        left: 20px;
     }
 }
 
