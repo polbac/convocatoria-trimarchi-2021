@@ -197,7 +197,7 @@ If you’re already registered at Domestika, go to Step 2.<br/>
     </div>
 
         <div class="form-step center">
-            <h2 class="subtitulo">
+            <h2 class="subtitulo center">
                 ¿All ready?
             </h2>
             <button type="submit" id="submit">SEND</button><br />

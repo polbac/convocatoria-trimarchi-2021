@@ -195,7 +195,7 @@ $countriesAndCities = file_get_contents('countries.min.json');
     </div>
 
         <div class="form-step center">
-            <h2 class="subtitulo">
+            <h2 class="subtitulo center">
                 ¿Todo listo?
             </h2>
             <button type="submit" id="submit">ENVIAR</button><br />

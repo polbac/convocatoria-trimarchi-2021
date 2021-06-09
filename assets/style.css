@@ -512,8 +512,12 @@ li.glide__slide img {
 }
 */
 
+.glide__slide{
+    height: auto !important;
+}
+
 .center{
-    text-align: center;
+    text-align: center !important;
 }
 
 .flex-column{
@@ -938,8 +942,16 @@ aside .modal{
         padding-left: 0;
     }
 
+    .bloque.cinco .columna{
+        width: 100%;
+    }
+
+    detalle,
+    p.caption,
+    .bloque.seis p.texto,
+    .bloque.cinco p.texto,
     p.texto{
-        font-size: 2.5vw;
+        font-size: 3.5vw;
     }
 
     h2.subtitulo{
