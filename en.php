@@ -403,64 +403,79 @@ Sign up for this category to access the possibility of working with us in specif
                         MUSIC
                     </h2>
                 </div>
-                <p class="texto">
-                Music has always held a special place in our heart, so this category will be recognizing the work of two artists. If you make music, both as a solo artist or in a band, you cannot miss out on this opportunity. Share a song that you’ve written, and if you’re selected, you can win:
 
-                </p>
-                <div class="item">
-                    <!--img src="item.svg"/-->
-                    <p class="texto">
-                        <span>Music artist 1</span>
-                    </p>
-                </div>
-                <div class="item">
-                    <img src="item.svg"/>
-                    <p class="texto">
-                    Shooting of a music video for your song, with a director selected from the category “Music video” and produced by <span>ORCO videos</span>.
+                <div class="outer-box">
 
-                    </p>
-                </div>
-                <div class="item">
-                    <img src="item.svg"/>
-                    <p class="texto">
-                    A virtual meeting with musician and songwriter <span>Ca7riel</span> to discuss your music
+                    <div class="inner-box">
 
-                    </p>
-                </div>
-                <div class="item">
-                    <!--img src="item.svg"/-->
-                    <p class="texto">
-                        <span>Music artist 2</span>
-                    </p>
-                </div>
-                <div class="item">
-                    <img src="item.svg"/>
-                    <p class="texto">
-                    Funding for the recording and production of a single in a top-level recording studio.
+                        <p class="texto">
+                        Music has always held a special place in our heart, so this category will be recognizing the work of two artists. If you make music, both as a solo artist or in a band, you cannot miss out on this opportunity. Share a song that you’ve written, and if you’re selected, you can win:
 
-                    </p>
-                </div>
-                <div class="item">
-                    <img src="item.svg"/>
-                    <p class="texto">
-                    A virtual meeting with musician and songwriter Ca7riel to discuss your music
+                        </p>
+                        <div class="item">
+                            <!--img src="item.svg"/-->
+                            <p class="texto">
+                                <span>Music artist 1</span>
+                            </p>
+                        </div>
+                        <div class="item">
+                            <img src="item.svg"/>
+                            <p class="texto">
+                            Shooting of a music video for your song, with a director selected from the category “Music video” and produced by <span>ORCO videos</span>.
 
-                    </p>
-                </div>
-                <div class="item">
-                    <img src="item.svg"/>
-                    <p class="texto">
-                    Design of the cover art for your single by a participant selected from the category “TRImarchi collective”
+                            </p>
+                        </div>
+                        <div class="item">
+                            <img src="item.svg"/>
+                            <p class="texto">
+                            A virtual meeting with musician and songwriter <span>Ca7riel</span> to discuss your music
 
-                    </p>
+                            </p>
+                        </div>
+
+                    </div>
+
+                    <div class="inner-box">
+
+                        <div class="item select">
+                            <!--img src="item.svg"/-->
+                            <p class="texto">
+                                <span>Music artist 2</span>
+                            </p>
+                        </div>
+                        <div class="item">
+                            <img src="item.svg"/>
+                            <p class="texto">
+                            Funding for the recording and production of a single in a top-level recording studio.
+
+                            </p>
+                        </div>
+                        <div class="item">
+                            <img src="item.svg"/>
+                            <p class="texto">
+                            A virtual meeting with musician and songwriter Ca7riel to discuss your music
+
+                            </p>
+                        </div>
+                        <div class="item">
+                            <img src="item.svg"/>
+                            <p class="texto">
+                            Design of the cover art for your single by a participant selected from the category “TRImarchi collective”
+
+                            </p>
+                        </div>
+                        <div class="item">
+                            <img src="cronometro-verde.svg"/>
+                            <p class="texto">
+                                There are<br />
+                                <contador date="30/9/2021" hour="1:20"></contador>
+                            </p>
+                        </div>
+
+                    </div>
+
                 </div>
-                <div class="item">
-                    <img src="cronometro-verde.svg"/>
-                    <p class="texto">
-                        There are<br />
-                        <contador date="30/9/2021" hour="1:20"></contador>
-                    </p>
-                </div>
+
             </div>
 
            
