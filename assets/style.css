@@ -1031,9 +1031,10 @@ aside .modal{
     h2.subtitulo{
         font-size: 6vw;
     }
-    li.glide__slide img{
-        height: 45vw !important;
+    li.glide__slide img {
+        height: 43vw !important;
     }
+    
     .bloque.tres h2.subtitulo {
         height: 11vw;
     }
@@ -1075,8 +1076,30 @@ aside .modal{
         margin-left: -5vw;
     }
 
-    aside .modal{
+    aside .modal {
         left: 20px;
     }
+
+    .bloque.cuatro p.texto.centrado {
+        width: 100%;
+        margin-top: 1vw;
+        font-size: 2.6vw;
+        text-align: center;
+    }
+
+    .bloque.cuatro p.texto {
+        width: 100%;
+        margin-top: 1vw;
+        font-size: 2.6vw;
+        text-align: left;
+    }
+
+    input, select {
+        font-size: 0.75rem;
+        height: 5vw;
+    }
+
+    
+
 }
 
