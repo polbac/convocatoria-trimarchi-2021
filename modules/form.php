@@ -21,7 +21,7 @@ $countriesAndCities = file_get_contents('countries.min.json');
         <img src="iso-domestika.png"/>
     </h2>
 
-    <p class="texto">
+    <p class="texto centrado">
         Podés hacerlo <span><a target="_blank" href="https://www.domestika.org/">acá</a></span>. Al crear tu perfil, te recomendamos hacerlo de manera completa (agregá una foto de perfil y contanos algo sobre vos). Eso nos ayudará a conocerte más y te dará mayores chances de ser elegido. <br/>
         Si tenés dudas, consulta las <a href="#faq" class="menu-item smooth-link">FAQs</a> o encontranos en <a href="mailto:convocatoria2021@trimarchidg.net">convocatoria2021@trimarchidg.net</a><br/>
         Si ya estás registrado en Domestika avanzá al Paso 2.
