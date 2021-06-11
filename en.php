@@ -336,6 +336,42 @@ $r_gif = (int)rand(1, 16);
 
             <div class="columna">
                 <div class="check-categoria">
+                    <img class="normal" src="dibujo10-blank.png"/>
+                    <img class="hover" src="dibujo10-hover.png"/>
+                    <img class="select" src="dibujo10-select.png"/>
+                    <h2 class="subtitulo">
+                    Music video
+                    </h2>
+                </div>
+                <p class="texto">
+                This category is for people wishing to direct a music video. Sign up and participate to win:
+
+                </p>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                    A chance to direct a music video, fully produced by <span>ORCO Videos</span>
+
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                    An incentive of USD 1,000
+
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="cronometro-verde.svg"/>
+                    <p class="texto">
+                        There are<br />
+                        <contador date="29/5/2021" hour="20:20"></contador>
+                    </p>
+                </div>
+            </div>
+
+            <div class="columna">
+                <div class="check-categoria">
                     <img class="normal" src="dibujo6-blank.png"/>
                     <img class="hover" src="dibujo6-hover.png"/>
                     <img class="select" src="dibujo6-select.png"/>
@@ -403,71 +439,9 @@ $r_gif = (int)rand(1, 16);
                 </div>
             </div>
 
-            <div class="columna">
-                <div class="check-categoria">
-                    <img class="normal" src="dibujo10-blank.png"/>
-                    <img class="hover" src="dibujo10-hover.png"/>
-                    <img class="select" src="dibujo10-select.png"/>
-                    <h2 class="subtitulo">
-                    Music video
-                    </h2>
-                </div>
-                <p class="texto">
-                This category is for people wishing to direct a music video. Sign up and participate to win:
+           
 
-                </p>
-                <div class="item">
-                    <img src="item.svg"/>
-                    <p class="texto">
-                    A chance to direct a music video, fully produced by <span>ORCO Videos</span>
-
-                    </p>
-                </div>
-                <div class="item">
-                    <img src="item.svg"/>
-                    <p class="texto">
-                    An incentive of USD 1,000
-
-                    </p>
-                </div>
-                <div class="item">
-                    <img src="cronometro-verde.svg"/>
-                    <p class="texto">
-                        There are<br />
-                        <contador date="29/5/2021" hour="20:20"></contador>
-                    </p>
-                </div>
-            </div>
-
-            <!--div class="columna">
-                <div class="check-categoria">
-                    <img class="normal" src="dibujo8-blank.png"/>
-                    <img class="hover" src="dibujo8-hover.png"/>
-                    <img class="select" src="dibujo8-select.png"/>
-                    <h2 class="subtitulo">
-                        PORTADA
-                    </h2>
-                </div>
-                <p class="texto">
-                    En esta categoría unimos muchas cosas que amamos:
-                    diseño, ilustración, tipografía, música, etc. Inscribite para:
-                </p>
-                <div class="item">
-                    <img src="item.svg"/>
-                    <p class="texto">
-                    Ser contratado* para diseñar la portada<br />
-                    del simple de la banda seleccionada<br />
-                    en esta Convocatoria. <a href="">*Ver bases legales</a>
-                    </p>
-                </div>
-                <div class="item">
-                    <img src="cronometro-verde.svg"/>
-                    <p class="texto">
-                        There are<br />
-                        <contador date="6/8/2021" hour="20:20"></contador>
-                    </p>
-                </div>
-            </div-->
+           
 
             <div class="columna">
                 <div class="check-categoria">
