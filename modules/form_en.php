@@ -164,25 +164,11 @@ If you’re already registered at Domestika, go to Step 2.<br/>
             </div>
 
             <div class="field-option">
-                <input type="checkbox" name="category" id="Música" value="Música">
-                <label for="Música">
-                    <h2 class="subtitulo">Music</h2>
-                </label>
-            </div>
-
-            <div class="field-option">
                 <input type="checkbox" name="category" id="Videoclip" value="Videoclip">
                 <label for="Videoclip">
                     <h2 class="subtitulo">Music video</h2>
                 </label>
             </div>
-
-            <!--div class="field-option">
-                <input type="checkbox" name="category" id="Portada" value="Portada">
-                <label for="Portada">
-                    <h2 class="subtitulo">Portada</h2>
-                </label>
-            </div-->
 
             <div class="field-option">
                 <input type="checkbox" name="category" id="Colectivo" value="Colectivo">
@@ -192,6 +178,24 @@ If you’re already registered at Domestika, go to Step 2.<br/>
                 </label>
             </div>
             
+
+            <div class="field-option">
+                <input type="checkbox" name="category" id="Música" value="Música">
+                <label for="Música">
+                    <h2 class="subtitulo">Music</h2>
+                </label>
+            </div>
+
+           
+
+            <!--div class="field-option">
+                <input type="checkbox" name="category" id="Portada" value="Portada">
+                <label for="Portada">
+                    <h2 class="subtitulo">Portada</h2>
+                </label>
+            </div-->
+
+           
         </div>
 
     </div>

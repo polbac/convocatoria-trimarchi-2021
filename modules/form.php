@@ -162,12 +162,7 @@ $countriesAndCities = file_get_contents('countries.min.json');
                 </label>
             </div>
 
-            <div class="field-option">
-                <input type="checkbox" name="category" id="Música" value="Música">
-                <label for="Música">
-                    <h2 class="subtitulo">Música</h2>
-                </label>
-            </div>
+           
 
             <div class="field-option">
                 <input type="checkbox" name="category" id="Videoclip" value="Videoclip">
@@ -176,6 +171,19 @@ $countriesAndCities = file_get_contents('countries.min.json');
                 </label>
             </div>
 
+            <div class="field-option">
+                <input type="checkbox" name="category" id="Colectivo" value="Colectivo">
+                <label for="Colectivo">
+                    <h2 class="subtitulo">Colectivo TRImarchi</h2>
+                </label>
+            </div>
+            
+            <div class="field-option">
+                <input type="checkbox" name="category" id="Música" value="Música">
+                <label for="Música">
+                    <h2 class="subtitulo">Música</h2>
+                </label>
+            </div>
             <!--div class="field-option">
                 <input type="checkbox" name="category" id="Portada" value="Portada">
                 <label for="Portada">
@@ -183,12 +191,7 @@ $countriesAndCities = file_get_contents('countries.min.json');
                 </label>
             </div-->
 
-            <div class="field-option">
-                <input type="checkbox" name="category" id="Colectivo" value="Colectivo">
-                <label for="Colectivo">
-                    <h2 class="subtitulo">Colectivo TRImarchi</h2>
-                </label>
-            </div>
+            
             
         </div>
 
