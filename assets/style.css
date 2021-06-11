@@ -1106,5 +1106,10 @@ aside .modal{
         font-weight: 750;
         display: block;
     }
+
+    footer .footer-icon img {
+        top: 5px;
+        left: 7px;
+    }
 }
 
