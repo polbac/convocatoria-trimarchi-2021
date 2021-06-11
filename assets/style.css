@@ -1101,5 +1101,10 @@ aside .modal{
 
     
 
+    span.subtitulo {
+        font-size: 1.25rem;
+        font-weight: 750;
+        display: block;
+    }
 }
 
