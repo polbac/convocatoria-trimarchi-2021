@@ -1097,14 +1097,14 @@ aside .modal{
     input, select {
         font-size: 0.75rem;
         height: 5vw;
+        width: 5vw;
     }
-
-    
 
     span.subtitulo {
         font-size: 1.25rem;
         font-weight: 750;
         display: block;
     }
+    
 }
 
