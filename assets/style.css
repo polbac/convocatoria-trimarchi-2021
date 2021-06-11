@@ -1051,6 +1051,30 @@ aside .modal{
         height: 47.55vw;
     }
 
+    .bloque.dos .columna-big{
+        position: relative;
+        width: 50%;
+    }
+
+    .bloque.dos .columna-big .outer-box {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .bloque.dos .columna-big .inner-box {
+        width: 100%;
+    }
+
+    .bloque.dos .columna-big .check-categoria img {
+        width: 100%;
+    }
+
+    .bloque.dos .columna:nth-child(7) .check-categoria img {
+        width: 120%;
+        height: 48vw;
+        margin-left: -5vw;
+    }
+
     aside .modal{
         left: 20px;
     }
