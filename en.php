@@ -1,5 +1,5 @@
 <?php 
-$r_gif = (int)rand(1, 14);
+$r_gif = (int)rand(1, 16);
 ?>
 
 <html>
@@ -43,12 +43,12 @@ $r_gif = (int)rand(1, 14);
 
     <div class="bloque uno" id="convocatoria" color="#ffff66">
         <p class="destacado" >
-            TRIMARCHI AND DOMESTIKA ARE PROUD TO ANNOUNCE THE
+            TRIMARCHI & DOMESTIKA ARE PROUD TO ANNOUNCE THE
         </p>
         <h1 class="titulo">
             <span min-weight="740" max-weight="840">TRIMARCHI</span>
             <br /> <span min-weight="600" max-weight="840">2021 OPEN CALL</span><br />
-            <span min-weight="600" max-weight="840">From June 15 to July 31</span>
+            <span min-weight="600" max-weight="840">JUN15-JUL31</span>
         </h1>
         <p class="destacado">
         <span>
@@ -140,7 +140,7 @@ $r_gif = (int)rand(1, 14);
 
     <div class="bloque dos" id="categorias" color="#99ff99">
         <h1 class="titulo" min-weight="740" max-weight="840">
-            CATEGORIES AND INCENTIVES
+            CATEGORIES
         </h1>
         <div class="columnas">
             <div class="columna">
@@ -167,7 +167,7 @@ $r_gif = (int)rand(1, 14);
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        A virtual meeting with Braulio Amado, where he will give you feedback on your proposal.
+                        A virtual meeting with <b>BRAULIO AMADO</b>, where he will give you feedback on your proposal.
 
                     </p>
                 </div>
@@ -209,7 +209,7 @@ $r_gif = (int)rand(1, 14);
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                    Three virtual consultation meetings with Diana Aisemberg
+                    Three virtual consultation meetings with <b>DIANA AISENBERG</b>
 
                     </p>
                 </div>
@@ -538,7 +538,7 @@ Sign up for this category to access the possibility of working with us in specif
                     
                 </div>
                 <h2 class="subtitulo">
-                    DIANA<br />AIZEMBERG
+                    DIANA<br />AISENBERG
                 </h2>
                 <p class="texto">
                 Visual artist, painter, writer, teacher and curator. She was a member of the faculty of the Universidad de Buenos Aires and coordinated the visual arts department of the Centro Cultural Rojas. Her educational work has been recognized by the Argentine Critics Association.
@@ -613,8 +613,12 @@ Sign up for this category to access the possibility of working with us in specif
                         </div>
                 </div>
                 <h2 class="subtitulo">
-                    MONOBLOCK
+                    VIK ARRIETA
+                    <span class="subtitulo">
+                    (MONOBLOCK)
+                </span>
                 </h2>
+                
                 <p class="texto">
                 Vik is a social communicator, editor, writer, illustrator, and director of Monoblock, a project that she co-founded with Pablo Galuppo in 2004. In 2014, she published her first novel, Dangerous Networks, and in 2015 she launched her own line of products, Happimess.
 
@@ -702,8 +706,12 @@ Sign up for this category to access the possibility of working with us in specif
                     </div>
                 </div>
                 <h2 class="subtitulo" style="width: calc(100% + 5vw); margin-left: -2.5vw;">
-                    PABLO &amp; SEBA<br />(DOMESTIKA / TRImarchi)
+                    PABLO &amp; SEBA
+                    <span class="subtitulo">
+                    (DOMESTIKA/TRIMARCHI)
+                </span>
                 </h2>
+                
                 <p class="texto">
                 Pablo "Pacheco" González Díaz and Sebastián "Acampante" Valdivia are both graphic designers and founders of TRImarchi, the most important design conference of Latin America with 20 years of history. A little over one year ago, TRImarchi joined forces with Domestika, with whom it shares its commitment to the creative community and dedication to fostering and democratizing knowledge.
 
@@ -773,7 +781,7 @@ Sign up for this category to access the possibility of working with us in specif
                 This open call is for creative minds from all over the world, 16 or older.
                 <br /><br />
                 <span>HOW CAN I PARTICIPATE?</span><br />
-                Participants must register through the website trimarchidg.net/ by completing a form with the
+                Participants must register through this website by completing a form with the
                 following mandatory information: Domestika user, first and last name, age, e-mail, city,
                 country and link to portfolio. Registrants will also need to choose the category/ies in which
                 they wish to participate.
@@ -786,8 +794,7 @@ Sign up for this category to access the possibility of working with us in specif
                 <br /><br />
                 <span>HOW DO I REGISTER AT DOMESTIKA?</span><br />
                 If you still don’t have a user profile at Domestika, you can create one at <a href="https://www.
-                domestika.org/es" target="_blank">https://www.
-                domestika.org/es</a> by clicking on “Crear cuenta” (Create Account).
+                domestika.org" target="_blank">https://www.domestika.org</a> by clicking on “Crear cuenta” (Create Account).
                 When creating your profile, we recommend completing all the steps of the process (add a
                 profile photo and tell us something about yourself). This will help us get to know you better
                 and will increase your chances of being selected.
@@ -810,7 +817,7 @@ OUT?</span><br />
                 The selected artists will also receive an email at the address indicated on the registration form.
                 <br /><br />
                 <span>ANY OTHER QUESTIONS?</span><br />
-                Write to <a href="mailto:convocatoria@trimarchidg.net">convocatoria@trimarchidg.net</a>
+                Write to <a href="mailto:convocatoria2021@trimarchidg.net">convocatoria2021@trimarchidg.net</a>
             </p>
         </div>
     
@@ -834,12 +841,12 @@ OUT?</span><br />
 
             <div>
                 <a href="#inscripcion" class="menu-item smooth-link">REGISTRATION</a>
-                <a href="#quienes-somos" class="menu-itemv">WHO ARE WE?</a>
+                <a href="#quienes" class="menu-item smooth-link">WHO ARE WE?</a>
                 <a href="#faq" class="menu-item smooth-link">FAQs</a>
             </div>
 
             <div>
-                <a href="mailto:info@trimarchidg.net">INFO@TRIMARCHIDG.NET</a>
+                <a href="mailto:convocatoria2021@trimarchidg.net">convocatoria2021@trimarchidg.net</a>
                 <a target="_blank" href="https://instagram.com/trimarchidg">IG/TRIMARCHIDG</a>
                 <a target="_blank" href="https://instagram.com/domestika">IG/DOMESTIKA</a>
             </div>
@@ -915,8 +922,8 @@ OUT?</span><br />
                     }
                 })
                 
-                $("nav a.menu-item").removeClass("active")
-                $("nav a.menu-item[href='#" + $current.attr("id") + "']").addClass('active')
+                $("header nav a.menu-item").removeClass("active")
+                $("header nav a.menu-item[href='#" + $current.attr("id") + "']").addClass('active')
             }
 
             checkScroll()
