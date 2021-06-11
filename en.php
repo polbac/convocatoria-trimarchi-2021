@@ -699,7 +699,7 @@ Sign up for this category to access the possibility of working with us in specif
                 <h2 class="subtitulo" style="width: calc(100% + 5vw); margin-left: -2.5vw;">
                     PABLO &amp; SEBA
                     <span class="subtitulo">
-                    (DOMESTIKA/TRIMARCHI)
+                    (DOMESTIKA / TRIMARCHI)
                 </span>
                 </h2>
                 
@@ -736,7 +736,7 @@ Sign up for this category to access the possibility of working with us in specif
                     </div>
                 </div>
                 <p class="caption">
-                    ¿Querés saber más? Visitá <a class='black lowercase' href="https://www.trimarchidg.net/">TRIMARCHIDG.NET</a>
+                Do you want to know more? Visit <a class='black lowercase' href="https://www.trimarchidg.net/">TRIMARCHIDG.NET</a>
                 </p>
             </div>
 

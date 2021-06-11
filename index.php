@@ -736,7 +736,7 @@ $r_gif = (int)rand(1, 16);
                 <h2 class="subtitulo" style="width: calc(100% + 5vw); margin-left: -2.5vw;">
                     PABLO &amp; SEBA
                     <span class="subtitulo">
-                    (DOMESTIKA/TRIMARCHI)
+                    (DOMESTIKA / TRIMARCHI)
                 </span>
                 </h2>
                 
