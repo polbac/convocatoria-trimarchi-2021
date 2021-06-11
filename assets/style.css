@@ -300,7 +300,7 @@ p.caption a {
 .bloque.dos .columna:nth-child(7) .check-categoria img{
     width: 118%;
     height: 32.55vw;
-    transform: scaleX(-1);
+    /*transform: scaleX(-1);*/
     margin-left: -3vw;
 }
 
