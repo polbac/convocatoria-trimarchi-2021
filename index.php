@@ -1,5 +1,5 @@
 <?php 
-$r_gif = (int)rand(1, 14);
+$r_gif = (int)rand(1, 16);
 ?>
 
 <html>
@@ -48,7 +48,7 @@ $r_gif = (int)rand(1, 14);
         <h1 class="titulo">
             <span min-weight="740" max-weight="840">CONVOCATORIA</span>
             <br /> <span min-weight="600" max-weight="840">TRIMARCHI 2021</span><br />
-            <span min-weight="600" max-weight="840">15JUN-15AGO</span>
+            <span min-weight="600" max-weight="840">15JUN-31JUL</span>
         </h1>
         <p class="destacado">
         <span>
@@ -165,13 +165,13 @@ $r_gif = (int)rand(1, 14);
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Dar una charla en el streaming show de cierre de la Convocatoria TRImarchi 2021. <a href="assets/bases_es.pdf">*Ver bases legales</a>
+                        Dar una charla en el streaming show de cierre de la Convocatoria TRImarchi 2021.
                     </p>
                 </div>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Tener un encuentro virtual con Braulio Amado donde te dará un feedback de tu propuesta.
+                        Tener un encuentro virtual con <b>BRAULIO AMADO</b> donde te dará un feedback de tu propuesta.
                     </p>
                 </div>
                 <div class="item">
@@ -207,7 +207,7 @@ $r_gif = (int)rand(1, 14);
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Tres encuentros virtuales de asesoramiento con Diana Aisemberg.
+                        Tres encuentros virtuales de asesoramiento con <b>DIANA AISENBERG</b>.
                     </p>
                 </div>
                 <div class="item">
@@ -247,18 +247,6 @@ $r_gif = (int)rand(1, 14);
                     data. Si tenés vocación de enseñar y querés compartir lo que sabés con la
                     comunidad creativa global, anotate en esta categoría y participa por:   
                 </p>
-                <div class="item">
-                    <img src="item.svg"/>
-                    <p class="texto">
-                        Incentivo económico de USD 1.000.
-                    </p>
-                </div>
-                <div class="item">
-                    <img src="item.svg"/>
-                    <p class="texto">
-                        10 cursos de <span>DOMESTIKA</span> a tu elección.
-                    </p>
-                </div>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
@@ -321,7 +309,7 @@ $r_gif = (int)rand(1, 14);
                 <p class="texto">
                     Esta es una llamada a quienes materializan, los makers de la comunidad. Si tenés un
                     proyecto personal vinculado a la creatividad o el arte al que querés hacer crecer,
-                    este es tu lugar dentro de la convocatoria. Anotate acá para:
+                    éste es tu lugar dentro de la convocatoria. Anotate acá para:
                 </p>
                 <div class="item">
                     <img src="item.svg"/>
@@ -544,6 +532,9 @@ $r_gif = (int)rand(1, 14);
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
                             <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Diana/diana01.jpg" /></li>
+                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Diana/diana02.jpeg" /></li>
+                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Diana/diana03.jpeg" /></li>
+                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Diana/diana04.jpeg" /></li>
                         </ul>
                     </div>
                     
@@ -623,8 +614,12 @@ $r_gif = (int)rand(1, 14);
                         </div>
                 </div>
                 <h2 class="subtitulo">
-                    MONOBLOCK
+                    VIK ARRIETA
+                    <span class="subtitulo">
+                    (MONOBLOCK)
+                </span>
                 </h2>
+                
                 <p class="texto">
                     Es comunicadora social, editora, escritora, ilustradora y directora de Monoblock, proyecto
                     que cofundó junto a Pablo Galuppo en 2004. En 2014, publicó su primera novela, Redes
@@ -652,7 +647,7 @@ $r_gif = (int)rand(1, 14);
                 </h2>
                 <p class="texto">
                     Es ilustrador, diseñador, director de arte y director del proyecto de indumentaria Outsiders
-                    Division. Trabajó para numerosa marcas como Adidas, Converse, G-Star, H&amp;M, Levi’s,
+                    Division. Trabajó para numerosas marcas como Adidas, Converse, G-Star, H&amp;M, Levi’s,
                     Wrangler, Samsung, Nissan, Perrier, Pull &amp; Bear y Reebok.
                 </p>
             </div>
@@ -718,8 +713,12 @@ $r_gif = (int)rand(1, 14);
                     </div>
                 </div>
                 <h2 class="subtitulo" style="width: calc(100% + 5vw); margin-left: -2.5vw;">
-                    PABLO &amp; SEBA<br />(DOMESTIKA / TRImarchi)
+                    PABLO &amp; SEBA
+                    <span class="subtitulo">
+                    (DOMESTIKA/TRIMARCHI)
+                </span>
                 </h2>
+                
                 <p class="texto">
                     Pablo &quot;Pacheco&quot; González Díaz y Sebastián &quot;Acampante&quot; Valdivia son diseñadores y
                     fundadores de TRImarchi, el encuentro internacional de diseño más importante de
@@ -746,11 +745,10 @@ $r_gif = (int)rand(1, 14);
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img loading="lazy"height="400" src="tmdg01.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="tmdg02.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="tmdg03.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="tmdg04.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="tmdg05.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/tmdg01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/tmdg02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/tmdg03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/tmdg04.jpg" /></li>
                         </ul>
                     </div>
                 </div>
@@ -807,7 +805,7 @@ $r_gif = (int)rand(1, 14);
                 La Convocatoria está abierta a creativos de todo el mundo, mayores de 16 años.
                 <br /><br />
                 <span>¿CÓMO PUEDO PARTICIPAR?</span><br />
-                Los participantes deberán inscribirse a través de la página web <a href="http://trimarchidg.net/convocatoriatrimarchi2021">trimarchidg.net/convocatoriatrimarchi2021</a> completando de forma obligatoria un formulario con la
+                Los participantes deberán inscribirse en esta página web completando de forma obligatoria un formulario con la
                 siguiente información: usuario en domestika, nombre y apellido, edad, e-mail, link a
                 porfolio, ciudad y país. Además deberán seleccionar la/s categoría/s en las que
                 quieren participar.
@@ -820,9 +818,7 @@ $r_gif = (int)rand(1, 14);
                 máximo de 10 MB.
                 <br /><br />
                 <span>¿CÓMO HAGO PARA REGISTRARME EN DOMESTIKA?</span><br />
-                Si todavía no tenés usuario en Domestika, podés crearlo ingresando en <a href="https://www.
-                domestika.org/es" target="_blank">https://www.
-                domestika.org/es</a> y allí hacé click en “Crear cuenta”. Al crear tu perfil, te
+                Si todavía no tenés usuario en Domestika, podés crearlo ingresando en <a href="https://www.domestika.org" target="_blank">https://www.domestika.org</a> y allí hacé click en “Crear cuenta”. Al crear tu perfil, te
                 recomendamos hacerlo de manera completa (agregá una foto de perfil y contanos algo
                 sobre vos). Eso nos ayudará a conocerte más y te dará mayores chances de ser elegido.
                 <br /><br />
@@ -846,7 +842,7 @@ $r_gif = (int)rand(1, 14);
                 asentada en el formulario de inscripción.
                 <br /><br />
                 <span>¿TENÉS MÁS PREGUNTAS?</span><br />
-                Escribinos a <a href="mailto:convocatoria@trimarchidg.net">convocatoria@trimarchidg.net</a>
+                Escribinos a <a href="mailto:convocatoria2021@trimarchidg.net">convocatoria2021@trimarchidg.net</a>
             </p>
         </div>
     
@@ -869,12 +865,12 @@ $r_gif = (int)rand(1, 14);
 
             <div>
                 <a href="#inscripcion" class="menu-item smooth-link">INSCRIPCIÓN</a>
-                <a href="#quienes-somos" class="menu-itemv">QUIENES SOMOS</a>
+                <a href="#quienes" class="menu-item smooth-link">QUIENES SOMOS</a>
                 <a href="#faq" class="menu-item smooth-link">FAQs</a>
             </div>
 
             <div>
-                <a href="mailto:info@trimarchidg.net">INFO@TRIMARCHIDG.NET</a>
+            <a href="mailto:convocatoria2021@trimarchidg.net">convocatoria2021@trimarchidg.net</a>
                 <a target="_blank" href="https://instagram.com/trimarchidg">IG/TRIMARCHIDG</a>
                 <a target="_blank" href="https://instagram.com/domestika">IG/DOMESTIKA</a>
             </div>
@@ -950,8 +946,8 @@ $r_gif = (int)rand(1, 14);
                     }
                 })
                 
-                $("nav a.menu-item").removeClass("active")
-                $("nav a.menu-item[href='#" + $current.attr("id") + "']").addClass('active')
+                $("header nav a.menu-item").removeClass("active")
+                $("header nav a.menu-item[href='#" + $current.attr("id") + "']").addClass('active')
             }
 
             checkScroll()

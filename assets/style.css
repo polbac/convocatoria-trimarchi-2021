@@ -309,7 +309,9 @@ p.caption a {
     width: 100%;
     /*margin-left: 12.5%;*/
 }
-
+.check-categoria h2.subtitulo{
+    text-transform: uppercase;
+}
 .check-categoria img.normal, .check-categoria h2.subtitulo {
     opacity: .3;
     transition: opacity .2s;
@@ -454,6 +456,20 @@ img.select {
     bottom: 2vh;
 }
 
+
+.bloque.uno img.animacion.gif-15{
+    width: 18vw;
+    right: 3vw;
+    bottom: 2vh;
+}
+
+
+.bloque.uno img.animacion.gif-16{
+    width: 20vw;
+    right: 3vw;
+    bottom: 2vh;
+}
+
 /*JURADO*/
  
 li.glide__slide img {
@@ -490,13 +506,13 @@ li.glide__slide img {
     color: red;
 }
 
-.subtitulo.red img{
+.subtitulo img{
     height: 3.9vw;
     margin-left: 0.4vw;
     margin-bottom: -0.6vw;
 }
 
-.bloque.cuatro p.texto.red {
+.bloque.cuatro p.texto {
     width: 54.5vw;
     margin-left: 50%;
     transform: translate(-50%);
@@ -505,8 +521,22 @@ li.glide__slide img {
     margin-top: 1vw;
 }
 
+b{
+    font-weight: 770;
+}
+
 .form-step {
     margin-top: 5vw;
+}
+
+footer nav.menu a{
+    text-transform: uppercase;
+}
+
+span.subtitulo{
+    font-size: 2.45rem;
+    font-weight: 750;
+    display: block;
 }
 
 .form-step h2.subtitulo {

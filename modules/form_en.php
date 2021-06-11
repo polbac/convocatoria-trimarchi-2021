@@ -17,14 +17,14 @@ $countriesAndCities = file_get_contents('countries.min.json');
 
     </h2>
 
-    <h2 class="subtitulo red">
+    <h2 class="subtitulo">
         Sign up at Domestika
         <img src="iso-domestika.png"/>
     </h2>
 
-    <p class="texto red">
-    You can sign up here. When creating your profile, we recommend completing the all the steps of the process (add a profile photo and tell us something about yourself). This will help us get to know you better and will increase your chances of being selected.<br/>
-If you have questions, check the FAQs or find us at <a href="mailto:convocatoria2021@trimarchidg.net">convocatoria2021@trimarchidg.net</a><br/>
+    <p class="texto">
+    You can sign up <a target="_blank" href="https://www.domestika.org/">here</a>. When creating your profile, we recommend completing the all the steps of the process (add a profile photo and tell us something about yourself). This will help us get to know you better and will increase your chances of being selected.<br/>
+If you have questions, check the <a href="#faq" class="menu-item smooth-link">FAQs</a> or find us at <a href="mailto:convocatoria2021@trimarchidg.net">convocatoria2021@trimarchidg.net</a><br/>
 If you’re already registered at Domestika, go to Step 2.<br/>
 
     </p>
@@ -49,7 +49,7 @@ If you’re already registered at Domestika, go to Step 2.<br/>
                 <input placeholder="@USERNAME" class="grow" name="Usuario" id="usuario" type="text"  />
             </div>
             <p class="texto">
-                If you’re already registered at Domestika but don’t know how to check your user name, please read the FAQs.
+                If you’re already registered at Domestika but don’t know how to check your user name, please read the <a href="#faq" class="menu-item smooth-link">FAQs</a>.
             </p>
         </div>
 
