@@ -249,6 +249,11 @@ p.caption a {
     margin-top: 6vw;
 }
 
+.columna-big {
+    width: 64%;
+    margin-top: 6vw;
+}
+
 .black{
     color: black !important;
 }
@@ -284,16 +289,37 @@ p.caption a {
     position: relative;
 }
 
-.bloque.dos .columnas p.texto{
+.bloque.dos .columna-big{
+    position: relative;
+}
+
+.bloque.dos .columnas p.texto {
     padding: 0 2vw;
 }
 
-
-.bloque.dos .columna:nth-child(8) .check-categoria img{
+.bloque.dos .columna:nth-child(7) .check-categoria img{
     width: 118%;
     height: 32.55vw;
+    transform: scaleX(-1);
+    margin-left: -3vw;
 }
 
+.bloque.dos .columna-big .check-categoria img {
+    width: 32vw;
+}
+
+.bloque.dos .columna-big .check-categoria h2.subtitulo {
+    width: 32vw;
+    padding-top: 1vw;
+}
+
+.bloque.dos .columna-big .outer-box {
+    display: flex;
+}
+
+.bloque.dos .columna-big .inner-box {
+    width: 32vw;
+}
 
 .check-categoria {
     position: relative;
@@ -352,6 +378,10 @@ img.select {
     align-items: flex-start;
     margin-top: 2vw;
     padding: 0 2vw;
+}
+
+.item.select {
+    margin-top: 0 !important;
 }
 
 .item img {
