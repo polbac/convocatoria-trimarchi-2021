@@ -334,7 +334,7 @@ If you’re already registered at Domestika, go to Step 2.<br/>
         if (hasError) {
             const classElement = $(this).attr("href")
             window.scrollTo({ top: yGo, behavior: 'smooth' })
-            $("aside .modal").html("There is errors! Check the form please")
+            $("aside .modal").html("There are errors! Check the form please")
 
             TweenLite.set("aside", {opacity: 0, display: 'flex'})
             TweenLite.to("aside", 0.3, { opacity: 1 })
