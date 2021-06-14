@@ -188,7 +188,7 @@ $r_gif = (int)rand(1, 16);
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         There are<br />
-                        <contador date="30/5/2021" hour="20:20"></contador>
+                        <contador date="01/08/2021" hour="00:00"></contador>
                     </p>
                 </div>
             </div>
@@ -228,8 +228,8 @@ $r_gif = (int)rand(1, 16);
                 <div class="item">
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
-                        Quedan<br />
-                        <contador date="30/5/2021" hour="20:20"></contador>
+                        There are<br />
+                        <contador date="01/08/2021" hour="00:00"></contador>
                     </p>
                 </div>
             </div>
@@ -272,7 +272,7 @@ $r_gif = (int)rand(1, 16);
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         There are<br />
-                        <contador date="30/5/2021" hour="00:20"></contador>
+                        <contador date="01/08/2021" hour="00:00"></contador>
                     </p>
                 </div>
             </div>
@@ -303,7 +303,7 @@ $r_gif = (int)rand(1, 16);
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         There are<br />
-                        <contador date="30/5/2021" hour="20:20"></contador>
+                        <contador date="01/08/2021" hour="00:00"></contador>
                     </p>
                 </div>
             </div>
@@ -340,7 +340,7 @@ $r_gif = (int)rand(1, 16);
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         There are<br />
-                        <contador date="30/6/2021" hour="20:20"></contador>
+                        <contador date="01/08/2021" hour="00:00"></contador>
                     </p>
                 </div>
             </div>
@@ -377,7 +377,7 @@ $r_gif = (int)rand(1, 16);
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                     There are<br />
-                    <contador date="30/5/2021" hour="20:20"></contador>
+                    <contador date="01/08/2021" hour="00:00"></contador>
                     </p>
                 </div>
             </div>
@@ -413,7 +413,7 @@ $r_gif = (int)rand(1, 16);
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         There are<br />
-                        <contador date="29/5/2021" hour="20:20"></contador>
+                        <contador date="01/08/2021" hour="00:00"></contador>
                     </p>
                 </div>
             </div>
@@ -437,7 +437,7 @@ Sign up for this category to access the possibility of working with us in specif
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         There are<br />
-                        <contador date="10/6/2021" hour="20:20"></contador>
+                        <contador date="01/08/2021" hour="00:00"></contador>
                     </p>
                 </div>
             </div>
@@ -516,7 +516,7 @@ Sign up for this category to access the possibility of working with us in specif
                             <img src="cronometro-verde.svg"/>
                             <p class="texto">
                                 There are<br />
-                                <contador date="30/9/2021" hour="1:20"></contador>
+                                <contador date="01/08/2021" hour="00:00"></contador>
                             </p>
                         </div>
 
