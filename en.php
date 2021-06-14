@@ -195,9 +195,9 @@ $r_gif = (int)rand(1, 16);
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img class="normal" src="/dibujo-dg.png"/>
-                    <img class="hover" src="/dibujo-dg.png"/>
-                    <img class="select" src="/dibujo-dg.png"/>
+                    <img class="normal" src="/dibujo-dg-blank.png"/>
+                    <img class="hover" src="/dibujo-dg-hover.png"/>
+                    <img class="select" src="/dibujo-dg-select.png"/>
                     <h2 class="subtitulo">
                         GRAPHIC DESIGN
                     </h2>

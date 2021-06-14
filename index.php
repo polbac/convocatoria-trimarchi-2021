@@ -185,16 +185,16 @@ $r_gif = (int)rand(1, 16);
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         Quedan<br />
-                        <contador date="30/5/2021" hour="20:20"></contador>
+                        <contador date="01/08/2021" hour="00:00"></contador>
                     </p>
                 </div>
             </div>
 
             <div class="columna">
                 <div class="check-categoria">
-                    <img class="normal" src="/dibujo-dg.png"/>
-                    <img class="hover" src="/dibujo-dg.png"/>
-                    <img class="select" src="/dibujo-dg.png"/>
+                    <img class="normal" src="/dibujo-dg-blank.png"/>
+                    <img class="hover" src="/dibujo-dg-hover.png"/>
+                    <img class="select" src="/dibujo-dg-select.png"/>
                     <h2 class="subtitulo">
                         DISEÑO GRÁFICO
                     </h2>
@@ -226,7 +226,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         Quedan<br />
-                        <contador date="30/5/2021" hour="20:20"></contador>
+                        <contador date="01/08/2021" hour="00:00"></contador>
                     </p>
                 </div>
             </div>
@@ -269,7 +269,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         Quedan<br />
-                        <contador date="30/5/2021" hour="00:20"></contador>
+                        <contador date="01/08/2021" hour="00:00"></contador>
                     </p>
                 </div>
             </div>
@@ -299,7 +299,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         Quedan<br />
-                        <contador date="30/5/2021" hour="20:20"></contador>
+                        <contador date="01/08/2021" hour="00:00"></contador>
                     </p>
                 </div>
             </div>
@@ -334,7 +334,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         Quedan<br />
-                        <contador date="30/6/2021" hour="20:20"></contador>
+                        <contador date="01/08/2021" hour="00:00"></contador>
                     </p>
                 </div>
             </div>
@@ -370,7 +370,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                     Quedan<br />
-                    <contador date="30/5/2021" hour="20:20"></contador>
+                    <contador date="01/08/2021" hour="00:00"></contador>
                     </p>
                 </div>
             </div>
@@ -403,7 +403,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         Quedan<br />
-                        <contador date="29/5/2021" hour="20:20"></contador>
+                        <contador date="01/08/2021" hour="00:00"></contador>
                     </p>
                 </div>
             </div>
@@ -433,7 +433,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         Quedan<br />
-                        <contador date="6/8/2021" hour="20:20"></contador>
+                        <contador date="01/08/2021" hour="00:00"></contador>
                     </p>
                 </div>
             </div-->
@@ -460,7 +460,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         Quedan<br />
-                        <contador date="10/6/2021" hour="20:20"></contador>
+                        <contador date="01/08/2021" hour="00:00"></contador>
                     </p>
                 </div>
             </div>
@@ -542,7 +542,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                             <img src="cronometro-verde.svg"/>
                             <p class="texto">
                                 Quedan<br />
-                                <contador date="30/9/2021" hour="1:20"></contador>
+                                <contador date="01/08/2021" hour="00:00"></contador>
                             </p>
                         </div>
 
