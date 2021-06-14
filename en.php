@@ -174,6 +174,13 @@ $r_gif = (int)rand(1, 16);
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
+                    A virtual meeting with <b>Pablo and Seba</b>, where they will guide you to prepare your talk.
+
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
                         An incentive of USD 1,000
                     </p>
                 </div>
@@ -181,6 +188,47 @@ $r_gif = (int)rand(1, 16);
                     <img src="cronometro-verde.svg"/>
                     <p class="texto">
                         There are<br />
+                        <contador date="30/5/2021" hour="20:20"></contador>
+                    </p>
+                </div>
+            </div>
+
+            <div class="columna">
+                <div class="check-categoria">
+                    <img class="normal" src="/dibujo-dg.png"/>
+                    <img class="hover" src="/dibujo-dg.png"/>
+                    <img class="select" src="/dibujo-dg.png"/>
+                    <h2 class="subtitulo">
+                        GRAPHIC DESIGN
+                    </h2>
+                </div>
+                <p class="texto">
+                Although TRImarchi loves and wants to support various artistic expressions and disciplines, it was graphic design that marked our path. For that reason we especially think about this proposal: If you are a graphic designer, register in this category to show us what you do and participate for:
+
+
+                </p>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                    Designing the visual identity of the livestreamed closing show of the 2021 TRImarchi Open Call for Proposals.
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                    A virtual consultation meeting with <b>Braulio Amado</b>.
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                    An incentive of USD 1,500.
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="cronometro-verde.svg"/>
+                    <p class="texto">
+                        Quedan<br />
                         <contador date="30/5/2021" hour="20:20"></contador>
                     </p>
                 </div>
@@ -739,6 +787,8 @@ Sign up for this category to access the possibility of working with us in specif
                 Do you want to know more? Visit <a class='black lowercase' href="https://www.trimarchidg.net/">TRIMARCHIDG.NET</a>
                 </p>
             </div>
+
+            
 
             <div class="columna">
                 <p class="texto">
