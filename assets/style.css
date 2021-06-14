@@ -934,6 +934,7 @@ aside .modal{
         display: none;
     }
 
+    
     header img.domestika{
         height: 4.2vw;
     }
@@ -957,7 +958,7 @@ aside .modal{
     nav.menu {
         position: fixed;
         height: 100vh;
-        background: red;
+        background: #feff3f;
         top: 0;
         left: 0;
         right: 0;
@@ -968,7 +969,7 @@ aside .modal{
 
     nav.menu a {
         font-size: 7vw;
-        color: white;
+        color: black;
         display: block;
     }
 
