@@ -171,13 +171,55 @@ $r_gif = (int)rand(1, 16);
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Tener un encuentro virtual con <b>BRAULIO AMADO</b> donde te dará un feedback de tu propuesta.
+                    Tener un encuentro virtual con <b>Pablo</b> y <b>Seba</b> donde te ayudarán a preparar tu charla
+
                     </p>
                 </div>
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
                     Incentivo de USD 1.000.
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="cronometro-verde.svg"/>
+                    <p class="texto">
+                        Quedan<br />
+                        <contador date="30/5/2021" hour="20:20"></contador>
+                    </p>
+                </div>
+            </div>
+
+            <div class="columna">
+                <div class="check-categoria">
+                    <img class="normal" src="/dibujo-dg.png"/>
+                    <img class="hover" src="/dibujo-dg.png"/>
+                    <img class="select" src="/dibujo-dg.png"/>
+                    <h2 class="subtitulo">
+                        DISEÑO GRÁFICO
+                    </h2>
+                </div>
+                <p class="texto">
+                Si bien TRImarchi deambula con curiosidad y amor por muy diversas expresiones artísticas y disciplinas, fue el diseño gráfico lo que impulsó y abrió el camino de nuestra búsqueda, por eso pensamos especialmente esta propuesta. 
+Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo que hacés y tené la posibilidad de:
+
+                </p>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                    Ser el encargado de diseñar la identidad visual del Streaming Show de cierre de la Convocatoria TRImarchi 2021
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                    Tener un encuentro virtual de asesoramiento con <b>Braulio Amado</b>
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                    Obtener un incentivo económico de USD 1.500
                     </p>
                 </div>
                 <div class="item">
