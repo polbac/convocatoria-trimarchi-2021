@@ -608,6 +608,10 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                             <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Diana/diana04.jpeg" /></li>
                         </ul>
                     </div>
+                    <div data-glide-el="controls">
+                        <button class='prev-arrow' data-glide-dir="<"><</button>
+                        <button class='next-arrow' data-glide-dir=">">></button>
+                    </div>
                     
                 </div>
                 <h2 class="subtitulo">
@@ -820,6 +824,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                         <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/tmdg02.jpg" /></li>
                         <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/tmdg03.jpg" /></li>
                         <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/tmdg04.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/tmdg05.jpg" /></li>
                         </ul>
                     </div>
                 </div>
