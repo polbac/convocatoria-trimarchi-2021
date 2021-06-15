@@ -531,6 +531,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                     <img class="normal" src="dibujo-sapo-blank.png"/>
                     <img class="hover" src="dibujo-sapo-hover.png"/>
                     <img class="select" src="dibujo-sapo-select.png"/>
+                    <span style="display: none">COLECTIVO TRIMARCHI</span>
                 </div>
 
                 <div class="columna">

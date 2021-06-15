@@ -180,6 +180,13 @@ If you’re already registered at Domestika, go to Step 2.<br/>
             </div>
 
             <div class="field-option">
+                <input type="checkbox" name="category" id="Música" value="Música">
+                <label for="Música">
+                    <h2 class="subtitulo">Music</h2>
+                </label>
+            </div>
+
+            <div class="field-option">
                 <input type="checkbox" name="category" id="Colectivo" value="Colectivo">
                 <label for="Colectivo">
                     <h2 class="subtitulo">Colectivo TRImarchi
@@ -188,12 +195,7 @@ If you’re already registered at Domestika, go to Step 2.<br/>
             </div>
             
 
-            <div class="field-option">
-                <input type="checkbox" name="category" id="Música" value="Música">
-                <label for="Música">
-                    <h2 class="subtitulo">Music</h2>
-                </label>
-            </div>
+            
 
            
 
