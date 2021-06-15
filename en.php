@@ -418,30 +418,6 @@ $r_gif = (int)rand(1, 16);
                 </div>
             </div>
 
-            <div class="columna">
-                <div class="check-categoria">
-                    <img class="normal" src="dibujo9-blank.png"/>
-                    <img class="hover" src="dibujo9-hover.png"/>
-                    <img class="select" src="dibujo9-select.png"/>
-                    <h2 class="subtitulo">
-                    Colectivo TRImarchi
-
-                    </h2>
-                </div>
-                <p class="texto">
-                Colectivo TRImarchi is our idea of a large scale studio that leaves no one out. Throughout these years, we have carried out projects with a number of brands and music bands, bringing together the TRImarchi community by combining enjoyment and professionalism.<br/>
-Sign up for this category to access the possibility of working with us in specific projects that will take place throughout the year. We have a number of ideas in the pipeline, so this call is far-reaching: illustrators, designers, typographers, photographers, ceramists, muralists, artisans, and a very long etcetera.
-
-                </p>
-                <div class="item">
-                    <img src="cronometro-verde.svg"/>
-                    <p class="texto">
-                        There are<br />
-                        <contador date="01/08/2021" hour="00:00"></contador>
-                    </p>
-                </div>
-            </div>
-
             <div class="columna-big">
                 <div class="check-categoria">
                     <img class="normal" src="dibujo6-blank.png"/>
@@ -525,8 +501,31 @@ Sign up for this category to access the possibility of working with us in specif
                 </div>
 
             </div>
-
            
+            <div class="columna-bloque">
+                <div class="check-categoria">
+                    <img class="normal" src="dibujo-sapo-blank.png"/>
+                    <img class="hover" src="dibujo-sapo-hover.png"/>
+                    <img class="select" src="dibujo-sapo-select.png"/>
+                </div>
+                <div class="columna">
+                    <h2 class="subtitulo">
+                        Colectivo TRImarchi
+                    </h2>
+                    <p class="texto">
+                    Colectivo TRImarchi is our idea of a large scale studio that leaves no one out. Throughout these years, we have carried out projects with a number of brands and music bands, bringing together the TRImarchi community by combining enjoyment and professionalism.<br/>
+    Sign up for this category to access the possibility of working with us in specific projects that will take place throughout the year. We have a number of ideas in the pipeline, so this call is far-reaching: illustrators, designers, typographers, photographers, ceramists, muralists, artisans, and a very long etcetera.
+
+                    </p>
+                    <div class="item">
+                        <img src="cronometro-verde.svg"/>
+                        <p class="texto">
+                            There are<br />
+                            <contador date="01/08/2021" hour="00:00"></contador>
+                        </p>
+                    </div>
+                </div>
+            </div>
 
            
 

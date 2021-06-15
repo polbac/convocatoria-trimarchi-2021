@@ -196,7 +196,7 @@ $r_gif = (int)rand(1, 16);
                     <img class="hover" src="/dibujo-dg-hover.png"/>
                     <img class="select" src="/dibujo-dg-select.png"/>
                     <h2 class="subtitulo">
-                        DISEÑO GRÁFICO
+                        DISEÑO<br />GRÁFICO
                     </h2>
                 </div>
                 <p class="texto">
@@ -310,7 +310,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                     <img class="hover" src="dibujo4-hover.png"/>
                     <img class="select" src="dibujo4-select.png"/>
                     <h2 class="subtitulo">
-                        INDUMEN<br/>TARIA
+                        INDUMEN-<br/>TARIA
                     </h2>
                 </div>
                 <p class="texto">
@@ -345,7 +345,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                     <img class="hover" src="dibujo5-hover.png"/>
                     <img class="select" src="dibujo5-select.png"/>
                     <h2 class="subtitulo">
-                        EMPREN<br/>DIMIENTO
+                        EMPREN-<br/>DIMIENTO
                     </h2>
                 </div>
                 <p class="texto">
@@ -534,7 +534,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 </div>
 
                 <div class="columna">
-                    
+
                     <h2 class="subtitulo">
                             COLECTIVO TRImarchi
                         </h2>

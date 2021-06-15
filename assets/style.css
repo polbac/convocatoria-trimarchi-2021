@@ -186,7 +186,7 @@ h2.subtitulo {
     text-align: center;
     line-height: 0.75;
     letter-spacing: -0.5vw;
-    min-height: 6vw;
+    /*min-height: 6vw;*/
 }
 
 p {
@@ -321,20 +321,21 @@ p.caption a {
     padding: 0 2vw;
 }
 
+/*
 .bloque.dos .columna:nth-child(7) .check-categoria img{
     width: 118%;
     height: 32.55vw;
-    /*transform: scaleX(-1);*/
     margin-left: -3vw;
 }
+*/
 
 .bloque.dos .columna-big .check-categoria img {
-    width: 32vw;
+    width: 30vw;
 }
 
 .bloque.dos .columna-big .check-categoria h2.subtitulo {
-    width: 32vw;
-    padding-top: 1vw;
+    width: 30vw;
+    /*padding-top: 1vw;*/
 }
 
 .bloque.dos .columna-big .outer-box {
@@ -570,13 +571,22 @@ li.glide__slide img {
     margin-bottom: -0.6vw;
 }
 
-.bloque.cuatro p.texto {
+.bloque.cuatro p.texto.centrado {
     width: 54.5vw;
     margin-left: 50%;
     transform: translate(-50%);
     font-size: 1vw;
     text-align: center;
     margin-top: 1vw;
+}
+
+.bloque.cuatro p.texto {
+    width: 54.5vw;
+    margin-left: 0;
+    transform: translate(0);
+    font-size: 1vw;
+    text-align: left;
+    /*margin-top: 1vw;*/
 }
 
 b{
@@ -645,7 +655,8 @@ input, select, textarea{
     outline: 0;
     padding-left: 10px;
     background: transparent;
-    height: 3.25vw;
+    height: 3.3vw;
+    line-height: 1.2;
 }
 
 input::placeholder, textarea::placeholder{
@@ -1072,9 +1083,11 @@ aside .modal{
         height: 16vw;
     }
 
+    /*
     .form-step h2.subtitulo{
         text-align: left;
     }
+    */
 
     .bloque.dos .columna:nth-child(8) .check-categoria img {
         width: auto;
@@ -1099,11 +1112,35 @@ aside .modal{
         width: 100%;
     }
 
+    .bloque.dos .columna-bloque .check-categoria img {
+        width: 100%;
+    }
+    
+    .columna-bloque {
+        width: 100%;
+        margin-top: 6vw;
+        display: flex;
+        flex-wrap: wrap;
+        /*
+        justify-content: space-between;
+        align-items: flex-start;
+        */
+        /*padding: 0 2vw;*/
+    }
+    
+    
+    .columna-bloque .columna {
+        margin-top: 1vw !important;
+        width: 100%;
+    }
+
+    /*
     .bloque.dos .columna:nth-child(7) .check-categoria img {
         width: 120%;
         height: 48vw;
         margin-left: -5vw;
     }
+    */
 
     aside .modal {
         left: 20px;
@@ -1118,7 +1155,7 @@ aside .modal{
 
     .bloque.cuatro p.texto {
         width: 100%;
-        margin-top: 1vw;
+        /*margin-top: 1vw;*/
         font-size: 2.6vw;
         text-align: left;
     }
