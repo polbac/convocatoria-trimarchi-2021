@@ -661,6 +661,7 @@ input, select, textarea{
     background: transparent;
     height: 3.3vw;
     line-height: 1.2;
+    border-radius: 0 !important;
 }
 
 input::placeholder, textarea::placeholder{
@@ -1052,7 +1053,8 @@ aside .modal{
 
     .columna{
         width: 47%;
-        overflow-x: hidden;
+        overflow: hidden;
+
     }
 
     .bloque.seis p.texto{
