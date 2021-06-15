@@ -199,7 +199,7 @@ $r_gif = (int)rand(1, 16);
                     <img class="hover" src="/dibujo-dg-hover.png"/>
                     <img class="select" src="/dibujo-dg-select.png"/>
                     <h2 class="subtitulo">
-                        GRAPHIC DESIGN
+                            
                     </h2>
                 </div>
                 <p class="texto">
@@ -507,6 +507,7 @@ $r_gif = (int)rand(1, 16);
                     <img class="normal" src="dibujo-sapo-blank.png"/>
                     <img class="hover" src="dibujo-sapo-hover.png"/>
                     <img class="select" src="dibujo-sapo-select.png"/>
+                    <span style="display: none">COLECTIVO TRIMARCHI</span>
                 </div>
                 <div class="columna">
                     <h2 class="subtitulo">

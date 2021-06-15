@@ -1113,7 +1113,8 @@ aside .modal{
     }
 
     .bloque.dos .columna-big .check-categoria img {
-        width: 100%;
+        width: auto;
+        max-height: 27vh;
     }
 
     .bloque.dos .columna-bloque .check-categoria img {
@@ -1180,6 +1181,10 @@ aside .modal{
     footer .footer-icon img {
         top: 5px;
         left: 7px;
+    }
+
+    .bloque.dos .columna-big .check-categoria h2.subtitulo{
+        width: auto;
     }
 }
 

@@ -135,9 +135,16 @@ $countriesAndCities = file_get_contents('countries.min.json');
             </div>
 
             <div class="field-option">
-                <input type="checkbox" name="category" id="Expo" value="Expo">
+                <input type="checkbox" name="category" id="Diseño Gráfico" value="Diseño Gráfico">
                 <label for="Expo">
-                    <h2 class="subtitulo">Expo</h2>
+                    <h2 class="subtitulo">Diseño Gráfico</h2>
+                </label>
+            </div>
+
+            <div class="field-option">
+                <input type="checkbox" name="category" value="Workshop" id="Workshop">
+                <label for="Workshop">
+                    <h2 class="subtitulo">Workshop</h2>
                 </label>
             </div>
 
@@ -172,18 +179,20 @@ $countriesAndCities = file_get_contents('countries.min.json');
             </div>
 
             <div class="field-option">
+                <input type="checkbox" name="category" id="Música" value="Música">
+                <label for="Música">
+                    <h2 class="subtitulo">Música</h2>
+                </label>
+            </div>
+
+            <div class="field-option">
                 <input type="checkbox" name="category" id="Colectivo" value="Colectivo">
                 <label for="Colectivo">
                     <h2 class="subtitulo">Colectivo TRImarchi</h2>
                 </label>
             </div>
             
-            <div class="field-option">
-                <input type="checkbox" name="category" id="Música" value="Música">
-                <label for="Música">
-                    <h2 class="subtitulo">Música</h2>
-                </label>
-            </div>
+            
             <!--div class="field-option">
                 <input type="checkbox" name="category" id="Portada" value="Portada">
                 <label for="Portada">
@@ -401,6 +410,7 @@ $countriesAndCities = file_get_contents('countries.min.json');
     $(".check-categoria").click(function() {
         const index = $('.check-categoria').index($(this))
         $("input[name='category']").eq(index).click()
+        
         let text = ""
         if ($(this).hasClass("active")) {
             text = `Categoría ${$(this).text()} seleccionada`
