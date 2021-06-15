@@ -205,7 +205,6 @@ $r_gif = (int)rand(1, 16);
                 <p class="texto">
                 Although TRImarchi loves and wants to support various artistic expressions and disciplines, it was graphic design that marked our path. For that reason we especially think about this proposal: If you are a graphic designer, register in this category to show us what you do and participate for:
 
-
                 </p>
                 <div class="item">
                     <img src="item.svg"/>
