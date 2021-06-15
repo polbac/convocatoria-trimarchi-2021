@@ -732,7 +732,6 @@ $r_gif = (int)rand(1, 16);
                 </h2>
                 <p class="texto">
                 Julián Gonzalez Díaz (aka Orco) is an audiovisual producer mainly known for his music videos. He directed music videos for Pablo Lescano, Paulo Londra, Dante, Neo Pistea, Duki, Cazzu, Nathy Peluso, Perota Chingó, Ca7riel and Paco Amoroso, among other acts. In 2016 he presented his first feature film, Me quedo contigo (I stand by you).
-
                 </p>
             </div>
 
