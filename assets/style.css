@@ -186,6 +186,7 @@ h2.subtitulo {
     text-align: center;
     line-height: 0.75;
     letter-spacing: -0.5vw;
+    min-height: 6vw;
 }
 
 p {
