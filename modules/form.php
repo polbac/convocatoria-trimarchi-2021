@@ -135,9 +135,16 @@ $countriesAndCities = file_get_contents('countries.min.json');
             </div>
 
             <div class="field-option">
-                <input type="checkbox" name="category" id="Expo" value="Expo">
+                <input type="checkbox" name="category" id="Diseño Gráfico" value="Diseño Gráfico">
                 <label for="Expo">
-                    <h2 class="subtitulo">Expo</h2>
+                    <h2 class="subtitulo">Diseño Gráfico</h2>
+                </label>
+            </div>
+
+            <div class="field-option">
+                <input type="checkbox" name="category" value="Workshop" id="Workshop">
+                <label for="Workshop">
+                    <h2 class="subtitulo">Workshop</h2>
                 </label>
             </div>
 

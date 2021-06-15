@@ -136,6 +136,15 @@ If you’re already registered at Domestika, go to Step 2.<br/>
             </div>
 
             <div class="field-option">
+                <input type="checkbox" name="category" id="Diseño Gráfico" value="Diseño Gráfico">
+                <label for="Conferencia">
+                    <h2 class="subtitulo">Graphic Design</h2>
+                </label>
+            </div>
+
+            
+
+            <div class="field-option">
                 <input type="checkbox" name="category" id="Expo" value="Expo">
                 <label for="Expo">
                     <h2 class="subtitulo">Expo</h2>
