@@ -255,6 +255,25 @@ p.caption a {
     margin-top: 6vw;
 }
 
+.columna-bloque {
+    width: 100%;
+    margin-top: 6vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    /*padding: 0 2vw;*/
+}
+
+.columna-bloque .columna{
+    margin-top: 0 !important;
+}
+
+/*
+.columna-bloque .columna .texto{
+    padding: 0 !important;
+}
+*/
+
 .black{
     color: black !important;
 }
@@ -294,6 +313,10 @@ p.caption a {
     position: relative;
 }
 
+.bloque.dos .columna-bloque{
+    position: relative;
+}
+
 .bloque.dos .columnas p.texto {
     padding: 0 2vw;
 }
@@ -320,6 +343,10 @@ p.caption a {
 
 .bloque.dos .columna-big .inner-box {
     width: 32vw;
+}
+
+.bloque.dos .columna-bloque .check-categoria img {
+    width: 64vw;
 }
 
 .check-categoria {

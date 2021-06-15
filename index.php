@@ -438,33 +438,6 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 </div>
             </div-->
 
-            <div class="columna">
-                <div class="check-categoria">
-                    <img class="normal" src="dibujo9-blank.png"/>
-                    <img class="hover" src="dibujo9-hover.png"/>
-                    <img class="select" src="dibujo9-select.png"/>
-                    <h2 class="subtitulo">
-                        COLECTIVO TRImarchi
-                    </h2>
-                </div>
-                <p class="texto">
-                    Colectivo TRImarchi es nuestra idea de hacer un gran estudio, donde nadie quede
-                    afuera. En estos años hicimos proyectos con muchas marcas y bandas, donde
-                    vinculamos a la comunidad de TRImarchi combinando diversión y profesionalismo.
-                    Inscribite en esta categoría para tener la posibilidad de trabajar junto a nosotros en
-                    proyectos puntuales que tendrán lugar a lo largo del año. Hay muchas ideas dando
-                    vueltas, así que la convocatoria es amplia: ilustradores, diseñadores, tipógrafos,
-                    fotógrafos, ceramistas, muralistas, artesanos y un largo etcétera.
-                </p>
-                <div class="item">
-                    <img src="cronometro-verde.svg"/>
-                    <p class="texto">
-                        Quedan<br />
-                        <contador date="01/08/2021" hour="00:00"></contador>
-                    </p>
-                </div>
-            </div>
-
             <div class="columna-big">
             
                 <div class="check-categoria">
@@ -546,6 +519,40 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                             </p>
                         </div>
 
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="columna-bloque">
+
+                <div class="check-categoria">
+                    <img class="normal" src="dibujo-sapo-blank.png"/>
+                    <img class="hover" src="dibujo-sapo-hover.png"/>
+                    <img class="select" src="dibujo-sapo-select.png"/>
+                </div>
+
+                <div class="columna">
+                    
+                    <h2 class="subtitulo">
+                            COLECTIVO TRImarchi
+                        </h2>
+                    <p class="texto">
+                        Colectivo TRImarchi es nuestra idea de hacer un gran estudio, donde nadie quede
+                        afuera. En estos años hicimos proyectos con muchas marcas y bandas, donde
+                        vinculamos a la comunidad de TRImarchi combinando diversión y profesionalismo.
+                        Inscribite en esta categoría para tener la posibilidad de trabajar junto a nosotros en
+                        proyectos puntuales que tendrán lugar a lo largo del año. Hay muchas ideas dando
+                        vueltas, así que la convocatoria es amplia: ilustradores, diseñadores, tipógrafos,
+                        fotógrafos, ceramistas, muralistas, artesanos y un largo etcétera.
+                    </p>
+                    <div class="item">
+                        <img src="cronometro-verde.svg"/>
+                        <p class="texto">
+                            Quedan<br />
+                            <contador date="01/08/2021" hour="00:00"></contador>
+                        </p>
                     </div>
 
                 </div>
