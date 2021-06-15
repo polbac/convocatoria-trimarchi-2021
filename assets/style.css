@@ -355,6 +355,10 @@ p.caption a {
     cursor: pointer;
 }
 
+.check-categoria h2.subtitulo {
+    min-height: 6vw;
+}
+
 .check-categoria:hover img.normal {
     opacity: 0;
 }
@@ -542,7 +546,7 @@ li.glide__slide img {
 }
 
 .bloque.tres h2.subtitulo {
-    height: 8vw;
+    height: 6.5vw;
 }
 
 .bloque.tres credit {

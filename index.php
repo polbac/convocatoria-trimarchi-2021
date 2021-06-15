@@ -769,7 +769,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                     </div>
                 </div>
                 <h2 class="subtitulo">
-                    ORCO VIDEOS
+                    ORCO<br />VIDEOS
                 </h2>
                 <p class="texto">
                     Julián Gonzalez Díaz (aka Orco) es un realizador audiovisual reconocido principalmente por
