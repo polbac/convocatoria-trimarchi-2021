@@ -1,2 +1,4 @@
 RewriteEngine On
-RewriteRule en en.php
+RewriteRule /en /en.php
+
+AddType application/pdf .pdf

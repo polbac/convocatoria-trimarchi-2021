@@ -404,6 +404,98 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 </div>
             </div>
 
+            <div class="columna-big">
+            
+                <div class="check-categoria check-categoria-cd">
+                    <div class="left">
+                        <img class="normal" src="dibujo6-blank.png"/>
+                        <img class="hover" src="dibujo6-hover.png"/>
+                        <img class="select" src="dibujo6-select.png"/>
+                        <h2 class="subtitulo">
+                            MÚSICA
+                        </h2>
+                    </div>
+                    <div class="right">
+                        <img src="cd.png" />
+                    </div>
+                    
+                </div>
+
+                <div class="outer-box">
+
+                    <div class="inner-box">
+
+                        <p class="texto">
+                            Como la música guarda un lugar especial en nuestro corazón, en esta categoría el
+                            reconocimiento será para dos artistas. Si hacés música, ya sea de manera solista o
+                            en una banda, no podés perderte esta oportunidad. Compartinos una canción de tu
+                            autoría y si te elegimos:
+                        </p>
+                        <div class="item">
+                            <!--img src="item.svg"/-->
+                            <p class="texto">
+                                <span>SELECCIONADX 1</span>
+                            </p>
+                        </div>
+                        <div class="item">
+                            <img src="item.svg"/>
+                            <p class="texto">
+                                Filmamos el videoclip de tu canción, con un director seleccionado de la categoría
+                                “Videoclip” y producido por el director de videoclips <span>ORCO VIDEOS</span>.
+                            </p>
+                        </div>
+                        <div class="item">
+                            <img src="item.svg"/>
+                            <p class="texto">
+                                Tené un encuentro virtual con el músico y compositor <span>CA7RIEL</span> para hablar sobre tu música.
+                            </p>
+                        </div>
+
+                    </div>
+
+                    <div class="inner-box">
+
+                        <div class="item select">
+                            <p class="texto">
+                                <span>SELECCIONADX 2</span>
+                            </p>
+                        </div>
+
+                        <div class="item">
+                            <img src="item.svg"/>
+                            <p class="texto">
+                                Financiamos la grabación y producción de un simple en un estudio de primer nivel.
+                            </p>
+                        </div>
+
+                        <div class="item">
+                            <img src="item.svg"/>
+                            <p class="texto">
+                            Tené un encuentro virtual con el músico y compositor <span>CA7RIEL</span> para hablar sobre tu música.
+                            </p>
+                        </div>
+
+                        <div class="item">
+                            <img src="item.svg"/>
+                            <p class="texto">
+                                Diseñamos la portada de tu simple con un participante seleccionado de la categoría “Colectivo TRImarchi”.
+                            </p>
+                        </div>
+
+                        <div class="item">
+                            <img src="cronometro-verde.svg"/>
+                            <p class="texto">
+                                Quedan<br />
+                                <contador date="01/08/2021" hour="00:00"></contador>
+                            </p>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
             <div class="columna">
                 <div class="check-categoria">
                     <img class="normal" src="dibujo10-blank.png"/>
@@ -467,92 +559,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 </div>
             </div-->
 
-            <div class="columna-big">
             
-                <div class="check-categoria">
-                    <img class="normal" src="dibujo6-blank.png"/>
-                    <img class="hover" src="dibujo6-hover.png"/>
-                    <img class="select" src="dibujo6-select.png"/>
-                    <h2 class="subtitulo">
-                        MÚSICA
-                    </h2>
-                </div>
-
-                <div class="outer-box">
-
-                    <div class="inner-box">
-
-                        <p class="texto">
-                            Como la música guarda un lugar especial en nuestro corazón, en esta categoría el
-                            reconocimiento será para dos artistas. Si hacés música, ya sea de manera solista o
-                            en una banda, no podés perderte esta oportunidad. Compartinos una canción de tu
-                            autoría y si te elegimos:
-                        </p>
-                        <div class="item">
-                            <!--img src="item.svg"/-->
-                            <p class="texto">
-                                <span>SELECCIONADX 1</span>
-                            </p>
-                        </div>
-                        <div class="item">
-                            <img src="item.svg"/>
-                            <p class="texto">
-                                Filmamos el videoclip de tu canción, con un director seleccionado de la categoría
-                                “Videoclip” y producido por el director de videoclips <span>ORCO VIDEOS</span>.
-                            </p>
-                        </div>
-                        <div class="item">
-                            <img src="item.svg"/>
-                            <p class="texto">
-                                Tené un encuentro virtual con el músico y compositor <span>CA7RIEL</span> para hablar sobre tu música.
-                            </p>
-                        </div>
-
-                    </div>
-
-                    <div class="inner-box">
-
-                        <div class="item select">
-                            <!--img src="item.svg"/-->
-                            <p class="texto">
-                                <span>SELECCIONADX 2</span>
-                            </p>
-                        </div>
-
-                        <div class="item">
-                            <img src="item.svg"/>
-                            <p class="texto">
-                                Financiamos la grabación y producción de un simple en un estudio de primer nivel.
-                            </p>
-                        </div>
-
-                        <div class="item">
-                            <img src="item.svg"/>
-                            <p class="texto">
-                            Tené un encuentro virtual con el músico y compositor <span>CA7RIEL</span> para hablar sobre tu música.
-                            </p>
-                        </div>
-
-                        <div class="item">
-                            <img src="item.svg"/>
-                            <p class="texto">
-                                Diseñamos la portada de tu simple con un participante seleccionado de la categoría “Colectivo TRImarchi”.
-                            </p>
-                        </div>
-
-                        <div class="item">
-                            <img src="cronometro-verde.svg"/>
-                            <p class="texto">
-                                Quedan<br />
-                                <contador date="01/08/2021" hour="00:00"></contador>
-                            </p>
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
 
             <div class="columna-bloque">
 

@@ -228,7 +228,7 @@ src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
                     <img class="hover" src="/dibujo-dg-hover.png"/>
                     <img class="select" src="/dibujo-dg-select.png"/>
                     <h2 class="subtitulo">
-                            
+                            GRAPHIC DESIGN
                     </h2>
                 </div>
                 <p class="texto">
@@ -410,50 +410,19 @@ src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
                 </div>
             </div>
 
-            <div class="columna">
-                <div class="check-categoria">
-                    <img class="normal" src="dibujo10-blank.png"/>
-                    <img class="hover" src="dibujo10-hover.png"/>
-                    <img class="select" src="dibujo10-select.png"/>
-                    <h2 class="subtitulo">
-                    Music video
-                    </h2>
-                </div>
-                <p class="texto">
-                This category is for people wishing to direct a music video. Sign up and participate to win:
-
-                </p>
-                <div class="item">
-                    <img src="item.svg"/>
-                    <p class="texto">
-                    A chance to direct a music video, fully produced by <span>ORCO Videos</span>
-
-                    </p>
-                </div>
-                <div class="item">
-                    <img src="item.svg"/>
-                    <p class="texto">
-                    An incentive of USD 1,000
-
-                    </p>
-                </div>
-                <div class="item">
-                    <img src="cronometro-verde.svg"/>
-                    <p class="texto">
-                        There are<br />
-                        <contador date="01/08/2021" hour="00:00"></contador>
-                    </p>
-                </div>
-            </div>
-
             <div class="columna-big">
-                <div class="check-categoria">
-                    <img class="normal" src="dibujo6-blank.png"/>
-                    <img class="hover" src="dibujo6-hover.png"/>
-                    <img class="select" src="dibujo6-select.png"/>
-                    <h2 class="subtitulo">
-                        MUSIC
-                    </h2>
+                <div class="check-categoria check-categoria-cd">
+                    <div class="left">
+                        <img class="normal" src="dibujo6-blank.png"/>
+                        <img class="hover" src="dibujo6-hover.png"/>
+                        <img class="select" src="dibujo6-select.png"/>
+                        <h2 class="subtitulo">
+                            MUSIC
+                        </h2>
+                    </div>
+                    <div class="right">
+                        <img src="cd.png" />
+                    </div>
                 </div>
 
                 <div class="outer-box">
@@ -529,6 +498,44 @@ src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
                 </div>
 
             </div>
+
+            <div class="columna">
+                <div class="check-categoria">
+                    <img class="normal" src="dibujo10-blank.png"/>
+                    <img class="hover" src="dibujo10-hover.png"/>
+                    <img class="select" src="dibujo10-select.png"/>
+                    <h2 class="subtitulo">
+                    Music video
+                    </h2>
+                </div>
+                <p class="texto">
+                This category is for people wishing to direct a music video. Sign up and participate to win:
+
+                </p>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                    A chance to direct a music video, fully produced by <span>ORCO Videos</span>
+
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="item.svg"/>
+                    <p class="texto">
+                    An incentive of USD 1,000
+
+                    </p>
+                </div>
+                <div class="item">
+                    <img src="cronometro-verde.svg"/>
+                    <p class="texto">
+                        There are<br />
+                        <contador date="01/08/2021" hour="00:00"></contador>
+                    </p>
+                </div>
+            </div>
+
+            
            
             <div class="columna-bloque">
                 <div class="check-categoria">

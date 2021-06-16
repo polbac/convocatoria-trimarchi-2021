@@ -363,6 +363,10 @@ p.caption a {
     opacity: 0;
 }
 
+.check-categoria.active .right img,
+.check-categoria:hover .right img{
+    opacity: 1;
+}
 
 .check-categoria img {
     width: 100%;
@@ -969,6 +973,17 @@ aside .modal{
     border-radius: 5px;
 }
 
+.check-categoria-cd{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.check-categoria-cd .right img{
+    opacity: .3;
+    transition: opacity .2s;
+    cursor: pointer;
+}
+
 
 /*MOBILE*/
 @media (max-width:600px) {
@@ -1149,6 +1164,7 @@ aside .modal{
 
     aside .modal {
         left: 20px;
+        font-size: 1.1rem;
     }
 
     .bloque.cuatro p.texto.centrado {
@@ -1163,6 +1179,10 @@ aside .modal{
         /*margin-top: 1vw;*/
         font-size: 2.6vw;
         text-align: left;
+    }
+
+    .check-categoria .right img{
+        display: none
     }
 
     input, select {
