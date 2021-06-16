@@ -137,7 +137,7 @@ If you’re already registered at Domestika, go to Step 2.<br/>
 
             <div class="field-option">
                 <input type="checkbox" name="category" id="Diseño Gráfico" value="Diseño Gráfico">
-                <label for="Conferencia">
+                <label for="Diseño Gráfico">
                     <h2 class="subtitulo">Graphic Design</h2>
                 </label>
             </div>

@@ -436,7 +436,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                         <div class="item">
                             <!--img src="item.svg"/-->
                             <p class="texto">
-                                <span>SELECCIONADX 1</span>
+                                <span>SELECCIONADX MÚSICA 1</span>
                             </p>
                         </div>
                         <div class="item">
@@ -459,7 +459,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
 
                         <div class="item select">
                             <p class="texto">
-                                <span>SELECCIONADX 2</span>
+                                <span>SELECCIONADX MÚSICA 2</span>
                             </p>
                         </div>
 
