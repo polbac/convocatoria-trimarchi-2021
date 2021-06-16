@@ -16,6 +16,35 @@ $r_gif = (int)rand(1, 16);
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/css/glide.core.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/css/glide.theme.min.css">
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9DLQR8VXQ4"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9DLQR8VXQ4');
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '362049065335942');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
 
 </head>
 
@@ -48,7 +77,7 @@ $r_gif = (int)rand(1, 16);
         <h1 class="titulo">
             <span min-weight="740" max-weight="900">TRIMARCHI</span>
             <br /> <span min-weight="600" max-weight="900">2021 OPEN CALL</span><br />
-            <span min-weight="600" max-weight="900">JUN15-JUL31</span>
+            <span min-weight="600" max-weight="900">JUN17-JUL31</span>
         </h1>
         <p class="destacado">
         <span>
@@ -856,7 +885,7 @@ OUT?</span><br />
                 Yes. Participants can register for all the categories they want simultaneously.
                 <br /><br />
                 <span>WHAT IS THE TIMEFRAME FOR REGISTRATION?</span><br />
-                Registration starts on 6-15-2021 and ends on 7-31-2021.
+                Registration starts on 6-17-2021 and ends on 7-31-2021.
                 <br /><br />
                 <span>WHEN WILL THE WINNERS BE ANNOUNCED?</span><br />
                 Winners will be announced at trimarchidg.net/convocatoriatrimarchi2021 starting on August 10.

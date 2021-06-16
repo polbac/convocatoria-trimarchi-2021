@@ -17,6 +17,35 @@ $r_gif = (int)rand(1, 16);
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/css/glide.theme.min.css">
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9DLQR8VXQ4"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9DLQR8VXQ4');
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '362049065335942');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
 </head>
 
 <body id="top">
@@ -249,7 +278,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Tres encuentros virtuales de asesoramiento con <b>DIANA AISENBERG</b>.
+                        Tener tres encuentros virtuales de asesoramiento con <b>DIANA AISENBERG</b>.
                     </p>
                 </div>
                 <div class="item">
@@ -910,10 +939,10 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 manera simultánea.
                 <br /><br />
                 <span>¿CUÁL ES EL PLAZO PARA INSCRIBIRME?</span><br />
-                El plazo para inscribirse es desde el 15/06/2021 al 31/07/2021 inclusive.
+                El plazo para inscribirse es desde el 17/06/2021 al 31/07/2021 inclusive.
                 <br /><br />
                 <span>¿CUANDO SE ANUNCIAN LAS PERSONAS SELECCIONADAS?</span><br />
-                Serán anunciadas en trimarchidg.net/convocatoriatrimarchi2021 a partir del 10/08.
+                Serán anunciadas en trimarchidg.net/convocatoriatrimarchi2021 a partir del 10/08/2021.
                 Al mismo tiempo, serán contactadas a través de la cuenta de email que hayan dejado
                 asentada en el formulario de inscripción.
                 <br /><br />
