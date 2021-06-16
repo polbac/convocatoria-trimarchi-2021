@@ -9,6 +9,7 @@ body{
 	text-rendering: optimizeLegibility;
     transition: background-color .5s !important;
     overflow-x: hidden;
+    padding-bottom: 0;
 }
 a{
     color: black;
@@ -393,6 +394,10 @@ span.subtitulo.mini{
     opacity: 0;
 }
 
+.check-categoria.active .right img,
+.check-categoria:hover .right img{
+    opacity: 1;
+}
 
 .check-categoria img {
     width: 100%;
@@ -901,7 +906,7 @@ footer {
     display: flex;
     justify-content: space-between;
     border-top: 2px solid black;
-    padding-top: 20px;
+    padding-top: 60px;
 }
 
 footer .footer-brand-domestica img{
@@ -943,12 +948,25 @@ footer .menu div{
     height: 1.2vw;
 }
 
+img[loading="lazy"]{
+    opacity: 0;
+    transition: opacity 300ms ease-in-out;
+}
+
+img[loading="lazy"].load{
+    opacity: 1;
+}
+
+img.loaded{
+    opacity: 1;
+}
+
 
 footer .footer-icon img{
-    width: 10vw;
+    width: 15vw;
     position: relative;
-    top: -11px;
-    left: 20px;
+    top: -61px;
+    left: 32px;
 }
 
 footer .footer-icon{
@@ -1009,6 +1027,17 @@ aside .modal{
     align-items: center;
     justify-content: center;
     border-radius: 5px;
+}
+
+.check-categoria-cd{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.check-categoria-cd .right img{
+    opacity: .3;
+    transition: opacity .2s;
+    cursor: pointer;
 }
 
 
@@ -1196,8 +1225,15 @@ aside .modal{
     }
     */
 
+    .bloque.cinco li.glide__slide img{
+        height: auto !important;
+        width: 100%;
+    }
+    }
+
     aside .modal {
         left: 20px;
+        font-size: 1.1rem;
     }
 
     .bloque.cuatro p.texto.centrado {
@@ -1214,6 +1250,10 @@ aside .modal{
         text-align: left;
     }
 
+    .check-categoria .right img{
+        display: none
+    }
+
     input, select {
         font-size: 0.75rem;
         height: 5vw;
@@ -1226,7 +1266,10 @@ aside .modal{
         display: block;
     }
     
-
+    footer{
+        padding-top: 40px;
+    }
+    
     footer .footer-icon img {
         top: 5px;
         left: 7px;

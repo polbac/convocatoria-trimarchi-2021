@@ -61,7 +61,7 @@ src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
                 <a href="#faq" class="menu-item smooth-link">FAQs</a>
 
                 <span class='lang-switcher'>
-                <a href="/" class="lang current">ES</a>/<a class="lang" href="/en">EN</a>
+                <a href="/" class="lang current">ES</a>/<a class="lang" href="/en.php">EN</a>
                 </span>
             </nav>
             <a href="https://www.trimarchidg.net/" target="_blank"><img class="tmdg"src="tmdg-logo.svg"/></a>
@@ -406,6 +406,98 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 </div>
             </div>
 
+            <div class="columna-big">
+            
+                <div class="check-categoria check-categoria-cd">
+                    <div class="left">
+                        <img class="normal" src="dibujo6-blank.png"/>
+                        <img class="hover" src="dibujo6-hover.png"/>
+                        <img class="select" src="dibujo6-select.png"/>
+                        <h2 class="subtitulo">
+                            MÚSICA
+                        </h2>
+                    </div>
+                    <div class="right">
+                        <img src="cd.png" />
+                    </div>
+                    
+                </div>
+
+                <div class="outer-box">
+
+                    <div class="inner-box">
+
+                        <p class="texto">
+                            Como la música guarda un lugar especial en nuestro corazón, en esta categoría el
+                            reconocimiento será para dos artistas. Si hacés música, ya sea de manera solista o
+                            en una banda, no podés perderte esta oportunidad. Compartinos una canción de tu
+                            autoría y si te elegimos:
+                        </p>
+                        <div class="item">
+                            <!--img src="item.svg"/-->
+                            <p class="texto">
+                                <span>SELECCIONADX 1</span>
+                            </p>
+                        </div>
+                        <div class="item">
+                            <img src="item.svg"/>
+                            <p class="texto">
+                                Filmamos el videoclip de tu canción, con un director seleccionado de la categoría
+                                “Videoclip” y producido por el director de videoclips <span>ORCO VIDEOS</span>.
+                            </p>
+                        </div>
+                        <div class="item">
+                            <img src="item.svg"/>
+                            <p class="texto">
+                                Tené un encuentro virtual con el músico y compositor <span>CA7RIEL</span> para hablar sobre tu música.
+                            </p>
+                        </div>
+
+                    </div>
+
+                    <div class="inner-box">
+
+                        <div class="item select">
+                            <p class="texto">
+                                <span>SELECCIONADX 2</span>
+                            </p>
+                        </div>
+
+                        <div class="item">
+                            <img src="item.svg"/>
+                            <p class="texto">
+                                Financiamos la grabación y producción de un simple en un estudio de primer nivel.
+                            </p>
+                        </div>
+
+                        <div class="item">
+                            <img src="item.svg"/>
+                            <p class="texto">
+                            Tené un encuentro virtual con el músico y compositor <span>CA7RIEL</span> para hablar sobre tu música.
+                            </p>
+                        </div>
+
+                        <div class="item">
+                            <img src="item.svg"/>
+                            <p class="texto">
+                                Diseñamos la portada de tu simple con un participante seleccionado de la categoría “Colectivo TRImarchi”.
+                            </p>
+                        </div>
+
+                        <div class="item">
+                            <img src="cronometro-verde.svg"/>
+                            <p class="texto">
+                                Quedan<br />
+                                <contador date="01/08/2021" hour="00:00"></contador>
+                            </p>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
             <div class="columna">
                 <div class="check-categoria">
                     <img class="normal" src="dibujo10-blank.png"/>
@@ -469,92 +561,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 </div>
             </div-->
 
-            <div class="columna-big">
             
-                <div class="check-categoria">
-                    <img class="normal" src="dibujo6-blank.png"/>
-                    <img class="hover" src="dibujo6-hover.png"/>
-                    <img class="select" src="dibujo6-select.png"/>
-                    <h2 class="subtitulo">
-                        MÚSICA
-                    </h2>
-                </div>
-
-                <div class="outer-box">
-
-                    <div class="inner-box">
-
-                        <p class="texto">
-                            Como la música guarda un lugar especial en nuestro corazón, en esta categoría el
-                            reconocimiento será para dos artistas. Si hacés música, ya sea de manera solista o
-                            en una banda, no podés perderte esta oportunidad. Compartinos una canción de tu
-                            autoría y si te elegimos:
-                        </p>
-                        <div class="item">
-                            <!--img src="item.svg"/-->
-                            <p class="texto">
-                                <span>SELECCIONADX 1</span>
-                            </p>
-                        </div>
-                        <div class="item">
-                            <img src="item.svg"/>
-                            <p class="texto">
-                                Filmamos el videoclip de tu canción, con un director seleccionado de la categoría
-                                “Videoclip” y producido por el director de videoclips <span>ORCO VIDEOS</span>.
-                            </p>
-                        </div>
-                        <div class="item">
-                            <img src="item.svg"/>
-                            <p class="texto">
-                                Tené un encuentro virtual con el músico y compositor <span>CA7RIEL</span> para hablar sobre tu música.
-                            </p>
-                        </div>
-
-                    </div>
-
-                    <div class="inner-box">
-
-                        <div class="item select">
-                            <!--img src="item.svg"/-->
-                            <p class="texto">
-                                <span>SELECCIONADX 2</span>
-                            </p>
-                        </div>
-
-                        <div class="item">
-                            <img src="item.svg"/>
-                            <p class="texto">
-                                Financiamos la grabación y producción de un simple en un estudio de primer nivel.
-                            </p>
-                        </div>
-
-                        <div class="item">
-                            <img src="item.svg"/>
-                            <p class="texto">
-                            Tené un encuentro virtual con el músico y compositor <span>CA7RIEL</span> para hablar sobre tu música.
-                            </p>
-                        </div>
-
-                        <div class="item">
-                            <img src="item.svg"/>
-                            <p class="texto">
-                                Diseñamos la portada de tu simple con un participante seleccionado de la categoría “Colectivo TRImarchi”.
-                            </p>
-                        </div>
-
-                        <div class="item">
-                            <img src="cronometro-verde.svg"/>
-                            <p class="texto">
-                                Quedan<br />
-                                <contador date="01/08/2021" hour="00:00"></contador>
-                            </p>
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
 
             <div class="columna-bloque">
 
@@ -606,9 +613,9 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Braulio/braulio01.jpg" /></li>
-                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Braulio/braulio02.jpg" /></li>
-                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Braulio/braulio03.jpg" /></li>
+                            <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Braulio/braulio01.jpg" /></li>
+                            <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Braulio/braulio02.jpg" /></li>
+                            <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Braulio/braulio03.jpg" /></li>
                         </ul>
                         <div data-glide-el="controls">
                             <button class='prev-arrow' data-glide-dir="<"><</button>
@@ -633,10 +640,10 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Diana/diana01.jpg" /></li>
-                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Diana/diana02.jpeg" /></li>
-                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Diana/diana03.jpeg" /></li>
-                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Diana/diana04.jpeg" /></li>
+                            <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Diana/diana01.jpg" /></li>
+                            <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Diana/diana02.jpeg" /></li>
+                            <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Diana/diana03.jpeg" /></li>
+                            <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Diana/diana04.jpeg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -659,10 +666,10 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Sofie/sofie01.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Sofie/sofie02.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Sofie/sofie03.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Sofie/sofie04.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Sofie/sofie01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Sofie/sofie02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Sofie/sofie03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Sofie/sofie04.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -685,8 +692,8 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Ca7riel/ca7riel01.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Ca7riel/ca7riel02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Ca7riel/ca7riel01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Ca7riel/ca7riel02.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -708,10 +715,10 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Vik/vik01.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Vik/vik02.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Vik/vik03.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Vik/vik04.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Vik/vik01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Vik/vik02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Vik/vik03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Vik/vik04.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -737,10 +744,10 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/David/david01.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/David/david02.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/David/david03.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/David/david04.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/David/david01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/David/david02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/David/david03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/David/david04.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -762,11 +769,11 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Garabal/garabal01.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Garabal/garabal02.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Garabal/garabal03.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Garabal/garabal04.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Garabal/garabal05.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Garabal/garabal01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Garabal/garabal02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Garabal/garabal03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Garabal/garabal04.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Garabal/garabal05.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -789,9 +796,9 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Orco/orco01.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Orco/orco02.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Orco/orco03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Orco/orco01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Orco/orco02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Orco/orco03.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -814,7 +821,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/trimarchi01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Trimarchi/trimarchi01.jpg" /></li>
                         </ul>
                     </div>
                 </div>
@@ -851,11 +858,11 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/tmdg01.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/tmdg02.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/tmdg03.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/tmdg04.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/tmdg05.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Trimarchi/tmdg01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Trimarchi/tmdg02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Trimarchi/tmdg03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Trimarchi/tmdg04.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Trimarchi/tmdg05.jpg" /></li>
                         </ul>
                     </div>
                 </div>
@@ -1069,11 +1076,13 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
             $(".menu-mobile").click(function() {
                 $(".menu").toggle()
             })
+
+            $('img[loading="lazy"]').on('load', function(){
+                $(this).addClass('loaded');
+            });
     </script>
 
-    <script>
-        
-    </script>
+
 
 </body>
 
