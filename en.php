@@ -234,7 +234,6 @@ src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
                 <p class="texto">
                 Although TRImarchi loves and wants to support various artistic expressions and disciplines, it was graphic design that marked our path. For that reason we especially think about this proposal: If you are a graphic designer, register in this category to show us what you do and participate for:
 
-
                 </p>
                 <div class="item">
                     <img src="item.svg"/>
@@ -768,7 +767,6 @@ src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
                 </h2>
                 <p class="texto">
                 Julián Gonzalez Díaz (aka Orco) is an audiovisual producer mainly known for his music videos. He directed music videos for Pablo Lescano, Paulo Londra, Dante, Neo Pistea, Duki, Cazzu, Nathy Peluso, Perota Chingó, Ca7riel and Paco Amoroso, among other acts. In 2016 he presented his first feature film, Me quedo contigo (I stand by you).
-
                 </p>
             </div>
 
