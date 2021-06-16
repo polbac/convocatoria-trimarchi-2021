@@ -286,18 +286,48 @@ p.caption a {
     color: black;
 }
 
+span.subtitulo.mini{
+    font-size: 2.45rem;
+    margin-top:0.5vw;
+}
+
 /*HOME*/
 .bloque.uno {
     margin-top: 1.5vw;
 
 }
 
+.bloque.uno .animacion-box{
+    position: absolute;
+    width: 38vw;
+    height: 30vw;
+    right: 5vw;
+    margin-top:-19vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+/*
 .bloque.uno img.animacion {
     position: absolute;
     width: 20vw;
     height: auto;
     right: 5vw;
     margin-top:-19vw;
+}
+*/
+
+.bloque.uno img.animacion.gifs{
+    max-width: 38vw;
+    max-height: 30vw;
+    width: auto;
+    height: auto;
+    right: -3vw;
+    bottom: 3vw;
+    display: flex;
+    align-items: flex-end;
 }
 
 /*CATEOGRIAS*/
@@ -436,6 +466,7 @@ img.select {
     padding: 0 !important;
 }
 
+/*
 .bloque.uno img.animacion.gif-1{
     width: 30vw;
     right: -3vw;
@@ -532,6 +563,7 @@ img.select {
     right: 3vw;
     bottom: 2vh;
 }
+*/
 
 /*JURADO*/
  
@@ -592,6 +624,15 @@ li.glide__slide img {
     text-align: left;
     /*margin-top: 1vw;*/
 }
+
+.bloque.cuatro p.texto.centrado {
+    font-weight: 400 !important;
+}
+
+.formulario p.texto {
+    font-weight: 400 !important;
+}
+
 
 b{
     font-weight: 770;
@@ -1077,6 +1118,12 @@ aside .modal{
     h2.subtitulo{
         font-size: 6vw;
     }
+
+    span.subtitulo.mini{
+        font-size: 3.5rem;
+        
+    }
+    
     li.glide__slide img {
         height: 43vw !important;
     }
