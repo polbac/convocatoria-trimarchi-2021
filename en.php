@@ -1024,11 +1024,7 @@ OUT?</span><br />
             })
     </script>
 
-    <script>
-        $('img[loading="lazy"]').on('load', function(){
-            $(this).addClass('loaded');
-        });
-    </script>
+    
 
 
 </body>

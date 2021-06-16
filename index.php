@@ -1077,9 +1077,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 $(".menu").toggle()
             })
 
-            $('img[loading="lazy"]').on('load', function(){
-                $(this).addClass('loaded');
-            });
+           
     </script>
 
 
