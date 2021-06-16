@@ -907,18 +907,6 @@ footer .menu div{
     height: 1.2vw;
 }
 
-img[loading="lazy"]{
-    opacity: 0;
-    transition: opacity 300ms ease-in-out;
-}
-
-img[loading="lazy"].load{
-    opacity: 1;
-}
-
-img.loaded{
-    opacity: 1;
-}
 
 
 footer .footer-icon img{
@@ -1010,6 +998,10 @@ aside .modal{
     
     header img.domestika{
         height: 4.2vw;
+    }
+
+    .check-categoria .right img{
+        display: none
     }
 
     header img.tmdg {
@@ -1182,7 +1174,6 @@ aside .modal{
         height: auto !important;
         width: 100%;
     }
-    }
 
     aside .modal {
         left: 20px;
@@ -1203,9 +1194,7 @@ aside .modal{
         text-align: left;
     }
 
-    .check-categoria .right img{
-        display: none
-    }
+    
 
     input, select {
         font-size: 0.75rem;
