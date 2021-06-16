@@ -9,6 +9,7 @@ body{
 	text-rendering: optimizeLegibility;
     transition: background-color .5s !important;
     overflow-x: hidden;
+    padding-bottom: 0;
 }
 a{
     color: black;
@@ -864,7 +865,7 @@ footer {
     display: flex;
     justify-content: space-between;
     border-top: 2px solid black;
-    padding-top: 20px;
+    padding-top: 60px;
 }
 
 footer .footer-brand-domestica img{
@@ -906,12 +907,25 @@ footer .menu div{
     height: 1.2vw;
 }
 
+img[loading="lazy"]{
+    opacity: 0;
+    transition: opacity 300ms ease-in-out;
+}
+
+img[loading="lazy"].load{
+    opacity: 1;
+}
+
+img.loaded{
+    opacity: 1;
+}
+
 
 footer .footer-icon img{
-    width: 10vw;
+    width: 15vw;
     position: relative;
-    top: -11px;
-    left: 20px;
+    top: -61px;
+    left: 32px;
 }
 
 footer .footer-icon{
@@ -1199,7 +1213,10 @@ aside .modal{
         display: block;
     }
     
-
+    footer{
+        padding-top: 40px;
+    }
+    
     footer .footer-icon img {
         top: 5px;
         left: 7px;

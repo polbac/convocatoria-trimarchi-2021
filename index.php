@@ -611,9 +611,9 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Braulio/braulio01.jpg" /></li>
-                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Braulio/braulio02.jpg" /></li>
-                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Braulio/braulio03.jpg" /></li>
+                            <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Braulio/braulio01.jpg" /></li>
+                            <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Braulio/braulio02.jpg" /></li>
+                            <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Braulio/braulio03.jpg" /></li>
                         </ul>
                         <div data-glide-el="controls">
                             <button class='prev-arrow' data-glide-dir="<"><</button>
@@ -638,10 +638,10 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Diana/diana01.jpg" /></li>
-                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Diana/diana02.jpeg" /></li>
-                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Diana/diana03.jpeg" /></li>
-                            <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Diana/diana04.jpeg" /></li>
+                            <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Diana/diana01.jpg" /></li>
+                            <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Diana/diana02.jpeg" /></li>
+                            <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Diana/diana03.jpeg" /></li>
+                            <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Diana/diana04.jpeg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -664,10 +664,10 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Sofie/sofie01.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Sofie/sofie02.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Sofie/sofie03.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Sofie/sofie04.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Sofie/sofie01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Sofie/sofie02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Sofie/sofie03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Sofie/sofie04.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -690,8 +690,8 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Ca7riel/ca7riel01.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Ca7riel/ca7riel02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Ca7riel/ca7riel01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Ca7riel/ca7riel02.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -713,10 +713,10 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Vik/vik01.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Vik/vik02.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Vik/vik03.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Vik/vik04.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Vik/vik01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Vik/vik02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Vik/vik03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Vik/vik04.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -742,10 +742,10 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/David/david01.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/David/david02.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/David/david03.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/David/david04.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/David/david01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/David/david02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/David/david03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/David/david04.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -767,11 +767,11 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Garabal/garabal01.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Garabal/garabal02.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Garabal/garabal03.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Garabal/garabal04.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Garabal/garabal05.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Garabal/garabal01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Garabal/garabal02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Garabal/garabal03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Garabal/garabal04.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Garabal/garabal05.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -794,9 +794,9 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Orco/orco01.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Orco/orco02.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Orco/orco03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Orco/orco01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Orco/orco02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Orco/orco03.jpg" /></li>
                         </ul>
                     </div>
                     <div data-glide-el="controls">
@@ -819,7 +819,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/trimarchi01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Trimarchi/trimarchi01.jpg" /></li>
                         </ul>
                     </div>
                 </div>
@@ -856,11 +856,11 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="glide">
                     <div class="glide__track" data-glide-el="track">
                         <ul class="glide__slides">
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/tmdg01.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/tmdg02.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/tmdg03.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/tmdg04.jpg" /></li>
-                        <li class="glide__slide"><img loading="lazy"height="400" src="assets/bio/Trimarchi/tmdg05.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Trimarchi/tmdg01.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Trimarchi/tmdg02.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Trimarchi/tmdg03.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Trimarchi/tmdg04.jpg" /></li>
+                        <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Trimarchi/tmdg05.jpg" /></li>
                         </ul>
                     </div>
                 </div>
@@ -1074,11 +1074,13 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
             $(".menu-mobile").click(function() {
                 $(".menu").toggle()
             })
+
+            $('img[loading="lazy"]').on('load', function(){
+                $(this).addClass('loaded');
+            });
     </script>
 
-    <script>
-        
-    </script>
+
 
 </body>
 
