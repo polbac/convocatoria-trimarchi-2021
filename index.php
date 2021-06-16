@@ -61,7 +61,7 @@ src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
                 <a href="#faq" class="menu-item smooth-link">FAQs</a>
 
                 <span class='lang-switcher'>
-                <a href="/" class="lang current">ES</a>/<a class="lang" href="/en">EN</a>
+                <a href="/" class="lang current">ES</a>/<a class="lang" href="/en.php">EN</a>
                 </span>
             </nav>
             <a href="https://www.trimarchidg.net/" target="_blank"><img class="tmdg"src="tmdg-logo.svg"/></a>

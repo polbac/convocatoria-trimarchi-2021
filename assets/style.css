@@ -1178,6 +1178,12 @@ aside .modal{
     }
     */
 
+    .bloque.cinco li.glide__slide img{
+        height: auto !important;
+        width: 100%;
+    }
+    }
+
     aside .modal {
         left: 20px;
         font-size: 1.1rem;
