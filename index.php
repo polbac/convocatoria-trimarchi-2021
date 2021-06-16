@@ -77,7 +77,7 @@ src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
         <h1 class="titulo">
             <span min-weight="740" max-weight="840">CONVOCATORIA</span>
             <br /> <span min-weight="600" max-weight="840">TRIMARCHI 2021</span><br />
-            <span min-weight="600" max-weight="840">15JUN-31JUL</span>
+            <span min-weight="600" max-weight="840">17JUN-31JUL</span>
         </h1>
         <p class="destacado">
         <span>
@@ -278,7 +278,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 <div class="item">
                     <img src="item.svg"/>
                     <p class="texto">
-                        Tres encuentros virtuales de asesoramiento con <b>DIANA AISENBERG</b>.
+                        Tener tres encuentros virtuales de asesoramiento con <b>DIANA AISENBERG</b>.
                     </p>
                 </div>
                 <div class="item">
@@ -939,10 +939,10 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 manera simultánea.
                 <br /><br />
                 <span>¿CUÁL ES EL PLAZO PARA INSCRIBIRME?</span><br />
-                El plazo para inscribirse es desde el 15/06/2021 al 31/07/2021 inclusive.
+                El plazo para inscribirse es desde el 17/06/2021 al 31/07/2021 inclusive.
                 <br /><br />
                 <span>¿CUANDO SE ANUNCIAN LAS PERSONAS SELECCIONADAS?</span><br />
-                Serán anunciadas en trimarchidg.net/convocatoriatrimarchi2021 a partir del 10/08.
+                Serán anunciadas en trimarchidg.net/convocatoriatrimarchi2021 a partir del 10/08/2021.
                 Al mismo tiempo, serán contactadas a través de la cuenta de email que hayan dejado
                 asentada en el formulario de inscripción.
                 <br /><br />

@@ -77,7 +77,7 @@ src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
         <h1 class="titulo">
             <span min-weight="740" max-weight="840">TRIMARCHI</span>
             <br /> <span min-weight="600" max-weight="840">2021 OPEN CALL</span><br />
-            <span min-weight="600" max-weight="840">JUN15-JUL31</span>
+            <span min-weight="600" max-weight="840">JUN17-JUL31</span>
         </h1>
         <p class="destacado">
         <span>
@@ -885,7 +885,7 @@ OUT?</span><br />
                 Yes. Participants can register for all the categories they want simultaneously.
                 <br /><br />
                 <span>WHAT IS THE TIMEFRAME FOR REGISTRATION?</span><br />
-                Registration starts on 6-15-2021 and ends on 7-31-2021.
+                Registration starts on 6-17-2021 and ends on 7-31-2021.
                 <br /><br />
                 <span>WHEN WILL THE WINNERS BE ANNOUNCED?</span><br />
                 Winners will be announced at trimarchidg.net/convocatoriatrimarchi2021 starting on August 10.

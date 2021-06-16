@@ -218,7 +218,7 @@ If you’re already registered at Domestika, go to Step 2.<br/>
             <button type="submit" id="submit">SEND</button><br />
             <detalle>
             By clicking Send I accept all the bases<br/>
-            and conditions of the contest. <a href='assets/bases_es.pdf' target='_blank'>Read more</a>
+            and conditions of the contest. <a href='assets/bases_en.pdf' target='_blank'>Read more</a>
             <detalle>
         </div>
 
