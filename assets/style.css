@@ -1041,9 +1041,7 @@ aside .modal{
         height: 4.2vw;
     }
 
-    .check-categoria .right img{
-        display: none
-    }
+    
 
     header img.tmdg {
         height: 3.15vw !important;
@@ -1171,16 +1169,16 @@ aside .modal{
 
     .bloque.dos .columna-big{
         position: relative;
-        width: 50%;
+        width: 100%;
     }
 
     .bloque.dos .columna-big .outer-box {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
     }
 
     .bloque.dos .columna-big .inner-box {
-        width: 100%;
+        width: 50%;
     }
 
     .bloque.dos .columna-big .check-categoria img {
