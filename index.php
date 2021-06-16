@@ -93,7 +93,9 @@ src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
             para ser parte de diversos proyectos remotos.
         </span></p>
         
-        <img class="animacion gif-<?php print $r_gif; ?>" src="assets/home/<?php print $r_gif; ?>.gif"/>
+        <div class="animacion-box">
+            <img class="animacion gifs gif-<?php print $r_gif; ?>" src="assets/home/<?php print $r_gif; ?>.gif"/>
+        </div>
     </div>
 
     <script
@@ -726,7 +728,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 </div>
                 <h2 class="subtitulo">
                     VIK ARRIETA
-                    <span class="subtitulo">
+                    <span class="subtitulo mini">
                     (MONOBLOCK)
                 </span>
                 </h2>
@@ -825,7 +827,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                 </div>
                 <h2 class="subtitulo" style="width: calc(100% + 5vw); margin-left: -2.5vw;">
                     PABLO &amp; SEBA
-                    <span class="subtitulo">
+                    <span class="subtitulo mini">
                     (DOMESTIKA / TRIMARCHI)
                 </span>
                 </h2>

@@ -90,7 +90,9 @@ src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
             more, to become part of various remote projects.
         </span></p>
         
-        <img class="animacion gif-<?php print $r_gif; ?>" src="assets/home/<?php print $r_gif; ?>.gif"/>
+        <h1 class="animacion-box">
+            <img class="animacion gifs gif-<?php print $r_gif; ?>" src="assets/home/<?php print $r_gif; ?>.gif"/>
+        </div>
     </div>
 
     <script
@@ -695,7 +697,7 @@ src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
                 </div>
                 <h2 class="subtitulo">
                     VIK ARRIETA
-                    <span class="subtitulo">
+                    <span class="subtitulo mini">
                     (MONOBLOCK)
                 </span>
                 </h2>
@@ -787,7 +789,7 @@ src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
                 </div>
                 <h2 class="subtitulo" style="width: calc(100% + 5vw); margin-left: -2.5vw;">
                     PABLO &amp; SEBA
-                    <span class="subtitulo">
+                    <span class="subtitulo mini">
                     (DOMESTIKA / TRIMARCHI)
                 </span>
                 </h2>
