@@ -418,6 +418,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                         </h2>
                     </div>
                     <div class="right">
+                        <img src="cd-blank.png" />
                         <img src="cd.png" />
                     </div>
                     
