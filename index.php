@@ -653,7 +653,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                     
                 </div>
                 <h2 class="subtitulo">
-                    DIANA<br />AISEMBERG
+                    DIANA<br />AISENBERG
                 </h2>
                 <p class="texto">
                     Es artista visual, pintora, escritora, docente y curadora. Trabajó como docente en la
@@ -865,6 +865,10 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                         <li class="glide__slide"><img loading="lazy" height="400" src="assets/bio/Trimarchi/tmdg05.jpg" /></li>
                         </ul>
                     </div>
+                    <div data-glide-el="controls">
+                            <button class='prev-arrow' data-glide-dir="<"><</button>
+                            <button class='next-arrow' data-glide-dir=">">></button>
+                        </div>
                 </div>
                 <p class="caption">
                     ¿Querés saber más? Visitá <a class='black lowercase' href="https://www.trimarchidg.net/">TRIMARCHIDG.NET</a>
