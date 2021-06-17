@@ -825,6 +825,10 @@ src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
                         <li class="glide__slide"><img loading="lazy" height="400" src="tmdg05.jpg" /></li>
                         </ul>
                     </div>
+                    <div data-glide-el="controls">
+                            <button class='prev-arrow' data-glide-dir="<"><</button>
+                            <button class='next-arrow' data-glide-dir=">">></button>
+                        </div>
                 </div>
                 <p class="caption">
                 Do you want to know more? Visit <a class='black lowercase' href="https://www.trimarchidg.net/">TRIMARCHIDG.NET</a>
