@@ -875,7 +875,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                         </div>
                 </div>
                 <p class="caption">
-                    ¿Querés saber más? Visitá <a class='black lowercase' href="https://archivo.trimarchidg.net/">TRIMARCHIDG.NET</a>
+                    ¿Querés saber más? Visitá <a class='black lowercase' href="https://archivo.trimarchidg.net/">ARCHIVO.TRIMARCHIDG.NET</a>
                 </p>
             </div>
 
