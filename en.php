@@ -64,7 +64,8 @@ src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
                 <a href="/" class="lang">ES</a>/<a class="lang current" href="/en">EN</a>
                 </span>
             </nav>
-            <a href="https://www.trimarchidfg.net/" target="_blank"><img class="tmdg"src="tmdg-logo.svg"/></a>
+            <!--a href="https://www.trimarchidfg.net/" target="_blank"><img class="tmdg"src="tmdg-logo.svg"/></a-->
+            <a><img class="tmdg"src="tmdg-logo.svg"/></a>
         </header>
     </div>
 
@@ -832,7 +833,7 @@ src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
                         </div>
                 </div>
                 <p class="caption">
-                Do you want to know more? Visit <a class='black lowercase' href="https://www.trimarchidg.net/">TRIMARCHIDG.NET</a>
+                Do you want to know more? Visit <!--a class='black lowercase' href="https://www.trimarchidg.net/">TRIMARCHIDG.NET</a-->
                 </p>
             </div>
 
