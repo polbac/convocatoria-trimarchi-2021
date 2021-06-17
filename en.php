@@ -423,7 +423,8 @@ src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
                         </h2>
                     </div>
                     <div class="right">
-                        <img src="cd.png" />
+                        <img src="cd-blank.png" class='cd-blank' />
+                        <img src="cd.png" class='cd-white' />
                     </div>
                 </div>
 

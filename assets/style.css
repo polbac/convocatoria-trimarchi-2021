@@ -394,6 +394,17 @@ span.subtitulo.mini{
     opacity: 0;
 }
 
+.check-categoria:hover .right .cd-blank,
+.check-categoria.active .right .cd-blank{
+    display: none;
+}
+
+.check-categoria:hover .right .cd-white,
+.check-categoria.active .right .cd-white{
+    display: block;
+}
+
+{}
 .check-categoria.active .right img,
 .check-categoria:hover .right img{
     opacity: 1;
@@ -1026,6 +1037,10 @@ aside .modal{
     opacity: .3;
     transition: opacity .2s;
     cursor: pointer;
+}
+
+.check-categoria-cd .right img.cd-white{
+    display: none;
 }
 
 
