@@ -67,7 +67,7 @@ src="https://www.facebook.com/tr?id=362049065335942&ev=PageView&noscript=1"
                 <a href="/" class="lang current">ES</a>/<a class="lang" href="/en.php">EN</a>
                 </span>
             </nav>
-            <a href="https://www.trimarchidg.net/" target="_blank"><img class="tmdg"src="tmdg-logo.svg"/></a>
+            <a href="https://archivo.trimarchidg.net/" target="_blank"><img class="tmdg"src="tmdg-logo.svg"/></a>
         </header>
     </div>
 
@@ -875,7 +875,7 @@ Si lo tuyo es el diseño gráfico, inscribite en esta categoría, mostranos lo q
                         </div>
                 </div>
                 <p class="caption">
-                    ¿Querés saber más? Visitá <a class='black lowercase' href="https://www.trimarchidg.net/">TRIMARCHIDG.NET</a>
+                    ¿Querés saber más? Visitá <a class='black lowercase' href="https://archivo.trimarchidg.net/">TRIMARCHIDG.NET</a>
                 </p>
             </div>
 
