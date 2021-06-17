@@ -11,7 +11,7 @@ $r_gif = (int)rand(1, 16);
 <link rel="stylesheet" href="assets/style.css">
 <link rel="stylesheet" href="assets/form.css">
 <link rel="icon" type="image/png" href="/favicon.png">
-
+<meta charset="UTF-8" />
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/css/glide.core.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/css/glide.theme.min.css">
